@@ -8,13 +8,17 @@ about:
   image-shape: round
   image-width: 17em
   links: 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/sinaazadnajafabad/
-    - text: X
+    - icon: square-x-twitter
+      text: X
       href: https://x.com/SinaAzadMD
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/sina-azad
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mialto::sina.azad.u@gmail.com
       
 ---
