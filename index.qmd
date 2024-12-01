@@ -1,11 +1,22 @@
 ---
-title: "sina-azad.github.io"
+title: "Sina Azadnajafabad, MD, MPH"
+editor: source
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sinaazadnajafabad/
+    - text: X
+      href: https://x.com/SinaAzadMD
+    - text: GitHub
+      href: https://github.com/sina-azad
+    - text: Email
+      href: mialto::sina.azad.u@gmail.com
+      
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi there! I'm Sina, a postdoctoral researcher specializing in epidemiology, public health, and clinical research, with a dedicated focus on cancer prevention, care, and surgical interventions. My work aims to integrate clinical practice with innovative epidemiology research to advance meaningful improvements in cancer prevention strategies and patient outcomes.
