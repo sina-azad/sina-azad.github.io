@@ -7,16 +7,43 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-  links: 
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/sinaazadnajafabad/
-    - text: X
-      href: https://x.com/SinaAzadMD
-    - text: GitHub
-      href: https://github.com/sina-azad
-    - text: Email
-      href: mialto::sina.azad.u@gmail.com
+  # links: 
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://www.linkedin.com/in/sinaazadnajafabad/
+  #   - icon: square-twitter
+  #     text: X
+  #     href: https://x.com/SinaAzadMD
+  #   - icon: google-scholar
+  #     text: Google Scholar
+  #     href: https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800
+  #   - icon: github
+  #     text: GitHub
+  #     href: https://github.com/sina-azad      
+  #   - text: PubMed
+  #     href: https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200
+  #   - icon: researchgate
+  #     text: ResearchGate
+  #     href: https://www.researchgate.net/profile/Sina-Azadnajafabad
+  #   - icon: orcid
+  #     text: ORCID
+  #     href: https://orcid.org/0000-0003-0105-3801
+  #   - text: Web of Science
+  #     href: https://www.webofscience.com/wos/author/record/ABC-5770-2020
+  #   - icon: envelope
+  #     text: Email
+  #     href: mialto::sina.azad.u@gmail.com       
       
 ---
 
+::: {#bio}
 Hi there! I'm Sina, a postdoctoral researcher specializing in epidemiology, public health, and clinical research, with a dedicated focus on cancer prevention, care, and surgical interventions. My work aims to integrate clinical practice with innovative epidemiology research to advance meaningful improvements in cancer prevention strategies and patient outcomes.
+
+::: {#landing-icons}
+[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/sinaazadnajafabad/) &nbsp; [{{< fa brands square-x-twitter title="square-x-twitter" >}}](https://x.com/SinaAzadMD) &nbsp; [{{< fa brands google-scholar title="google-scholar" >}}](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800) &nbsp; [{{< fa brands researchgate title="researchgate" >}}](https://www.researchgate.net/profile/Sina-Azadnajafabad) &nbsp; [{{< fa brands orcid title="orcid" >}}](https://orcid.org/0000-0003-0105-3801) &nbsp; [{{< fa brands github title="github" >}}](https://github.com/sina-azad) &nbsp; [{{< fa envelope title="envelope" >}}](mailto:sina.azad.u@gmail.com)
+
+
+
+
+
+

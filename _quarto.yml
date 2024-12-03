@@ -4,22 +4,43 @@ project:
 
 website:
   title: "Sina Azadnajafabad"
+  site-url: https://sina-azad.github.io/
+  favicon: media/Logo 1.png
   navbar:
-    left:
+    logo: media/Logo 1.png
+    logo-alt: "Alt text for logo"
+    
+    right: # navigation bar location: accepts right/left/center
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About me
       - href: projects.qmd
         text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations & Talks
+      - href: news.qmd
+        text: News        
+      - href: media/CV_Sina Azadnajafabad.pdf
+        text: CV
+        target: _blank # opens link in a new browser tab
+  page-footer: 
+    background: dark # or light
+    left: © 2024 Sina Azadnajafabad
+    right: This website is built with [Quarto](https://quarto.org/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/){target=_blank} {{< fa face-smile title="A smiling face" >}}
+
+
 
 format:
   html:
-    theme:
-      light: simplex      
-      dark: solar
-    css: styles.css
+    theme: 
+      - flatly
+      - mystyles.scss
+    mainfont: Nunito
     toc: true
     page-layout: full
 
-editor: visual
+editor: source
 
