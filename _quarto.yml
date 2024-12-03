@@ -23,14 +23,10 @@ website:
         text: Presentations & Talks
       - href: news.qmd
         text: News        
-      # - href: media/CV_Sina Azadnajafabad.pdf
-      #   text: CV
-      #   target: _blank # opens link in a new browser tab
       - href: mailto:sina.azad.u@gmail.com
         text: Contact Me
         
   page-footer: 
-    background: dark # or light
     left: © 2024 Sina Azadnajafabad
     right: This website is built with [Quarto](https://quarto.org/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/){target=_blank} {{< fa face-smile title="A smiling face" >}}
 
