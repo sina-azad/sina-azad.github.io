@@ -4,10 +4,205 @@ editor: source
 ---
 
 ## Indexed Peer Reviewed Publications
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200)
-* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219389837)
-* [Web of Science](https://www.webofscience.com/wos/author/record/ABC-5770-2020)
+* [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800)
+* [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200)
+* [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57219389837)
+* [**Web of Science**](https://www.webofscience.com/wos/author/record/ABC-5770-2020)
+
+
+### 2024
+* Ayati Firoozabadi M, Mafi AH, Afzal S, Beheshti Fard S, Khaledian H, Bozorgsavoji A, **Azadnajafabad S**, Mortazavi SMJ. [Does body mass index (BMI) significantly influence aseptic loosening in primary total knee arthroplasty? Insights from a long-term retrospective cohort study](https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-024-07913-0). *BMC Musculoskeletal Disorders.* 2024. DOI: 10.1186/s12891-024-07913-0
+
+* GBD 2021 HIV Collaborators. [Global, regional, and national burden of HIV/AIDS, 1990-2021, and forecasts to 2050, for 204 countries and territories: the Global Burden of Disease Study 2021](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(24)00212-1/fulltext). *The Lancet HIV.* 2024. DOI: 10.1016/S2352-3018(24)00212-1
+
+* GBD 2021 US Obesity Forecasting Collaborators. [National-level and state-level prevalence of overweight and obesity among children, adolescents, and adults in the USA, 1990-2021, and forecasts up to 2050](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01548-4/fulltext). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)01548-4
+
+* Arian A, Karimi N, Ahmadinejad N, **Azadnajafabad S**, Delazar S. [Refining MRI Protocols for Endometriosis: A Comparative Study of Abbreviated and Full MRI Sequences](https://academic.oup.com/bjr/advance-article/doi/10.1093/bjr/tqae230/7896160?login=false). *British Journal of Radiology.* 2024. DOI: 10.1093/bjr/tqae230
+
+* GBD 2021 Global Stillbirths Collaborators. [Global, regional, and national stillbirths at 20 weeks' gestation or longer in 204 countries and territories, 1990-2021: findings from the Global Burden of Disease Study 2021](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01925-1/fulltext). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)01925-1
+
+* Lamsehchi A, Shokouhi Solgi M, Sabzehei MK, Basiri B, Talebi Ghane E, Kimiayi Asadi K, **Azadnajafabad S**. [Short-term outcomes of oropharyngeal administration of colostrum in preterm neonates: a double-blind placebo-controlled randomized trial](https://www.e-cep.org/journal/view.php?doi=10.3345/cep.2024.00591). *Clinical and Experimental Pediatrics.* 2024. DOI: 10.3345/cep.2024.00591
+
+* Amouzadeh Omrani F, Afzal S, Baroutkoub M, Barati H, **Azadnajafabad S**, Keipour A. [Distant migration of a broken guide pin following femoral neck fixation: a case report](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-024-04868-7). *Journal of Medical Case Reports.* 2024. DOI: 10.1186/s13256-024-04868-7
+
+* Malekpour M-R, Rezaei N, **Azadnajafabad S**, Khanali J, Azangou-Khyavy M, Saeedi Moghaddam S, et al. [Global, regional, and national burden of injuries, and burden attributable to injuries risk factors, 1990 to 2019: results from the Global Burden of Disease study 2019](https://www.sciencedirect.com/science/article/pii/S003335062400252X?via%3Dihub). *Public Health.* 2024. DOI: 10.1016/j.puhe.2024.06.011
+
+* GBD 2021 Tobacco Forecasting Collaborators. [Forecasting the effects of smoking prevalence scenarios on years of life lost and life expectancy from 2022 to 2050: a systematic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S246826672400166X). *The Lancet Public Health.* 2024. DOI: 10.1016/S2468-2667(24)00166-X
+
+* GBD 2021 Stroke Risk Factor Collaborators. [Global, regional, and national burden of stroke and its risk factors, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(24)00369-7/fulltext). *The Lancet Neurology.* 2024. DOI: 10.1016/S1474-4422(24)00369-7
+
+* GBD 2021 Antimicrobial Resistance Collaborators. [Global burden of bacterial antimicrobial resistance 1990-2021: a systematic analysis with forecasts to 2050](https://www.sciencedirect.com/science/article/pii/S0140673624018671). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)01867-1
+
+* GBD 2021 Upper Respiratory Infections Otitis Media Collaborators. [Global, regional, and national burden of upper respiratory infections and otitis media, 1990-2021: a systematic analysis from the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S1473309924004304). *The Lancet Infectious Diseases.* 2024. DOI: 10.1016/S1473-3099(24)00430-4
+
+* Soleimani H, Tavakoli K, Nasrollahizadeh A, **Azadnajafabad S**, Mashayekhi M, Ebrahimi P, et al. [Estimating the burden of atrial fibrillation and atrial flutter with projection to 2050 in Iran](https://www.nature.com/articles/s41598-024-71296-4). *Scientific Reports.* 2024. DOI: 10.1038/s41598-024-71296-4
+
+* Hajebi A, Nasserinejad M, Rezaei N, **Azadnajafabad S**, Rashidi MM, Ahmadi N, et al. [Alcohol consumption among Iranian population based on the findings of STEPS survey 2021](https://www.nature.com/articles/s41598-024-66257-w). *Scientific Reports.* 2024. DOI: 10.1038/s41598-024-66257-w
+
+* GBD 2021 Appendicitis Collaborator Group. [Trends and levels of the global, regional, and national burden of appendicitis between 1990 and 2021: findings from the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S2468125324001572). *The Lancet Gastroenterology & Hepatology.* 2024. DOI: 10.1016/S2468-1253(24)00157-2
+
+* GBD 2019 MSK in Adolescents Collaborators. [Global pattern, trend, and cross-country inequality of early musculoskeletal disorders from 1990 to 2019, with projection from 2020 to 2050](https://www.sciencedirect.com/science/article/pii/S266663402400179X). *Med.* 2024. DOI: 10.1016/j.medj.2024.04.009
+
+* GBD 2021 Forecasting Collaborators. [Burden of disease scenarios for 204 countries and territories, 2022-2050: a forecasting analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S0140673624006858). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)00685-8
+
+* GBD 2021 Risk Factors Collaborators. [Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S0140673624009334). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)00933-4
+
+* GBD 2021 Diseases and Injuries Collaborators. [Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S0140673624007578). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)00757-8
+
+* GBD 2019 North Africa and the Middle East Neurology Collaborators. [The burden of neurological conditions in north Africa and the Middle East, 1990-2019: a systematic analysis of the Global Burden of Disease Study 2019](https://www.sciencedirect.com/science/article/pii/S2214109X24000937). *The Lancet Global Health.* 2024. DOI: 10.1016/S2214-109X(24)00093-7
+
+* GBD 2021 Causes of Death Collaborators. [Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S0140673624003672). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)00367-2
+
+* GBD 2021 Fertility and Forecasting Collaborators. [Global fertility in 204 countries and territories, 1950-2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S0140673624005506). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)00550-6
+
+* GBD 2021 Tuberculosis Collaborators. [Global, regional, and national age-specific progress towards the 2020 milestones of the WHO End TB Strategy: a systematic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S1473309924000070). *The Lancet Infectious Diseases.* 2024. DOI: 10.1016/S1473-3099(24)00007-0
+
+* GBD 2021 Nervous System Disorders Collaborators. [Global, regional, and national burden of disorders affecting the nervous system, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S1474442224000383). *The Lancet Neurology.* 2024. DOI: 10.1016/S1474-4422(24)00038-3
+
+* GBD 2021 Demographics Collaborators. [Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories and 811 subnational locations, 1950-2021, and the impact of the COVID-19 pandemic: a comprehensive demographic analysis for the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S0140673624004768?via%3Dihub). *The Lancet.* 2024. DOI: 10.1016/S0140-6736(24)00476-8
+
+* GBD 2021 Neck Pain Collaborators. [Global, regional, and national burden of neck pain, 1990-2020, and projections to 2050: a systematic analysis of the Global Burden of Disease Study 2021](https://www.sciencedirect.com/science/article/pii/S2665991323003211?via%3Dihub). *The Lancet Rheumatology.* 2024. DOI: 10.1016/S2665-9913(23)00321-1
+
+* Ilkhani S, Saeedi Moghaddam S, Sakhaei D, Rashidi M-M, **Azadnajafabad S**, Azangou-Khyavy M, et al. [Global, regional, and national survey on burden and quality of care index (QCI) of nasopharyngeal cancer: A systematic analysis of the Global Burden of disease study 1990–2019](https://www.sciencedirect.com/science/article/pii/S277290602400044X). *Oral Oncology Reports.* 2024. DOI: 10.1016/j.oor.2024.100198
+
+* Yazdi NA, Parviz S, Delazar S, **Azadnajafabad S**, Aleseidi S, Saffar H, Sadighi N. [A case report on pulmonary metastasis of giant cell tumor mimicking arteriovenous malformation](https://www.sciencedirect.com/science/article/pii/S1930043323008981?via%3Dihub). *Radiology Case Reports.* 2024. DOI: 10.1016/j.radcr.2023.11.075
+
+* Khadembashiri MM, Ghasemi E, Khadembashiri MA, **Azadnajafabad S**, Moghaddam SS, Eslami M, et al. [The global, regional, and national burden and quality of care index (QCI) of kidney cancer; a Global Burden of Disease systematic analysis 1990-2019](https://academic.oup.com/intqhc/advance-article-abstract/doi/10.1093/intqhc/mzad113/7512146?redirectedFrom=fulltext&login=true). *International Journal for Quality in Health Care.* 2024. DOI: 10.1093/intqhc/mzad113
+
+* Rashidi MM, Saeedi Moghaddam S, **Azadnajafabad S**, Mohammadi E, Khalaji A, Malekpour MR, et al. [Mortality and disability-adjusted life years in North Africa and Middle East attributed to kidney dysfunction: a systematic analysis for the Global Burden of Disease Study 2019](https://academic.oup.com/ckj/advance-article/doi/10.1093/ckj/sfad279/7425645). *Clinical Kidney Journal.* 2024. DOI: 10.1093/ckj/sfad279
+
+* Shoaee S, Ghasemi E, Sofi-Mahmudi A, Shamsoddin E, Tovani-Palone MR, Roshani S, Heydari MH, Yoosefi M, Masinaei M, **Azadnajafabad S**, Mohammadi E, et al. [Global, regional, and national burden and quality of care index (QCI) of oral disorders: a systematic analysis of the global burden of disease study 1990-2017](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-03808-z). *BMC Oral Health.* 2024. DOI: 10.1186/s12903-023-03808-z
+
+* GBD 2019 Asia and All Cancers Collaborators. [Temporal patterns of cancer burden in Asia, 1990–2019: a systematic examination for the Global Burden of Disease 2019 study](https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00193-2/fulltext). *The Lancet Regional Health – Southeast Asia.* 2024. DOI: 10.1016/j.lansea.2023.100333
+
+
+### 2023
+* Salehi MR, Ghaemi M, Masoumi S, **Azadnajafabad S**, Norooznezhad AH, Ghotbizadeh Vahdani F, et al. [Comparative Analysis of Corticosteroid Therapy in Pregnant Women with COVID-19: Evaluating Glycemic Control and Transient Hyperglycemia](https://brieflands.com/articles/fga-142142). *Fertility, Gynecology and Andrology.* 2023. DOI: 10.5812/fga-142142
+
+* Shahmohamadi E, Yousefi M, Mohammadi E, Ghanbari A, Shaker E, **Azadnajafabad S**, et al. [National and Provincial Prevalence of Cigarette Smoking in Iran; A Systematic Analysis of 12 Years of STEPS Experience](https://journalaim.com/Article/aim-26849). *Archives of Iranian Medicine.* 2023. DOI: 10.34172/aim.2023.72
+
+* Langroudi AP, Farzi Y, Masinaei M, Varniab ZS, Shahin S, Rashidi M-M, Moghaddam SS, Rahimi S, Khalili M, Keykhaei M, Ahmadi N, Kazemi A, Ghasemi E, **Azadnajafabad S**, Yoosefi M, et al. [Exploring metabolically healthy obesity: prevalence, characteristics, and cardiovascular risk in the Iranian population based on the STEPS 2021](https://link.springer.com/article/10.1007/s40200-023-01364-5). *Journal of Diabetes & Metabolic Disorders.* 2023. DOI: 10.1007/s40200-023-01364-5
+
+* Shokri Varniab Z, Saeedi Moghaddam S, Pourabhari Langroudi A, **Azadnajafabad S**, Mortazavi SS, Sheidaei A, et al. [The levels and trends of cancer incidence in the elderly population at national and sub-national scales in Iran from 1990 to 2016](https://onlinelibrary.wiley.com/doi/10.1002/cnr2.1937). *Cancer Reports.* 2023. DOI: 10.1002/cnr2.1937
+
+* GBD 2019 North Africa and the Middle East Drug-Use Disorders Collaborators. [Drug-use disorders in the Eastern Mediterranean Region: a glance at GBD 2019 findings](https://link.springer.com/article/10.1007/s00127-023-02587-w). *Social Psychiatry and Psychiatric Epidemiology.* 2023. DOI: 10.1007/s00127-023-02587-w
+
+* Shahmohamadi E, Ghasemi E, Mohammadi E, Nasserinejad M, **Azadnajafabad S**, Malekpour MR, et al. [Current incidence of injuries in Iran; findings of STEPS survey 2021](https://www.cell.com/heliyon/fulltext/S2405-8440(23)08115-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS240584402308115X%3Fshowall%3Dtrue). *Heliyon.* 2023. DOI: 10.1016/j.heliyon.2023.e20907
+
+* GBD Spinal Cord Injuries Collaborators. [Global, regional, and national burden of spinal cord injury, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(23)00287-9/fulltext). *The Lancet Neurology.* 2023. DOI: 10.1016/S1474-4422(23)00287-9
+
+* Iezadi S, Ebrahimi N, Ghamari SH, Esfahani Z, Rezaei N, Ghasemi E, Saeedi Moghaddam S, **Azadnajafabad S**, Abdi Z, et al. [Global and regional quality of care index (QCI) by gender and age in oesophageal cancer: A systematic analysis of the Global Burden of Disease Study 1990-2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292348). *PLOS One.* 2023. DOI: 10.1371/journal.pone.0292348
+
+* GBD 2021 Rheumatoid Arthritis Collaborators. [Global, regional, and national burden of rheumatoid arthritis, 1990-2020, and projections to 2050: a systematic analysis of the Global Burden of Disease Study 2021](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(23)00211-4/fulltext). *The Lancet Rheumatology.* 2023. DOI: 10.1016/S2665-9913(23)00211-4
+
+* Khanali J, Ghasemi E, Rashidi MM, Ahmadi N, Ghamari SH, Azangou-Khyavy M, Malekpour MR, Abbasi-Kangevari M, Hashemi SM, Naderian M, Rezaei N, Dilmaghani-Marand A, Farzi Y, Kazemi A, Yoosefi M, Hajebi A, Rezaei S, **Azadnajafabad S**, Fattahi N, et al. [Prevalence of plasma lipid abnormalities and associated risk factors among Iranian adults based on the findings from STEPs survey 2021](https://www.nature.com/articles/s41598-023-42341-5). *Scientific Reports.* 2023. DOI: 10.1038/s41598-023-42341-5
+
+* Maroufi SF, Shobeiri P, Mohammadi E, **Azadnajafabad S**, Malekpour MR, Ghasemi E, et al. [A Global, Regional, and National Survey on Burden and Quality of Care Index (QCI) of Multiple Sclerosis; Global Burden of Disease Systematic Analysis 1990-2019](https://karger.com/ned/article-abstract/57/6/400/863246/A-Global-Regional-and-National-Survey-on-Burden?redirectedFrom=fulltext). *Neuroepidemiology.* 2023. DOI: 10.1159/000533527
+
+* Maroufi SF, **Azadnajafabad S**, Kheiri G, Jazayeri SB, Ghodsi Z, Ghawami H, et al. [Adopting and Adapting Clinical Practice Guidelines for the Use of Baseline MRI in Acute Spinal Cord Injury in a Developing Country](https://brieflands.com/articles/ans-135297.html). *Archives of Neuroscience.* 2023. DOI: 10.5812/ans-135297
+
+* **Azadnajafabad S**, Ahmadi N, Rezaei N, Rashidi MM, Saeedi Moghaddam S, Mohammadi E, et al. [Evaluation of the diabetes care cascade and compliance with WHO global coverage targets in Iran based on STEPS survey 2021](https://www.nature.com/articles/s41598-023-39433-7). *Scientific Reports.* 2023. DOI: 10.1038/s41598-023-39433-7
+
+* GBD 2019 Lip, Oral, and Pharyngeal Cancer Collaborators. [The Global, Regional, and National Burden of Adult Lip, Oral, and Pharyngeal Cancer in 204 Countries and Territories: A Systematic Analysis for the Global Burden of Disease Study 2019](https://jamanetwork.com/journals/jamaoncology/fullarticle/2809272). *JAMA Oncology.* 2023. DOI: 10.1001/jamaoncol.2023.2960
+
+* Soleimani Z, Mosadeghrad AM, Alighardashi M, **Azadnajafabad S**, Safari M, Mokhtari Z, et al. [Knowledge, attitude, and practice of nurse aids and service staff about nosocomial infection control: A case study in Iran](http://ehemj.com/article-1-1167-en.html). *Environmental Health Engineering and Management Journal.* 2023. DOI: 10.34172/EHEM.2023.38
+
+* Rashidi MM, Saeedi Moghaddam S, **Azadnajafabad S**, Heidari-Foroozan M, Haddadi M, Tehrani YS, et al. [Burden and quality of care index of chronic kidney disease: Global Burden of Disease analysis for 1990-2019](https://academic.oup.com/ndt/advance-article-abstract/doi/10.1093/ndt/gfad172/7243409?redirectedFrom=fulltext&login=true). *Nephrology Dialysis Transplantation.* 2023. DOI: 10.1093/ndt/gfad172
+
+* GBD 2019 IMID Collaborators. [Global, regional, and national incidence of six major immune-mediated inflammatory diseases: findings from the global burden of disease study 2019](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00370-X/fulltext). *eClinicalMedicine.* 2023. DOI: 10.1016/j.eclinm.2023.102193
+
+* **Azadnajafabad S**, Saeedi Moghaddam S, Mohammadi E, Rezaei N, Rashidi M-M, Rezaei N, et al. [Burden of breast cancer and attributable risk factors in the North Africa and Middle East region, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1132816/full). *Frontiers in Oncology.* 2023. DOI: 10.3389/fonc.2023.1132816
+
+* GBD 2021 Anaemia Collaborators. [Prevalence, years lived with disability, and trends in anaemia burden by severity and cause, 1990-2021: findings from the Global Burden of Disease Study 2021](https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00160-6/fulltext). *The Lancet Haematology.* 2023. DOI: 10.1016/S2352-3026(23)00160-6
+
+* GBD 2019 Meningitis Antimicrobial Resistance Collaborators. [Global, regional, and national burden of meningitis and its aetiologies, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(23)00195-3/fulltext). *The Lancet Neurology.* 2023. DOI: 10.1016/S1474-4422(23)00195-3
+
+* GBD 2019 Allergic Disorders Collaborators. [Global, regional, and national burden of allergic disorders and their risk factors in 204 countries and territories, from 1990 to 2019: A systematic analysis for the Global Burden of Disease Study 2019](https://onlinelibrary.wiley.com/doi/10.1111/all.15807). *Allergy.* 2023. DOI: 10.1111/all.15807
+
+* Abbasi-Kangevari M, Ghanbari A, Malekpour MR, Ghamari SH, **Azadnajafabad S**, Saeedi Moghaddam S, et al. [Exploring the clinical benefit of ventilation therapy across various patient groups with COVID-19 using real-world data](https://www.nature.com/articles/s41598-023-37912-5). *Scientific Reports.* 2023. DOI: 10.1038/s41598-023-37912-5
+
+* Fattahi N, Ghanbari A, Djalalinia S, Rezaei N, Mohammadi E, **Azadnajafabad S**, et al. [Global, Regional, and National Quality of Care Index (QCI) of Gastric Cancer: A Systematic Analysis for the Global Burden of Disease Study 1990-2017](https://link.springer.com/article/10.1007/s12029-023-00950-3). *Journal of Gastrointestinal Cancer.* 2023. DOI: 10.1007/s12029-023-00950-3
+
+* GBD 2021 Diabetes Collaborators. [Global, regional, and national burden of diabetes from 1990 to 2021, with projections of prevalence to 2050: a systematic analysis for the Global Burden of Disease Study 2021](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01301-6/fulltext). *The Lancet.* 2023. DOI: 10.1016/S0140-6736(23)01301-6
+
+* GBD 2019 Iran Breast Cancer Collaborators. [National and subnational burden of female and male breast cancer and risk factors in Iran from 1990 to 2019: results from the Global Burden of Disease study 2019](https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-023-01633-4). *Breast Cancer Research.* 2023. DOI: 10.1186/s13058-023-01633-4
+
+* Tayebi H, **Azadnajafabad S**, Maroufi SF, Pour-Rashidi A, Khorasanizadeh M, Faramarzi S, et al. [Applications of brain-computer interfaces in neurodegenerative diseases](https://link.springer.com/article/10.1007/s10143-023-02038-9). *Neurosurgical Review.* 2023. DOI: 10.1007/s10143-023-02038-9
+
+* GBD 2019 North Africa and the Middle East MRF Collaborators. [The burden of metabolic risk factors in North Africa and the Middle East, 1990-2019: findings from the Global Burden of Disease Study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00199-2/fulltext). *eClinicalMedicine.* 2023. DOI: 10.1016/j.eclinm.2023.102022
+
+* Moradi S, Parsaei A, Saeedi Moghaddam S, Aryannejad A, **Azadnajafabad S**, Rezaei N, et al. [Metabolic risk factors attributed burden in Iran at national and subnational levels, 1990 to 2019](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1149719/full). *Frontiers in Public Health.* 2023. DOI: 10.3389/fpubh.2023.1149719
+
+* GBD 2021 Low Back Pain Collaborators. [Global, regional, and national burden of low back pain, 1990-2020, its attributable risk factors, and projections to 2050: a systematic analysis of the Global Burden of Disease Study 2021](). *The Lancet Rheumatology.* 2023. DOI: 10.1016/S2665-9913(23)00098-X
+
+* Mohammadi E, Yoosefi M, Shaker E, Shahmohamadi E, Ghasemi E, Ahmadi N, **Azadnajafabad S**, et al. [Inequalities in prevalence of hypertension, prehypertension, anti-hypertensive coverage, awareness, and effective treatment in 429 districts of Iran; a population-based STEPS 2016 small area spatial estimation model](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(23)00098-X/fulltext). *Journal of Diabetes & Metabolic Disorders.* 2023. DOI: 10.1007/s40200-023-01186-5
+
+* Rashidi MM, Saeedi Moghaddam S, **Azadnajafabad S**, Heidari-Foroozan M, Hashemi SM, Mohammadi E, et al. [Low bone mineral density, a neglected condition in North Africa and Middle East: estimates from the Global Burden of Disease Study, 1990-2019](https://link.springer.com/article/10.1007/s00198-023-06778-8). *Osteoporosis International.* 2023. DOI: 10.1007/s00198-023-06778-8
+
+* Hajebi A, Nasserinejad M, **Azadnajafabad S**, Ghasemi E, Rezaei N, Yoosefi M, et al. [Physical Inactivity, Inequalities, and Disparities Across Districts of Iran: A STEPs Survey-Based Analysis](https://journals.humankinetics.com/view/journals/jpah/20/8/article-p735.xml). *Journal of Physical Activity and Health.* 2023. DOI: 10.1123/jpah.2022-0113
+
+* GBD 2019 North Africa and the Middle East Air Pollution Collaborators. [Effect of air pollution on disease burden, mortality, and life expectancy in North Africa and the Middle East: a systematic analysis for the Global Burden of Disease Study 2019](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00053-0/fulltext). *The Lancet Planetary Health.* 2023. DOI: 10.1016/S2542-5196(23)00053-0
+
+* GBD 2019 Chronic Respiratory Diseases Collaborators. [Global burden of chronic respiratory diseases and risk factors, 1990–2019: an update from the Global Burden of Disease Study 2019](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00113-X/fulltext). *eClinicalMedicine.* 2023. DOI: 10.1016/j.eclinm.2023.101936
+
+* **Azadnajafabad S**, Saeedi Moghaddam S, Mohammadi E, Delazar S, Rashedi S, Baradaran HR, et al. [Patterns of better breast cancer care in countries with higher human development index and healthcare expenditure: Insights from GLOBOCAN 2020](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1137286/full). *Frontiers in Public Health.* 2023. DOI: 10.3389/fpubh.2023.1137286
+
+* GBD Fatty Liver Disease-SDG Collaborators. [The global Fatty Liver Disease-Sustainable Development Goal country score for 195 countries and territories](https://journals.lww.com/hep/Abstract/9900/The_global_Fatty_Liver_Disease_Sustainable.395.aspx). *Hepatology.* 2023. DOI: 10.1097/HEP.0000000000000361
+
+* Maroufi SF, **Azadnajafabad S**, Pour-Rashidi A, Jazayeri SB, Ghodsi Z, Ghawami H, et al. [Adopting and adapting clinical practice guidelines for timing of decompressive surgery in acute spinal cord injury from a developed world context to a developing region](https://link.springer.com/article/10.1007/s00701-023-05591-w). *Acta Neurochirurgica.* 2023. DOI: 10.1007/s00701-023-05591-w
+
+* Koolaji S, Sharifnejad Tehrani Y, **Azadnajafabad S**, Saeedi Moghaddam S, Shahin S, Ghamari A, et al. [A 30-year trend of ischemic heart disease burden in a developing country; a systematic analysis of the global burden of disease study 2019 in Iran](https://www.internationaljournalofcardiology.com/article/S0167-5273(23)00339-X/fulltext). *International Journal of Cardiology.* 2023. DOI: 10.1016/j.ijcard.2023.03.012
+
+* GBD 2019 Iran Kidney Dysfunction Collaborators. [Trends of national and sub-national burden attributed to kidney dysfunction risk factor in Iran: 1990-2019](https://www.frontiersin.org/articles/10.3389/fendo.2023.1115833/full). *Frontiers in Endocrinology.* 2023. DOI: 10.3389/fendo.2023.1115833
+
+* Karimi A, Saeedi Moghaddam S, **Azadnajafabad S**, Esfahani Z, Sharifnejad Tehrani Y, Abbasi-Kangevari M, et al. [The burden of childhood and adolescent cancers in North Africa and the Middle East (NAME) region: findings from the Global Burden of Disease study 2019](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-023-03931-4). *BMC Pediatrics.* 2023. DOI: 10.1186/s12887-023-03931-4
+
+* Fallahi MS, **Azadnajafabad S**, Maroufi SF, Pour-Rashidi A, Khorasanizadeh M, Sattari SA, et al. [Application of Vagus Nerve Stimulation in Spinal Cord Injury Rehabilitation](https://www.sciencedirect.com/science/article/abs/pii/S1878875023002504?via%3Dihub). *World Neurosurgery.* 2023. DOI: 10.1016/j.wneu.2023.02.101
+
+
+### 2022
+
+
+
+
+
+
+
+
+
+### 2021
+
+
+
+
+
+
+
+
+
+
+
+### 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

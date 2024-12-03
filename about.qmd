@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 subtitle: "know more about me and my interests"
 editor: source
 ---
