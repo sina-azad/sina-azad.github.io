@@ -23,9 +23,12 @@ website:
         text: Presentations & Talks
       - href: news.qmd
         text: News        
-      - href: media/CV_Sina Azadnajafabad.pdf
-        text: CV
-        target: _blank # opens link in a new browser tab
+      # - href: media/CV_Sina Azadnajafabad.pdf
+      #   text: CV
+      #   target: _blank # opens link in a new browser tab
+      - href: mailto:sina.azad.u@gmail.com
+        text: Contact Me
+        
   page-footer: 
     background: dark # or light
     left: © 2024 Sina Azadnajafabad
