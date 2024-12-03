@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a dedicated medical doctor and researcher driven by a profound passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and meaningful contributions to improve public health and patient outcomes."
   },
   {
     "objectID": "DELETE-LATER/practice-markdown.html",
@@ -19,5 +19,61 @@
     "title": "Here is my level one header",
     "section": "",
     "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\nI hold a Doctor of Medicine (MD) degree from Tehran University of Medical Sciences, where I conducted a thesis on the epidemiology of benign vocal fold lesions. Complementing my clinical training, I earned a Master of Public Health (MPH) from Iran University of Medical Sciences, focusing on the global assessment of breast cancer epidemiology and quality of care."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About me",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nCurrently, I serve as a Postdoctoral Research Associate in Cao Lab, Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis (WashU), collaborating on cutting-edge projects in cancer epidemiology and surgery. I also contribute to the academic community as a Teaching Assistant in Intermediate Epidemiology Course as a part of the Master of Population Health Sciences program, guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.\nPreviously, I have worked as a Research Data Analyst in Leeds Institute of Rheumatic and Musculoskeletal Medicine at University of Leeds, where I specialized in data analysis of clinical cohort datasets and biomarker research, and as a Research Fellow at the Non-Communicable Diseases Research Center in Tehran, leading numerous projects on clinical research, Global Burden of Disease, and public health."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About me",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests lie at the intersection of clinical and molecular epidemiology, with a focus on cancer prevention, healthcare quality, and outcomes research. I am particularly dedicated to studying gastrointestinal cancers, leveraging large datasets and real-world evidence to address pressing questions in cancer epidemiology."
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About me",
+    "section": "Achievements",
+    "text": "Achievements\n\nRanked 1st in the MPH entrance exam and recipient of multiple awards for academic excellence.\nCollaborator in the Global Burden of Disease Study, contributing to high-impact publications in prestigious journals.\nEditorial and peer-review experience in leading journals, including PLOS One and Nature’s Scientific Reports."
+  },
+  {
+    "objectID": "about.html#connect-with-me",
+    "href": "about.html#connect-with-me",
+    "title": "About me",
+    "section": "Connect with Me",
+    "text": "Connect with Me\nFeel free to reach out via any social media linked on the home page or email me. I am always open to collaborations and discussions that push the boundaries of knowledge and impact public health."
+  },
+  {
+    "objectID": "about.html#beyond-research",
+    "href": "about.html#beyond-research",
+    "title": "About me",
+    "section": "Beyond Research",
+    "text": "Beyond Research\nIn addition to my academic pursuits, I am deeply committed to community health. As a volunteer health educator, I have actively participated in programs to reduce cancer disparities and promote preventive health behaviors.\nWhen not in the lab or classroom, I enjoy hiking, swimming, biking, and exploring new cuisines through cooking."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar\nPubMed\nWeb of Science"
+  },
+  {
+    "objectID": "publications.html#indexed-peer-reviewed-publications",
+    "href": "publications.html#indexed-peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar\nPubMed\nWeb of Science"
   }
 ]
