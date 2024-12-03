@@ -1,9 +1,32 @@
 ---
-title: "About"
+title: "About me"
+subtitle: "know more about me and my interests"
+editor: source
 ---
 
-About this site
+I am a dedicated medical doctor and researcher driven by a profound passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and meaningful contributions to improve public health and patient outcomes.
 
-```{r}
-1 + 1
-```
+## Education
+I hold a Doctor of Medicine (MD) degree from Tehran University of Medical Sciences, where I conducted a thesis on the epidemiology of benign vocal fold lesions. Complementing my clinical training, I earned a Master of Public Health (MPH) from Iran University of Medical Sciences, focusing on the [global assessment of breast cancer epidemiology and quality of care](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1137286/full).
+
+## Professional Experience
+Currently, I serve as a Postdoctoral Research Associate in [Cao Lab](https://caolab.wustl.edu/), Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis ([WashU](https://washu.edu/)), collaborating on cutting-edge projects in cancer epidemiology and surgery. I also contribute to the academic community as a Teaching Assistant in Intermediate Epidemiology Course as a part of the [Master of Population Health Sciences program](https://mphs.wustl.edu/), guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.
+
+Previously, I have worked as a Research Data Analyst in Leeds Institute of Rheumatic and Musculoskeletal Medicine at University of Leeds, where I specialized in data analysis of clinical cohort datasets and biomarker research, and as a Research Fellow at the Non-Communicable Diseases Research Center in Tehran, leading numerous projects on clinical research, Global Burden of Disease, and public health.
+
+## Research Interests
+My research interests lie at the intersection of clinical and molecular epidemiology, with a focus on cancer prevention, healthcare quality, and outcomes research. I am particularly dedicated to studying gastrointestinal cancers, leveraging large datasets and real-world evidence to address pressing questions in cancer epidemiology.
+
+## Achievements
+* Ranked 1st in the MPH entrance exam and recipient of multiple awards for academic excellence.
+* Collaborator in the Global Burden of Disease Study, contributing to high-impact publications in prestigious journals.
+* Editorial and peer-review experience in leading journals, including PLOS One and Nature’s Scientific Reports.
+
+## Beyond Research
+In addition to my academic pursuits, I am deeply committed to community health. As a volunteer health educator, I have actively participated in programs to reduce cancer disparities and promote preventive health behaviors.
+
+When not in the lab or classroom, I enjoy hiking, swimming, biking, and exploring new cuisines through cooking.
+
+## Connect with Me
+Feel free to reach out via any social media linked on the home page or email me. I am always open to collaborations and discussions that push the boundaries of knowledge and impact public health.
+

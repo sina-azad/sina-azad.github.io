@@ -7,7 +7,7 @@
 
 // Fonts
 $sen: "Sen", sans-serif;
-
+$nunito: 'Nunito', sans-serif;
 
 // Colors
 $dark-green: #858E79;
@@ -16,15 +16,25 @@ $cream: #FDFBF7;
 $gray: #64605f;
 $purple: #9158A2;
 $orange: #ad7237;
+$navy: #000080;
+$teal: #008080;
+$black: #000000;
+$white: #FFFFFF;
+$light-gray: #f2f4f4;
+
+
+// Font size 
+$my-font-size: 25px;
+
 
 // Base document colors
-$navbar-bg: $cream; // navbar
+$navbar-bg: $light-gray; // navbar
 $navbar-fg: $dark-green; // navbar foreground elements
-$navbar-hl: $purple; // highlight color when hovering over navbar links
-$body-bg: $light-green; // page background 
+$navbar-hl: $navy; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
 $body-color: $gray; // page text 
-$footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$footer-bg: $light-gray; // footer 
+$link-color: $navy; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
@@ -34,17 +44,17 @@ $code-color: $purple; // inline code text color
 /*-- scss:rules --*/
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $sen;
+  font-family: $nunito;
 }
 
 
-h1, h2 {
+/*h1, h2 {
   letter-spacing: 5px;
   font-weight: 800; // Google fonts tells you which weights your chosen font family allows for!
-}
+}*/
 
 .title {
-  color: maroon;
+  color: $black;
 }
 
 .center-text {
@@ -55,8 +65,21 @@ h1, h2 {
   color: $orange;
 }
 
+
+// change logo size
 .navbar-brand img { 
   max-height: 40px;
   width: auto;
 }
 
+
+// landing page icon size
+#landing-icons {
+  font-size: 1.6em;
+}
+
+
+// button icon size (landing page)
+.bi { 
+  font-size: 22px;
+}
