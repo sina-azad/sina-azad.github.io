@@ -14,11 +14,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me
-      - href: projects.qmd
-        text: Projects
+        text: About
       - href: publications.qmd
         text: Publications
+      - href: projects.qmd
+        text: Projects
       - href: presentations.qmd
         text: Presentations & Talks
       - href: news.qmd
@@ -40,6 +40,8 @@ format:
     mainfont: Nunito
     toc: true
     page-layout: full
+    include-after-body: 
+      - altmetric-script.html # Include the Altmetric JavaScript Globally
 
 editor: source
 

@@ -83,3 +83,45 @@ h1, h2, h3, h4, h5, h6 {
 .bi { 
   font-size: 22px;
 }
+
+
+// Altmetrics and Dimensions styling
+.altmetric-publication {
+  display: flex;
+  align-items: flex-start; // Align text and badges at the top
+  margin-bottom: 1em;
+
+  p {
+    margin: 10px; // Add spacing between the text and badges
+  }
+
+  .badges-container {
+    display: flex;
+    justify-content: flex-start; // Align badges to the start of the container
+    align-items: center; // Ensure badges are vertically aligned
+    gap: 10px; // Add horizontal space between badges
+    width: auto; // Remove extra width that spreads badges apart
+  }
+
+  .__dimensions_badge_embed__ {
+    flex-shrink: 0; // Prevent shrinking
+    width: 50px; // Consistent size for Dimensions badge
+    height: 50px; // Consistent size for Dimensions badge
+  }
+
+  .altmetric-embed {
+    flex-shrink: 0; // Prevent shrinking
+    width: 50px; // Consistent size for Altmetrics badge
+    height: 50px; // Consistent size for Altmetrics badge
+  }
+}
+
+
+
+
+
+
+
+
+
+
