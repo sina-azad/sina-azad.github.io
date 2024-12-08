@@ -6,6 +6,9 @@ website:
   title: "Sina Azadnajafabad"
   site-url: https://sina-azad.github.io/
   favicon: media/Logo 1.png
+  google-analytics: 
+    tracking-id: "G-5W8GMD5CSV"
+    anonymize-ip: true
   navbar:
     logo: media/Logo 1.png
     logo-alt: "Alt text for logo"
