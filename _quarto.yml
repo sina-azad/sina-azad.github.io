@@ -8,7 +8,7 @@ website:
   favicon: media/Logo 1.png
   google-analytics: 
     tracking-id: "G-5W8GMD5CSV"
-    anonymize-ip: false
+    anonymize-ip: true
   navbar:
     logo: media/Logo 1.png
     logo-alt: "My initials has made this logo, SA"
