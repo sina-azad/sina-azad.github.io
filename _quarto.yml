@@ -11,7 +11,7 @@ website:
     anonymize-ip: false
   navbar:
     logo: media/Logo 1.png
-    logo-alt: "Alt text for logo"
+    logo-alt: "My initials has made this logo, SA"
     
     right: # navigation bar location: accepts right/left/center
       - href: index.qmd
@@ -23,7 +23,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: presentations.qmd
-        text: Presentations & Talks
+        text: Presentations
       - href: news.qmd
         text: News        
       - href: mailto:sina.azad.u@gmail.com
