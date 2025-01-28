@@ -22,16 +22,16 @@ website:
         text: Publications
       - href: projects.qmd
         text: Projects
-      - href: presentations.qmd
-        text: Presentations
+      # - href: presentations.qmd
+      #   text: Presentations
       - href: news.qmd
         text: News        
       - href: mailto:sina.azad.u@gmail.com
-        text: Contact Me
+        text: Contact me
         
   page-footer: 
-    left: © 2024 Sina Azadnajafabad
-    right: This website is built with [Quarto](https://quarto.org/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/){target=_blank} {{< fa face-smile title="A smiling face" >}}
+    left: © 2025 Sina Azadnajafabad
+    right: This website is built with [Quarto](https://quarto.org/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/){target=_blank}
 
 
 
