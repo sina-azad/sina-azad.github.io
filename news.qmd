@@ -6,7 +6,7 @@ editor: source
 ## 2025
 * January 6: Excited to share that our abstract has been accepted for presentation at the **American Association for Cancer Research (AACR) Annual Meeting 2025**, taking place in Chicago, from April 25–30.
 
-[![](./media/aacr.jfif){width=80% fig-align="center"}](https://www.aacr.org/meeting/aacr-annual-meeting-2025/)
+[![](https://raw.githubusercontent.com/sina-azad/sina-azad.github.io/refs/heads/main/media/aacr.jfif){width=80% fig-align="center"}](https://www.aacr.org/meeting/aacr-annual-meeting-2025/)
 
 ## 2024
 * November 18: Honored to be a guest speaker at the *Cells to Society Club* at the WashU Brown School, discussing the **Rising Incidence of Colorectal Cancer in Younger Adults**.
