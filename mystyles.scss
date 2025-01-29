@@ -24,12 +24,13 @@ $light-gray: #f2f4f4;
 
 
 // Font size 
-$my-font-size: 25px;
+$my-font-size: 30px; // Default font size
+$body-font-size: 18px; // Adjust base body font size here
 
 
 // Base document colors
 $navbar-bg: $light-gray; // navbar
-$navbar-fg: $dark-green; // navbar foreground elements
+$navbar-fg: $black; // navbar foreground elements
 $navbar-hl: $navy; // highlight color when hovering over navbar links
 $body-bg: $white; // page background 
 $body-color: $gray; // page text 
@@ -41,7 +42,16 @@ $code-bg: $cream; // inline code background color
 $code-color: $purple; // inline code text color
 
 
+
 /*-- scss:rules --*/
+
+body {
+  font-family: $nunito;
+  font-size: $body-font-size; // Apply the updated font size here
+  color: $body-color;
+  background-color: $body-bg;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $nunito;
@@ -54,15 +64,35 @@ h1, h2, h3, h4, h5, h6 {
 }*/
 
 .title {
+  font-size: $my-font-size;
   color: $black;
 }
+
+
+// Home page buttons
+.button {
+  color: $navy;
+  border: 2px solid $navy;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 25px; 
+  margin-left: 25px;
+}
+
 
 .center-text {
   text-align: center;
 }
 
-.orange-text {
-  color: $orange;
+
+// landing page text size
+#bio {
+  font-size: $body-font-size;
 }
 
 
@@ -78,11 +108,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.6em;
 }
 
-
-// button icon size (landing page)
-.bi { 
-  font-size: 22px;
-}
 
 
 // Altmetrics and Dimensions styling
@@ -117,8 +142,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-
+/*
+.navbar a i, .navbar a img {
+  width: 30px;
+  height: 30px;
+  margin-right: 2px;
+  vertical-align: middle;
+}
+*/
 
 
 

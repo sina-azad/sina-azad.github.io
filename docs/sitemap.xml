@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sina-azad.github.io/index.html</loc>
-    <lastmod>2024-12-08T10:47:57.000Z</lastmod>
+    <lastmod>2025-01-29T01:48:27.974Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/about.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://sina-azad.github.io/publications.html</loc>
-    <lastmod>2024-12-09T03:04:01.000Z</lastmod>
+    <lastmod>2025-01-28T23:50:53.787Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/projects.html</loc>
@@ -74,15 +74,15 @@
   </url>
   <url>
     <loc>https://sina-azad.github.io/publist_selected.html</loc>
-    <lastmod>2025-01-28T17:58:23.981Z</lastmod>
+    <lastmod>2025-01-28T23:50:58.881Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/publist_2023.html</loc>
-    <lastmod>2025-01-28T17:58:24.533Z</lastmod>
+    <lastmod>2025-01-28T23:50:59.247Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/publist_2021.html</loc>
-    <lastmod>2025-01-28T17:58:24.604Z</lastmod>
+    <lastmod>2025-01-28T23:50:59.292Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/docs/test_2024.html</loc>
@@ -90,15 +90,15 @@
   </url>
   <url>
     <loc>https://sina-azad.github.io/publist_2020.html</loc>
-    <lastmod>2025-01-28T17:58:24.682Z</lastmod>
+    <lastmod>2025-01-28T23:50:59.344Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/publist_2022.html</loc>
-    <lastmod>2025-01-28T17:58:24.573Z</lastmod>
+    <lastmod>2025-01-28T23:50:59.268Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/publist_2024.html</loc>
-    <lastmod>2025-01-28T17:58:24.486Z</lastmod>
+    <lastmod>2025-01-28T23:50:59.213Z</lastmod>
   </url>
   <url>
     <loc>https://sina-azad.github.io/publications_old version.html</loc>
@@ -107,5 +107,9 @@
   <url>
     <loc>https://sina-azad.github.io/word cloud - test.html</loc>
     <lastmod>2024-12-09T02:57:36.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sina-azad.github.io/0_archive/publications_old version.html</loc>
+    <lastmod>2024-12-04T00:26:49.000Z</lastmod>
   </url>
 </urlset>

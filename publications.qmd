@@ -5,7 +5,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Indexed Peer Reviewed Publications
+## Indexed Publications
 * [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800)
 * [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200)
 * [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57219389837)
@@ -18,7 +18,6 @@ editor_options:
 
 # run this code before rendering qmd
 source("pubs_extractor_generator.R")
-
 ```
 
 ## Selected Publications
@@ -33,7 +32,6 @@ source("pubs_extractor_generator.R")
 #| warning: false
 
 source("wordcloud_script.R")
-
 ```
 
 

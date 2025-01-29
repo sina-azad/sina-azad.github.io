@@ -4,43 +4,57 @@ editor: source
 image: media/headshot.jpg
 toc: false
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
-  image-width: 17em
-  # links: 
-  #   - icon: linkedin
-  #     text: LinkedIn
-  #     href: https://www.linkedin.com/in/sinaazadnajafabad/
-  #   - icon: square-twitter
-  #     text: X
-  #     href: https://x.com/SinaAzadMD
-  #   - icon: google-scholar
-  #     text: Google Scholar
-  #     href: https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800
-  #   - icon: github
-  #     text: GitHub
-  #     href: https://github.com/sina-azad      
-  #   - text: PubMed
-  #     href: https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200
-  #   - icon: researchgate
-  #     text: ResearchGate
-  #     href: https://www.researchgate.net/profile/Sina-Azadnajafabad
-  #   - icon: orcid
-  #     text: ORCID
-  #     href: https://orcid.org/0000-0003-0105-3801
-  #   - text: Web of Science
-  #     href: https://www.webofscience.com/wos/author/record/ABC-5770-2020
-  #   - icon: envelope
-  #     text: Email
-  #     href: mialto::sina.azad.u@gmail.com       
-      
+  image-width: 20em
+  links:
+    - text: "<i class='fa-brands fa-linkedin'></i> Linkedin" 
+      href: https://www.linkedin.com/in/sinaazadnajafabad/
+      target: _blank
+
+    - text: "<i class='fa-brands fa-google-scholar'></i> Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800
+      target: _blank
+    - text: "<i class='fa-brands fa-github'></i> GitHub"
+      href: https://github.com/sina-azad
+      target: _blank
+    - text: "<i class='fa-brands fa-x-twitter'></i>"
+      href: https://x.com/SinaAzadMD
+      target: _blank
 ---
 
 ::: {#bio}
-Hi there! I'm Sina, a postdoctoral researcher specializing in epidemiology, public health, and clinical research, with a dedicated focus on cancer prevention, care, and surgical interventions. My work aims to integrate clinical practice with innovative epidemiology research to advance meaningful improvements in cancer prevention strategies and patient outcomes.
 
-::: {#landing-icons}
-[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/sinaazadnajafabad/){target="_blank"} &nbsp; [{{< fa brands square-x-twitter title="square-x-twitter" >}}](https://x.com/SinaAzadMD){target="_blank"} &nbsp; [{{< iconify simple-icons bluesky >}}](https://bsky.app/profile/sinaazadmd.bsky.social){target="_blank"} &nbsp; [{{< fa brands google-scholar title="google-scholar" >}}](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800){target="_blank"} &nbsp; [{{< fa brands researchgate title="researchgate" >}}](https://www.researchgate.net/profile/Sina-Azadnajafabad){target="_blank"} &nbsp; [{{< fa brands orcid title="orcid" >}}](https://orcid.org/0000-0003-0105-3801){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/sina-azad){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:sina.azad.u@gmail.com)
+## Welcome!
+Hi there! I'm Sina, a postdoctoral researcher specializing in cancer epidemiology, prevention, and surgical interventions. My work integrates innovative epidemiologic anc clinical research to improve cancer prevention strategies and surgical outcomes.
+
+## Education
+**Master of Public Health (MPH)** <br>
+Iran University of Medical Sciences | 2023
+
+**Doctor of Medicine (MD)** <br>
+Tehran University of Medical Sciences | 2020
+
+## Current Position
+**Postdoctoral Research Associate** <br>
+Department of Surgery, Washington University in St. Louis, MO
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ::: {#landing-icons} -->
+<!-- [{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/sinaazadnajafabad/){target="_blank"} &nbsp; [{{< fa brands square-x-twitter title="square-x-twitter" >}}](https://x.com/SinaAzadMD){target="_blank"} &nbsp; [{{< iconify simple-icons bluesky >}}](https://bsky.app/profile/sinaazadmd.bsky.social){target="_blank"} &nbsp; [{{< fa brands google-scholar title="google-scholar" >}}](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800){target="_blank"} &nbsp; [{{< fa brands researchgate title="researchgate" >}}](https://www.researchgate.net/profile/Sina-Azadnajafabad){target="_blank"} &nbsp; [{{< fa brands orcid title="orcid" >}}](https://orcid.org/0000-0003-0105-3801){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/sina-azad){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:sina.azad.u@gmail.com) -->
 
 
 
