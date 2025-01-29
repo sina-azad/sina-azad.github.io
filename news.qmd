@@ -3,4 +3,36 @@ title: "News"
 editor: source
 ---
 
-Content coming soon. Stay tuned!
+## 2025
+* January 6: Excited to share that our abstract has been accepted for presentation at the **American Association for Cancer Research (AACR) Annual Meeting 2025**, taking place in Chicago, from April 25–30.
+
+[![](media/aacr.jfif){width=80% fig-align="center"}](https://www.aacr.org/meeting/aacr-annual-meeting-2025/)
+
+## 2024
+* November 18: Honored to be a guest speaker at the *Cells to Society Club* at the WashU Brown School, discussing the **Rising Incidence of Colorectal Cancer in Younger Adults**.
+
+::: {layout-ncol=2 .equal-images .tight-images}
+
+[![](media/Flyer-C2S.jpg){width=100% fig-align="center"}](https://www.linkedin.com/posts/cellstosocietywashu_cells-to-society-washu-is-excited-to-meet-activity-7264318188216070145-vhyZ/?utm_source=social_share_send&utm_medium=member_desktop_web)
+
+[![](media/C2S_cropped.JPG){width=100% fig-align="center"}](https://www.instagram.com/p/DD-ZC_Cv-Yz/?utm_source=ig_web_copy_link)
+
+:::
+
+<br>
+
+* November 13: Excited to present my developing project on **Generational Shifts in Cancer Risk** at the *Work in Progress Series* in the Division of Public Health Sciences. 
+
+![](media/WIP.jpeg){width=80% fig-align="center"}
+
+<br>
+
+* October - December: Excited to teach R programming labs for statistical analysis of complex survey data as a **Teaching Assistant** during the Intermediate Epidemiology Course led by Dr. Cao, as a part of the *Master of Population Health Sciences (MPHS) Program*.
+
+![](media/TA.jpg){width=80% fig-align="center"}
+
+<br>
+
+* August: Thrilled to join the **Cao Lab** in the Division of Public Health Sciences, Department of Surgery, WashU as a Postdoctoral Research Associate!
+
+[![](media/lab photo siteman.jpg){width=80% fig-align="center"}](https://caolab.wustl.edu/)

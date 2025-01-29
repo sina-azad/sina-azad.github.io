@@ -152,6 +152,31 @@ h1, h2, h3, h4, h5, h6 {
 */
 
 
+// multiple iamges aligning
+.equal-images img {
+  height: 400px;  /* Makes both images the same height */
+  object-fit: cover; /* Prevents distortion */
+}
+
+.tight-images {
+  display: flex;
+  justify-content: center;
+  gap: 0px; /* Ensures no space between images */
+  align-items: center;
+}
+
+.tight-images img {
+  margin: 0;
+  padding: 0;
+  height: 400px; /* Ensures equal height */
+  object-fit: cover;
+}
+
+.equal-images a {
+  display: flex;
+  justify-content: center;
+}
+
 
 
 
