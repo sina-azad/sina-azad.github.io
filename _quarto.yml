@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute: 
+  freeze: auto
+
 website:
   #title: "Sina Azadnajafabad, MD, MPH"
   site-url: https://sina-azad.github.io/
