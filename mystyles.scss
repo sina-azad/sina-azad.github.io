@@ -69,22 +69,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-// Home page buttons
-.button {
-  color: $navy;
-  border: 2px solid $navy;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  cursor: pointer;
-  margin-right: 25px; 
-  margin-left: 25px;
-}
-
-
 .center-text {
   text-align: center;
 }
@@ -142,16 +126,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/*
-.navbar a i, .navbar a img {
-  width: 30px;
-  height: 30px;
-  margin-right: 2px;
-  vertical-align: middle;
-}
-*/
-
-
 // multiple iamges aligning
 .equal-images img {
   height: 400px;  /* Makes both images the same height */
@@ -178,6 +152,93 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* Social Links Container */
+.about-links {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 10px !important;
+  flex-wrap: nowrap !important;
+  margin-top: 10px !important;
+  align-items: center !important;
+}
 
+/* General Button Styles */
+.about-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 5px 10px !important;
+  font-size: 14px !important;
+  border: 1px solid #ccc !important;
+  border-radius: 5px !important;             /* Rectangular shape with rounded corners */
+  text-decoration: none !important;
+  color: #555 !important;
+  background-color: #f9f9f9 !important;
+  white-space: nowrap !important;
+  box-sizing: content-box !important;
+  max-width: none !important;
+  width: auto !important;
+  min-width: 0 !important;
+  flex-shrink: 0 !important;
+}
+
+/* Text and Icon Alignment */
+.about-link-text {
+  display: inline-flex !important;
+  align-items: center !important;
+}
+
+/* General Icon Adjustments */
+.about-link i {
+  margin-right: 6px !important;
+  font-size: 16px !important;
+}
+
+/* Hover Effect */
+.about-link:hover {
+  background-color: #e6e6e6 !important;
+}
+
+/* 🔥 Specific Styling for X Icon Button (Rectangular) */
+.about-link:has(.fa-x-twitter) {
+  padding: 5px 10px !important;              /* Same padding as other buttons */
+  border-radius: 5px !important;             /* Rectangular shape with rounded corners */
+  justify-content: center !important;        /* Center the icon */
+  align-items: center !important;
+  background-color: #f9f9f9 !important;
+  width: 40px !important;                    /* Optional: consistent width */
+  min-width: 40px !important;                /* Maintain rectangular shape */
+}
+
+/* Remove extra margin for X icon */
+.about-link:has(.fa-x-twitter) i {
+  margin: 0 !important;                      /* No margin for icon-only button */
+  font-size: 18px !important;                /* Slightly larger icon for better visibility */
+}
+
+/* Responsive Fix for Mobile Screens */
+@media (max-width: 480px) {
+  .about-links {
+    gap: 8px !important;
+    justify-content: center !important;
+    flex-wrap: nowrap !important;
+  }
+
+  .about-link {
+    padding: 4px 8px !important;
+    font-size: 12px !important;
+    width: auto !important;
+    max-width: none !important;
+    flex: 0 0 auto !important;
+  }
+
+  /* Adjust X Icon Button on Mobile */
+  .about-link:has(.fa-x-twitter) {
+    width: 36px !important;
+    min-width: 36px !important;
+    padding: 4px 8px !important;
+    font-size: 16px !important;
+  }
+}
 
 
