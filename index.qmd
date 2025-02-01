@@ -8,32 +8,28 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - text: "<i class='fa-brands fa-linkedin'></i> Linkedin" 
+    - text: "<i class='fa-brands fa-linkedin'></i> LinkedIn" 
       href: https://www.linkedin.com/in/sinaazadnajafabad/
       target: _blank
 
     - text: "<i class='fa-brands fa-google-scholar'></i> Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800
       target: _blank
-    - text: "<i class='fa-brands fa-github'></i> GitHub"
-      href: https://github.com/sina-azad
-      target: _blank
     - text: "<i class='fa-brands fa-x-twitter'></i>"
       href: https://x.com/SinaAzadMD
       target: _blank
+    - text: "<i class='fa-solid fa-envelope'></i> Email"
+      href: mailto:sina.azad.u@gmail.com
 ---
 
 ::: {#bio}
 
-## Welcome!
-Hi there! I'm Sina, a postdoctoral researcher specializing in cancer epidemiology, prevention, and surgical interventions. My work integrates innovative epidemiologic anc clinical research to improve cancer prevention strategies and surgical outcomes.
+## Hello World!
+I am **Sina Azad** (which means "free"), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes. Take your time to learn more [about me](about.qmd)!
 
 ## Education
-**Master of Public Health (MPH)** <br>
-Iran University of Medical Sciences | 2023
-
-**Doctor of Medicine (MD)** <br>
-Tehran University of Medical Sciences | 2020
+**Master of Public Health (MPH)** | Iran University of Medical Sciences | 2023 <br>
+**Doctor of Medicine (MD)** | Tehran University of Medical Sciences | 2020 
 
 ## Current Position
 **Postdoctoral Research Associate** <br>
