@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sina Azadnajafabad, MD, MPH",
     "section": "",
-    "text": "I am Sina Azad (which means “free”), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes. Take your time to learn more about me!\n\n\n\nMaster of Public Health (MPH) | Iran University of Medical Sciences | 2023  Doctor of Medicine (MD) | Tehran University of Medical Sciences | 2020\n\n\n\nPostdoctoral Research Associate  Department of Surgery, Washington University in St. Louis, MO"
+    "text": "I am Sina Azad (which means “free”), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes. Take your time to learn more about me!\n\n\nMaster of Public Health (MPH) | Iran University of Medical Sciences | 2023  Doctor of Medicine (MD) | Tehran University of Medical Sciences | 2020\n\n\n\nPostdoctoral Research Associate  Department of Surgery, Washington University in St. Louis, MO"
   },
   {
     "objectID": "about.html",
@@ -24,43 +24,43 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
-    "section": "Education",
+    "section": " Education",
     "text": "Education\nI hold a Doctor of Medicine (MD) degree from Tehran University of Medical Sciences, where I conducted my thesis on the epidemiology of benign vocal fold lesions. Complementing my clinical training, I completed a Master of Public Health (MPH) training at Iran University of Medical Sciences, with my thesis focusing on the global assessment of breast cancer epidemiology and quality of care."
   },
   {
     "objectID": "about.html#professional-experience",
     "href": "about.html#professional-experience",
     "title": "About Me",
-    "section": "Professional Experience",
+    "section": " Professional Experience",
     "text": "Professional Experience\nCurrently, I am a Postdoctoral Research Associate in Cao Lab, at Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis (WashU), collaborating on cutting-edge projects in cancer epidemiology and surgery. I also contribute to the academic activities as a Teaching Assistant in Intermediate Epidemiology Course as a part of the Master of Population Health Sciences program, guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.\nPreviously, I have worked as a Research Data Analyst in the Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds, where I specialized in data analysis of clinical cohort datasets and biomarkers research, and as a Research Fellow in the Non-Communicable Diseases Research Center, at Tehran University of Medical Sciences, leading numerous projects on clinical research, Global Burden of Disease, and public health."
   },
   {
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "About Me",
-    "section": "Research Interests",
+    "section": " Research Interests",
     "text": "Research Interests\nMy research interests lie at the intersection of clinical epidemiology and surgery, with a focus on cancer prevention, early detection, and outcomes research. I am particularly dedicated to studying gastrointestinal cancers, leveraging large datasets and real-world evidence to address emerging questions in cancer epidemiology trends."
   },
   {
     "objectID": "about.html#achievements",
     "href": "about.html#achievements",
     "title": "About Me",
-    "section": "Achievements",
+    "section": " Achievements",
     "text": "Achievements\n\nRanked 1st in the Master of Public Health entrance exam, Iran University of Medical Sciences.\nAwarded the Iranian exceptional scholars researcher program award\nCollaborator in the Global Burden of Disease Study, contributing to high-impact publications in prestigious journals.\nEditorial and peer-review experience in several leading journals, including PLOS One and Nature’s Scientific Reports."
   },
   {
     "objectID": "about.html#connect-with-me",
     "href": "about.html#connect-with-me",
     "title": "About Me",
-    "section": "Connect with Me",
-    "text": "Connect with Me\nI welcome connections through the social and academic platforms linked on the home page and reach out via email if needed. I do my best to respond timely (usually in a few hours) and am always open to collaborations and discussions about my research and academic journey. I also look forward to learning from you and hearing your story."
+    "section": " Connect with Me",
+    "text": "Connect with Me\nI welcome connections through the social and academic platforms linked below and reach out via email for communications. I do my best to respond timely (usually in a few hours) and am always open to collaborations and discussions about my research and academic journey. I also look forward to learning from you and hearing your story.\n LinkedIn |  Google Scholar |  ResearchGate |  GitHub |  X |  ORCID |  Bluesky"
   },
   {
     "objectID": "about.html#beyond-research",
     "href": "about.html#beyond-research",
     "title": "About Me",
     "section": "Beyond Research",
-    "text": "Beyond Research\nIn addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I have actively participated in programs to reduce cancer disparities and promote preventive health behaviors.\nWhen not in the lab or classroom, I enjoy hiking, swimming, biking, and exploring new cuisines through cooking."
+    "text": "Beyond Research\nIn addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I have actively participated in programs to reduce cancer disparities and promote preventive health behaviors.\nWhen not in the lab or classroom, I enjoy travelling, jogging, swimming, biking, and exploring new cuisines through cooking."
   },
   {
     "objectID": "publications.html",
@@ -452,6 +452,20 @@
     "href": "index.html#hello-world",
     "title": "Sina Azadnajafabad, MD, MPH",
     "section": "",
-    "text": "I am Sina Azad (which means “free”), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes. Take your time to learn more about me!"
+    "text": "I am Sina Azad (which means “free”), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes. Take your time to learn more about me!\n\n\nMaster of Public Health (MPH) | Iran University of Medical Sciences | 2023  Doctor of Medicine (MD) | Tehran University of Medical Sciences | 2020\n\n\n\nPostdoctoral Research Associate  Department of Surgery, Washington University in St. Louis, MO"
+  },
+  {
+    "objectID": "about.html#volunteer-activities",
+    "href": "about.html#volunteer-activities",
+    "title": "About Me",
+    "section": " Volunteer Activities",
+    "text": "Volunteer Activities\nIn addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I have actively participated in programs to reduce cancer disparities and promote preventive health behaviors."
+  },
+  {
+    "objectID": "about.html#beyond-work",
+    "href": "about.html#beyond-work",
+    "title": "About Me",
+    "section": " Beyond Work",
+    "text": "Beyond Work\nWhen not in the lab or classroom, I enjoy travelling, jogging, swimming, biking, and exploring new cuisines through cooking."
   }
 ]

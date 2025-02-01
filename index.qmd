@@ -27,11 +27,11 @@ about:
 ## Hello World!
 I am **Sina Azad** (which means "free"), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes. Take your time to learn more [about me](about.qmd)!
 
-## Education
+### Education
 **Master of Public Health (MPH)** | Iran University of Medical Sciences | 2023 <br>
 **Doctor of Medicine (MD)** | Tehran University of Medical Sciences | 2020 
 
-## Current Position
+### Current Position
 **Postdoctoral Research Associate** <br>
 Department of Surgery, Washington University in St. Louis, MO
 
