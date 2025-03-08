@@ -1,5 +1,6 @@
 ---
 title: "Sina Azadnajafabad, MD, MPH"
+description-meta: "Sina is a postdoctoral researcher at Washington University in St. Louis, doing research on cancer epidemiology, prevention, and surgery."
 editor: source
 image: media/headshot.jpg
 toc: false
@@ -8,33 +9,32 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - text: "<i class='fa-brands fa-linkedin'></i> LinkedIn"
+    - text: "{{< fa brands linkedin >}} LinkedIn"
       href: https://www.linkedin.com/in/sinaazadnajafabad/
       target: _blank
     
-    - text: "<i class='fa-brands fa-google-scholar'></i> Google Scholar"
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800
       target: _blank
     
-    - text: "<i class='fa-brands fa-x-twitter'></i>"
+    - text: "{{< fa brands x-twitter >}}"
       href: https://x.com/SinaAzadMD
       target: _blank
     
-    - text: "<i class='fa-solid fa-envelope'></i> Email"
+    - text: "{{< fa envelope >}} Email"
       href: mailto:sina.azad.u@gmail.com
 ---
 
 ::: {#bio}
-## Hello World!
-I am **Sina Azad** (which means "free"), a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates innovative epidemiological and clinical research to advance cancer prevention strategies and improve patient outcomes.
+## Hi there!
+I am a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates epidemiological and clinical research to improve cancer prevention and patient outcomes.
 
 ### Education
 **Master of Public Health (MPH)** | Iran University of Medical Sciences | 2023 <br>
 **Doctor of Medicine (MD)** | Tehran University of Medical Sciences | 2020 
 
 ### Current Position
-**Postdoctoral Research Associate** <br>
-Department of Surgery, Washington University in St. Louis, MO
+**Postdoctoral Research Associate** | Washington University in St. Louis, MO
 
 Please take your time to [learn more about me](about.qmd)!
 :::

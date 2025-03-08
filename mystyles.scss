@@ -1,13 +1,13 @@
 /*-- scss:defaults --*/
 
 
-// Import fonts 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Sen:wght@400..800&display=swap');
-
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sen:wght@400..800&display=swap');
 
 // Fonts
 $sen: "Sen", sans-serif;
-$nunito: 'Nunito', sans-serif;
+$nunito: "Nunito", sans-serif;
+$roboto: "Roboto", sans-serif;
 
 // Colors
 $dark-green: #858E79;
@@ -22,137 +22,165 @@ $black: #000000;
 $white: #FFFFFF;
 $light-gray: #f2f4f4;
 
-
-// Font size 
-$my-font-size: 30px; // Default font size
-$body-font-size: 18px; // Adjust base body font size here
-
+// Font size
+$my-font-size: 30px;
+$body-font-size: 18px;
 
 // Base document colors
-$navbar-bg: $light-gray; // navbar
-$navbar-fg: $black; // navbar foreground elements
-$navbar-hl: $navy; // highlight color when hovering over navbar links
-$body-bg: $white; // page background 
-$body-color: $gray; // page text 
-$footer-bg: $light-gray; // footer 
-$link-color: $navy; // hyperlinks 
+$navbar-bg: $light-gray;
+$navbar-fg: $black;
+$navbar-hl: $navy;
+$body-bg: $white;
+$body-color: $gray;
+$footer-bg: $light-gray;
+$link-color: $navy;
 
-// Inline code
-$code-bg: $cream; // inline code background color
-$code-color: $purple; // inline code text color
-
-
+// Inline code styling
+$code-bg: $cream;
+$code-color: $purple;
 
 /*-- scss:rules --*/
 
+/* 1. Body Styling */
 body {
-  font-family: $nunito;
-  font-size: $body-font-size; // Apply the updated font size here
+  font-family: $roboto;
+  font-size: $body-font-size;
+  font-weight: 400;
   color: $body-color;
   background-color: $body-bg;
+  line-height: 1.6;
+  text-align: justify;
+  margin: 0;
 }
 
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $nunito;
-}
+/* 2. Typography for Headings */
+h1 { font-family: $roboto; font-weight: 600; }
+h2 { font-family: $roboto; font-weight: 500; }
+h3 { font-family: $roboto; font-weight: 400; }
+h4, h5, h6 { font-family: $roboto; font-weight: 400; }
 
-
-/*h1, h2 {
-  letter-spacing: 5px;
-  font-weight: 800; // Google fonts tells you which weights your chosen font family allows for!
-}*/
-
+/* 3. Title Class */
 .title {
   font-size: $my-font-size;
+  font-weight: 600;
   color: $black;
 }
 
+/* 4. roboto-regular Class */
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 
+/* 5. Center Text Class */
 .center-text {
   text-align: center;
 }
 
-
-// landing page text size
+/* 6. Bio (Justified) */
 #bio {
+  font-family: $roboto;
   font-size: $body-font-size;
+  color: $body-color;
+  text-align: justify;
+  margin-bottom: 15px;
 }
 
 
-// change logo size
+/* 7. Lists & Bullets 
+ul, ol {
+  list-style-position: outside;
+  padding-left: 25px;
+}
+
+li {
+  text-align: justify;
+  display: list-item;
+} */
+
+
+/* 8. Links (Scoped to Content Only, Not Header) */
+.quarto-container a {
+  font-family: $roboto;
+  color: $navy;
+  text-decoration: none;
+}
+
+.quarto-container a:hover {
+  text-decoration: underline;
+}
+
+
+/* 9. Navbar Logo Size */
 .navbar-brand img { 
   max-height: 40px;
   width: auto;
 }
 
-
-// landing page icon size
+/* 10. Landing Page Icon Size */
 #landing-icons {
   font-size: 1.6em;
 }
 
-
-
-// Altmetrics and Dimensions styling
+/* 11. Altmetrics and Dimensions Badges */
 .altmetric-publication {
   display: flex;
-  align-items: flex-start; // Align text and badges at the top
+  align-items: flex-start;
   margin-bottom: 1em;
 
   p {
-    margin: 10px; // Add spacing between the text and badges
+    margin: 10px;
   }
 
   .badges-container {
     display: flex;
-    justify-content: flex-start; // Align badges to the start of the container
-    align-items: center; // Ensure badges are vertically aligned
-    gap: 10px; // Add horizontal space between badges
-    width: auto; // Remove extra width that spreads badges apart
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px; /* gap between badges */
+    width: auto;
+    margin-left: 20px; /* Add space between text and badges */
   }
 
   .__dimensions_badge_embed__ {
-    flex-shrink: 0; // Prevent shrinking
-    width: 50px; // Consistent size for Dimensions badge
-    height: 50px; // Consistent size for Dimensions badge
+    flex-shrink: 0;
+    width: 50px;
+    height: 50px;
   }
 
   .altmetric-embed {
-    flex-shrink: 0; // Prevent shrinking
-    width: 50px; // Consistent size for Altmetrics badge
-    height: 50px; // Consistent size for Altmetrics badge
+    flex-shrink: 0;
+    width: 50px;
+    height: 50px;
   }
 }
 
-
-// multiple iamges aligning
+/* 12. Multiple Images Aligning */
 .equal-images img {
-  height: 400px;  /* Makes both images the same height */
-  object-fit: cover; /* Prevents distortion */
+  height: 400px;
+  object-fit: cover;
 }
 
 .tight-images {
   display: flex;
   justify-content: center;
-  gap: 0px; /* Ensures no space between images */
+  gap: 0px;
   align-items: center;
 }
-
 .tight-images img {
   margin: 0;
   padding: 0;
-  height: 400px; /* Ensures equal height */
+  height: 400px;
   object-fit: cover;
 }
-
 .equal-images a {
   display: flex;
   justify-content: center;
 }
 
-
-/* Social Links Container */
+/* 13. Social Links Container */
 .about-links {
   display: flex !important;
   justify-content: center !important;
@@ -162,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center !important;
 }
 
-/* General Button Styles */
+/* 14. General Button Styles */
 .about-link {
   display: inline-flex !important;
   align-items: center !important;
@@ -170,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5px 10px !important;
   font-size: 14px !important;
   border: 1px solid #ccc !important;
-  border-radius: 5px !important;             /* Rectangular shape with rounded corners */
+  border-radius: 5px !important;
   text-decoration: none !important;
   color: #555 !important;
   background-color: #f9f9f9 !important;
@@ -182,41 +210,41 @@ h1, h2, h3, h4, h5, h6 {
   flex-shrink: 0 !important;
 }
 
-/* Text and Icon Alignment */
+/* 15. Text & Icon Alignment */
 .about-link-text {
   display: inline-flex !important;
   align-items: center !important;
 }
 
-/* General Icon Adjustments */
+/* 16. General Icon Adjustments */
 .about-link i {
   margin-right: 6px !important;
   font-size: 16px !important;
 }
 
-/* Hover Effect */
+/* 17. Hover Effect */
 .about-link:hover {
   background-color: #e6e6e6 !important;
 }
 
-/* 🔥 Specific Styling for X Icon Button (Rectangular) */
+/* 18. Specific Styling for X Icon Button */
 .about-link:has(.fa-x-twitter) {
-  padding: 5px 10px !important;              /* Same padding as other buttons */
-  border-radius: 5px !important;             /* Rectangular shape with rounded corners */
-  justify-content: center !important;        /* Center the icon */
+  padding: 5px 10px !important;
+  border-radius: 5px !important;
+  justify-content: center !important;
   align-items: center !important;
   background-color: #f9f9f9 !important;
-  width: 40px !important;                    /* Optional: consistent width */
-  min-width: 40px !important;                /* Maintain rectangular shape */
+  width: 40px !important;
+  min-width: 40px !important;
 }
 
 /* Remove extra margin for X icon */
 .about-link:has(.fa-x-twitter) i {
-  margin: 0 !important;                      /* No margin for icon-only button */
-  font-size: 18px !important;                /* Slightly larger icon for better visibility */
+  margin: 0 !important;
+  font-size: 18px !important;
 }
 
-/* Responsive Fix for Mobile Screens */
+/* 19. Responsive Fix for Mobile Screens */
 @media (max-width: 480px) {
   .about-links {
     gap: 8px !important;
@@ -232,13 +260,25 @@ h1, h2, h3, h4, h5, h6 {
     flex: 0 0 auto !important;
   }
 
-  /* Adjust X Icon Button on Mobile */
   .about-link:has(.fa-x-twitter) {
     width: 36px !important;
     min-width: 36px !important;
     padding: 4px 8px !important;
     font-size: 16px !important;
   }
+}
+
+
+// 20. Put all the icons in a single row in the hamburger menu
+.navbar-nav.navbar-nav-scroll.ms-auto {
+    flex-direction: row;
+}
+
+
+/* 21. Footer Styling */
+.nav-footer {
+    flex-wrap: wrap;
+    background-color: $body-bg;
 }
 
 

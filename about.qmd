@@ -1,37 +1,38 @@
 ---
 title: "About Me"
-subtitle: "know more about me and my interests"
 editor: source
 ---
 
-I am a medical doctor and researcher with a profound passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and impactful contributions to improve public health and patient outcomes.
+I am a medical doctor and researcher with a passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and impactful contributions to improve public health and patient outcomes.
 
-## <i class="fa-solid fa-book"></i> Education
-I hold a Doctor of Medicine (MD) degree from *Tehran University of Medical Sciences*, where I conducted my thesis on the epidemiology of benign vocal fold lesions. Complementing my clinical training, I completed a Master of Public Health (MPH) training at *Iran University of Medical Sciences*, with my thesis focusing on the [global assessment of breast cancer epidemiology and quality of care](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1137286/full).
+## {{< fa book >}} Education
+I hold a Doctor of Medicine (MD) degree from *Tehran University of Medical Sciences*, where I conducted my thesis on the [clinical characteristics of benign vocal fold lesions](https://www.jvoice.org/article/S0892-1997(25)00019-0/abstract). Complementing my clinical training, I completed a Master of Public Health (MPH) training at *Iran University of Medical Sciences*, with my thesis focusing on the [global assessment of breast cancer epidemiology and quality of care](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1137286/full).
 
-## <i class="fa-solid fa-user-tie"></i> Professional Experience
-Currently, I am a Postdoctoral Research Associate in [Cao Lab](https://caolab.wustl.edu/), at *Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis (WashU)*, collaborating on cutting-edge projects in cancer epidemiology and surgery. I also contribute to the academic activities as a Teaching Assistant in Intermediate Epidemiology Course as a part of the [Master of Population Health Sciences program](https://mphs.wustl.edu/), guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.
+## {{< fa user-tie >}} Professional Experience
+Currently, I am a Postdoctoral Research Associate in [Cao Lab](https://caolab.wustl.edu/), at *Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis*, collaborating on cutting-edge research on cancer epidemiology and surgery. I also contribute to the academic activities as a Teaching Assistant in Intermediate Epidemiology Course as a part of the [Master of Population Health Sciences program](https://mphs.wustl.edu/), guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.
 
-Previously, I have worked as a [Research Data Analyst](https://medicinehealth.leeds.ac.uk/staff/11892/dr-sina-azadnajafabad?preview=1) in the *Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds*, where I specialized in data analysis of clinical cohort datasets and biomarkers research, and as a Research Fellow in the *Non-Communicable Diseases Research Center*, at Tehran University of Medical Sciences, leading numerous projects on clinical research, Global Burden of Disease, and public health.
+Previously, I held the [Research Data Analyst](https://medicinehealth.leeds.ac.uk/staff/11892/dr-sina-azadnajafabad?preview=1) role in the *Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds*, where I specialized in data analysis of clinical cohort studies and biomarkers research, and as a Research Fellow in the *Non-Communicable Diseases Research Center*, at Tehran University of Medical Sciences, leading numerous projects on clinical research, Global Burden of Disease, and public health.
 
-## <i class="fa-solid fa-dna"></i> Research Interests
-My research interests lie at the intersection of clinical epidemiology and surgery, with a focus on cancer prevention, early detection, and outcomes research. I am particularly dedicated to studying gastrointestinal cancers, leveraging large datasets and real-world evidence to address emerging questions in cancer epidemiology trends.
+## {{< fa dna >}} Research Interests
+My research interests lie at the intersection of clinical epidemiology and surgery, with a focus on cancer prevention, early detection, and outcomes research. Currently, I am dedicated to studying gastrointestinal cancers, leveraging large datasets and real-world evidence to address emerging questions in cancer epidemiology trends.
 
-## <i class="fa-solid fa-medal"></i> Achievements
-* Ranked 1^st^ in the Master of Public Health entrance exam, *Iran University of Medical Sciences*.
+## {{< fa medal >}} Achievements
+* Ranked 1^st^ in the MPH entrance exam, *Iran University of Medical Sciences*.
 * Awarded the Iranian exceptional scholars researcher program award
-* Collaborator in the *Global Burden of Disease Study*, contributing to high-impact publications in prestigious journals.
-* Editorial and peer-review experience in several leading journals, including PLOS One and Nature’s Scientific Reports.
 
-## <i class="fa-solid fa-handshake-angle"></i> Volunteer Activities
+## {{< fa newspaper >}} Collaborations
+* Collaborator in the [Global Burden of Disease Study](https://www.healthdata.org/research-analysis/gbd), contributing to high-impact publications in prestigious journals.
+* Editorial and peer-review experience in several leading journals, including [PLOS One](https://journals.plos.org/plosone/search?resultsPerPage=60&unformattedQuery=editor%3A%22Sina%20Azadnajafabad%22&q=editor%3A%22Sina%20Azadnajafabad%22&sortOrder=DATE_NEWEST_FIRST&page=1) and Nature’s Scientific Reports.
+
+## {{< fa handshake-angle >}} Volunteer Activities
 In addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I have actively participated in programs to reduce cancer disparities and promote preventive health behaviors.
 
 
-## <i class="fa-solid fa-mountain-sun"></i> Beyond Work
+## {{< fa mountain-sun >}} Beyond Work
 When not in the lab or classroom, I enjoy travelling, jogging, swimming, biking, and exploring new cuisines through cooking.
 
-## <i class="fa-solid fa-wifi"></i> Connect with Me
+## {{< fa wifi >}} Connect with Me
 I welcome connections through the social and academic platforms linked below and to [reach out via email](mailto:sina.azad.u@gmail.com) for communications. I do my best to respond timely (usually in a few hours) and am always open to collaborations and discussions about my research and academic journey. I also look forward to learning from you and hearing your story.
 
-<i class='fa-brands fa-linkedin'></i> [**LinkedIn**](https://www.linkedin.com/in/sinaazadnajafabad/) | <i class='fa-brands fa-google-scholar'></i> [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800) | <i class='fa-brands fa-researchgate'></i> [**ResearchGate**](https://www.researchgate.net/profile/Sina-Azadnajafabad) | <i class='fa-brands fa-github'></i> [**GitHub**](https://github.com/sina-azad) | <i class='fa-brands fa-x-twitter'></i> [**X**](https://x.com/SinaAzadMD) | <i class='fa-brands fa-orcid'></i> [**ORCID**](https://orcid.org/0000-0003-0105-3801) | <i class='fa-brands fa-bluesky'></i> [**Bluesky**](https://bsky.app/profile/sinaazadmd.bsky.social)
+[**LinkedIn**](https://www.linkedin.com/in/sinaazadnajafabad/) | [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800) | [**ResearchGate**](https://www.researchgate.net/profile/Sina-Azadnajafabad) | [**GitHub**](https://github.com/sina-azad) | [**X**](https://x.com/SinaAzadMD)
 

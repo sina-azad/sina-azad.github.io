@@ -16,7 +16,7 @@ editor_options:
 #| error: false
 #| warning: false
 
-# run this code before rendering qmd
+# run this code before rendering publications.qmd
 source("pubs_extractor_generator.R")
 ```
 
@@ -24,18 +24,11 @@ source("pubs_extractor_generator.R")
 
 {{< include publist_selected.qmd >}}
 
-## Publications Wordcloud
-
-```{r}
-#| echo: false
-#| error: false
-#| warning: false
-
-source("wordcloud_script.R")
-```
-
-
 ## Bibliography
+### 2025
+
+{{< include publist_2025.qmd >}}
+
 ### 2024
 
 {{< include publist_2024.qmd >}}
@@ -55,3 +48,14 @@ source("wordcloud_script.R")
 ### 2020
 
 {{< include publist_2020.qmd >}}
+
+## Publications Wordcloud
+
+```{r}
+#| echo: false
+#| error: false
+#| warning: false
+
+source("wordcloud_script.R")
+```
+

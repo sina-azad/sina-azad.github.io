@@ -6,8 +6,8 @@ execute:
   freeze: auto
 
 website:
-  #title: "Sina Azadnajafabad, MD, MPH"
-  site-url: https://sina-azad.github.io/
+  # title: "Sina Azad"
+  site-url: https://sinaazad.com/
   favicon: media/Logo 1.png
   google-analytics: 
     tracking-id: "G-5W8GMD5CSV"
@@ -16,6 +16,7 @@ website:
     logo: media/Logo 1.png
     logo-alt: "My initials has made this logo, SA"
     collapse: true
+    pinned: true
     
     left: # navigation bar location: accepts right/left/center
       - href: index.qmd
@@ -26,48 +27,43 @@ website:
         text: Publications
       - href: projects.qmd
         text: Projects
-      # - href: presentations.qmd
-      #   text: Presentations
       - href: news.qmd
         text: News
         
     right: 
-      - text: "<i class='fa-brands fa-linkedin'></i>"
+      - text: "{{< fa brands linkedin >}}"
         href: https://www.linkedin.com/in/sinaazadnajafabad/
         target: _blank
-      - text: "<i class='fa-brands fa-orcid'></i>"
+      - text: "{{< fa brands orcid >}}"
         href: https://orcid.org/0000-0003-0105-3801
         target: _blank
-      - text: "<i class='fa-brands fa-google-scholar'></i>"
+      - text: "{{< fa brands google-scholar >}}"
         href: https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800
         target: _blank
-      - text: "<i class='fa-brands fa-researchgate'></i>"
+      - text: "{{< fa brands researchgate >}}"
         href: https://www.researchgate.net/profile/Sina-Azadnajafabad
         target: _blank
-      - text: "<i class='fa-brands fa-github'></i>"
+      - text: "{{< fa brands github >}}"
         href: https://github.com/sina-azad
         target: _blank
-      - text: "<i class='fa-brands fa-x-twitter'></i>"
+      - text: "{{< fa brands x-twitter >}}"
         href: https://x.com/SinaAzadMD
         target: _blank
-      - text: "<i class='fa-brands fa-bluesky'></i>"
+      - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/sinaazadmd.bsky.social
         target: _blank
-      - text: "<i class='fa-solid fa-envelope'></i>"
+      - text: "{{< fa envelope >}}"
         href: mailto:sina.azad.u@gmail.com
 
   page-footer: 
-    left: © 2025 Sina Azadnajafabad
-    right: This website is built with [Quarto](https://quarto.org/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/){target=_blank}
-
+    center: © 2025 Sina Azadnajafabad<br> Website built with [{{< iconify simple-icons:quarto >}}](https://quarto.org/){target=_blank}, [{{< fa brands r-project >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github >}}](https://github.com/){target=_blank}
 
 
 format:
   html:
     theme: 
-      - flatly
       - mystyles.scss
-    mainfont: Nunito
+    mainfont: Roboto
     toc: true
     page-layout: full
     include-after-body: 

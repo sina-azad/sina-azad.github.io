@@ -5,16 +5,12 @@ pacman::p_load(rio, tidyverse)
 
 # Input publications
 pubs_selected <- c(
-  "GBD 2021 US Obesity Forecasting Collaborators. National-level and state-level prevalence of overweight and obesity among children, adolescents, and adults in the USA, 1990-2021, and forecasts up to 2050. The Lancet. 2024. DOI: 10.1016/S0140-6736(24)01548-4. url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01548-4/fulltext",
-  "GBD 2021 Appendicitis Collaborator Group. Trends and levels of the global, regional, and national burden of appendicitis between 1990 and 2021: findings from the Global Burden of Disease Study 2021. The Lancet Gastroenterology & Hepatology. 2024. DOI: 10.1016/S2468-1253(24)00157-2. url: https://www.sciencedirect.com/science/article/pii/S2468125324001572",
+  "Azadnajafabad S, Mohammadi E, Afzal S, Sohrabi H, Dabirmoghaddam P, Aghazadeh K. Clinical Characteristics and Voice Handicap Index Assessment of Common Benign Vocal Fold Lesions: A Case-Control Study From a Referral Center. Journal of Voice. 2025. DOI: 10.1016/j.jvoice.2025.01.019. url: https://www.jvoice.org/article/S0892-1997(25)00019-0/abstract",
   "Azadnajafabad S, Ahmadi N, Rezaei N, Rashidi MM, Saeedi Moghaddam S, Mohammadi E, et al. Evaluation of the diabetes care cascade and compliance with WHO global coverage targets in Iran based on STEPS survey 2021. Scientific Reports. 2023. DOI: 10.1038/s41598-023-39433-7. url: https://www.nature.com/articles/s41598-023-39433-7",
   "Azadnajafabad S, Saeedi Moghaddam S, Mohammadi E, Delazar S, Rashedi S, Baradaran HR, et al. Patterns of better breast cancer care in countries with higher human development index and healthcare expenditure: Insights from GLOBOCAN 2020. Frontiers in Public Health. 2023. DOI: 10.3389/fpubh.2023.1137286. url: https://www.frontiersin.org/articles/10.3389/fpubh.2023.1137286/full",
-  "Djalalinia S, Azadnajafabad S, Ghasemi E, Yoosefi M, Rezaei N, Farzi Y, et al. Protocol Design for Surveillance of Risk Factors of Non–communicable Diseases During the COVID-19 Pandemic: An Experience from Iran STEPS Survey 2021. Archives of Iranian Medicine. 2022. DOI: 10.34172/aim.2022.99. url: http://www.aimjournal.ir/Article/aim-23947",
   "Azadnajafabad S, Saeedi Moghaddam S, Keykhaei M, Shobeiri P, Rezaei N, Ghasemi E, et al. Expansion of the quality of care index on breast cancer and its risk factors using the Global Burden of Disease Study 2019. Cancer Medicine. 2022. DOI: 10.1002/cam4.4951. url: https://onlinelibrary.wiley.com/doi/10.1002/cam4.4951",
   "Farzadfar F, Naghavi M, Sepanlou SG, Saeedi Moghaddam S, Dangel WJ, Davis Weaver N, Aminorroaya A, Azadnajafabad S, Koolaji S, Mohammadi E, et al. Health system performance in Iran: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet. 2022. DOI: 10.1016/S0140-6736(21)02751-3. url: https://www.sciencedirect.com/science/article/pii/S0140673621027513?via%3Dihub",
-  "Global Burden of Disease 2019 Cancer Collaboration. Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life Years for 29 Cancer Groups From 2010 to 2019: A Systematic Analysis for the Global Burden of Disease Study 2019. JAMA Oncology. 2022. DOI: 10.1001/jamaoncol.2021.6987. url: https://jamanetwork.com/journals/jamaoncology/fullarticle/2787350",
-  "Azadnajafabad S, Saeedi Moghaddam S, Mohammadi E, Rezaei N, Ghasemi E, Fattahi N, et al. Global, regional, and national burden and quality of care index (QCI) of thyroid cancer: A systematic analysis of the Global Burden of Disease Study 1990-2017. Cancer Medicine. 2021. DOI: 10.1002/cam4.3823. url: https://onlinelibrary.wiley.com/doi/10.1002/cam4.3823",
-  "Sudharsanan N, Theilmann M, Kirschbaum TK, Manne-Goehler J, Azadnajafabad S, Bovet P, et al. Variation in the Proportion of Adults in Need of BP-Lowering Medications by Hypertension Care Guideline in Low- and Middle-Income Countries: A Cross-Sectional Study of 1,037,215 Individuals from 50 Nationally Representative Surveys. Circulation. 2021. DOI: 10.1161/CIRCULATIONAHA.120.051620. url: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.051620"
+  "Azadnajafabad S, Saeedi Moghaddam S, Mohammadi E, Rezaei N, Ghasemi E, Fattahi N, et al. Global, regional, and national burden and quality of care index (QCI) of thyroid cancer: A systematic analysis of the Global Burden of Disease Study 1990-2017. Cancer Medicine. 2021. DOI: 10.1002/cam4.3823. url: https://onlinelibrary.wiley.com/doi/10.1002/cam4.3823"
 )
 
 
@@ -98,6 +94,13 @@ writeLines(markdown, "publist_selected.qmd")
 
 # Input publications
 pubs_list <- c(
+  "Azadnajafabad S, Mohammadi E, Afzal S, Sohrabi H, Dabirmoghaddam P, Aghazadeh K. Clinical Characteristics and Voice Handicap Index Assessment of Common Benign Vocal Fold Lesions: A Case-Control Study From a Referral Center. Journal of Voice. 2025. DOI: 10.1016/j.jvoice.2025.01.019. url: https://www.jvoice.org/article/S0892-1997(25)00019-0/abstract",
+  "Amouzadeh Omrani F, Afzal S, Baroutkoub M, Salimi S, Barati H, Azadnajafabad S, Kokly S, Omidian MM. A Comparative Analysis of Functional Outcomes between Lateral and Posterolateral Approaches in Total Hip Arthroplasty. Advanced Biomedical Research. 2025. DOI: 10.4103/abr.abr_195_24. url: https://journals.lww.com/adbm/fulltext/2025/02280/a_comparative_analysis_of_functional_outcomes.13.aspx",
+  "GBD 2021 Europe Life Expectancy Collaborators. Changing life expectancy in European countries 1990-2021: a subanalysis of causes and risk factors from the Global Burden of Disease Study 2021. The Lancet Public Health. 2025. DOI: 10.1016/S2468-2667(25)00009-X. url: https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00009-X/fulltext",
+  "Bastan MM, Nejadghaderi SA, Khanmohammadi S, Behnoush AH, Khalaji A, Malekpour MR, Rashidi MM, Azadnajafabad S, Azangou-Khyavy M, Momtazmanesh S, Payab M, Amini M. Burden of cardiometabolic disease attributable to sugar sweetened beverages consumption in North Africa and the Middle East from 1990 to 2021. Journal of Diabetes & Metabolic Disorders. 2025. DOI: 10.1007/s40200-025-01578-9. url: https://link.springer.com/article/10.1007/s40200-025-01578-9",
+  "Global Nutrition Target Collaborators. Global, regional, and national progress towards the 2030 global nutrition targets and forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2021. The Lancet. 2025. DOI: 10.1016/S0140-6736(24)01821-X. url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01821-X/fulltext",
+  "Castagna A, Amouzadeh Omrani F, Afzal S, Baroutkoub M, Hajikarimloo B, Azadnajafabad S, et al. Effectiveness of Modified Sleeper Stretch Combined with Modified Cross-Body Adduction in Alleviating Shoulder Stiffness Among Overhead Throwing Athletes: A Retrospective Cohort Study. Trauma Monthly. 2024. DOI: 10.30491/tm.2024.466150.1747. url: https://www.traumamon.com/article_212038.html",
+  "GBD 2021 US Burden of Disease and Forecasting Collaborators. Burden of disease scenarios by state in the USA, 2022-50: a forecasting analysis for the Global Burden of Disease Study 2021. The Lancet. 2024. DOI: 10.1016/S0140-6736(24)02246-3. url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02246-3/abstract",
   "Ayati Firoozabadi M, Mafi AH, Afzal S, Beheshti Fard S, Khaledian H, Bozorgsavoji A, Azadnajafabad S, Mortazavi SMJ. Does body mass index (BMI) significantly influence aseptic loosening in primary total knee arthroplasty? Insights from a long-term retrospective cohort study. BMC Musculoskeletal Disorders. 2024. DOI: 10.1186/s12891-024-07913-0. url: https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-024-07913-0",
   "GBD 2021 HIV Collaborators. Global, regional, and national burden of HIV/AIDS, 1990-2021, and forecasts to 2050, for 204 countries and territories: the Global Burden of Disease Study 2021. The Lancet HIV. 2024. DOI: 10.1016/S2352-3018(24)00212-1. url: https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(24)00212-1/fulltext",
   "GBD 2021 US Obesity Forecasting Collaborators. National-level and state-level prevalence of overweight and obesity among children, adolescents, and adults in the USA, 1990-2021, and forecasts up to 2050. The Lancet. 2024. DOI: 10.1016/S0140-6736(24)01548-4. url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01548-4/fulltext",
@@ -269,6 +272,58 @@ parsed_data <- tibble(
 
 # check and save in CSV
 export(x = parsed_data, file = "pubs_list.csv")
+
+
+
+## 2025 ----
+# Read + filter the publication data for year
+data <- 
+  import("pubs_list.csv") |> 
+  filter(year == "2025")
+
+
+# Initialize Markdown content
+markdown <- ""
+
+# Loop through each publication and generate Markdown content
+for (i in 1:nrow(data)) {
+  authors <- data$author[i]
+  title <- data$title[i]
+  url <- data$url[i]
+  journal <- data$journal[i]
+  year <- data$year[i]
+  doi <- data$doi[i]
+  
+  # Bold "Azadnajafabad S" in the authors string
+  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
+  
+  # Add formatted publication with Altmetric and Dimensions badges
+  markdown <- paste0(
+    markdown,
+    "::: {.altmetric-publication}\n",
+    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
+    "<div class=\"badges-container\">\n",
+    "  <span class=\"__dimensions_badge_embed__\" \n",
+    "        data-doi=\"", doi, "\"\n",
+    "        data-legend=\"hover-bottom\"\n",
+    "        data-style=\"small_circle\"\n",
+    "        data-hide-zero-citations=\"true\">\n",
+    "  </span>\n\n",
+    "  <div data-badge-popover=\"bottom\" \n",
+    "       data-badge-type=\"donut\" \n",
+    "       data-condensed=\"false\" \n",
+    "       data-doi=\"", doi, "\" \n",
+    "       data-hide-no-mentions=\"true\" \n",
+    "       data-hide-less-than=\"0\" \n",
+    "       class=\"altmetric-embed\">\n",
+    "  </div>\n",
+    "</div>\n",
+    ":::\n\n"
+  )
+}
+
+# Save the generated Markdown to a file
+writeLines(markdown, "publist_2025.qmd")
 
 
 ## 2024 ----
