@@ -27,12 +27,12 @@ $my-font-size: 30px;
 $body-font-size: 18px;
 
 // Base document colors
-$navbar-bg: $light-gray;
+$navbar-bg: $white;
 $navbar-fg: $black;
-$navbar-hl: $navy;
+$navbar-hl: $teal;
 $body-bg: $white;
 $body-color: $gray;
-$footer-bg: $light-gray;
+$footer-bg: $white;
 $link-color: $navy;
 
 // Inline code styling
@@ -116,7 +116,7 @@ li {
 
 /* 9. Navbar Logo Size */
 .navbar-brand img { 
-  max-height: 40px;
+  max-height: 30px;
   width: auto;
 }
 
@@ -280,5 +280,26 @@ li {
     flex-wrap: wrap;
     background-color: $body-bg;
 }
+
+
+/* 22. Navbar Shadow Effect */
+.navbar {
+  background-color: white; /* Ensure the navbar is white */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle bottom shadow */
+  position: relative;
+  z-index: 1000; /* Ensures shadow is above other elements */
+}
+
+
+
+
+/* Navbar Separator Line 
+.navbar {
+  background-color: white; 
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+  position: relative;
+  z-index: 1000;
+} */
+
 
 

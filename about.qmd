@@ -32,7 +32,4 @@ In addition to my academic pursuits, I am committed to community health. As a vo
 When not in the lab or classroom, I enjoy travelling, jogging, swimming, biking, and exploring new cuisines through cooking.
 
 ## {{< fa wifi >}} Connect with Me
-I welcome connections through the social and academic platforms linked below and to [reach out via email](mailto:sina.azad.u@gmail.com) for communications. I do my best to respond timely (usually in a few hours) and am always open to collaborations and discussions about my research and academic journey. I also look forward to learning from you and hearing your story.
-
-[**LinkedIn**](https://www.linkedin.com/in/sinaazadnajafabad/) | [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800) | [**ResearchGate**](https://www.researchgate.net/profile/Sina-Azadnajafabad) | [**GitHub**](https://github.com/sina-azad) | [**X**](https://x.com/SinaAzadMD)
-
+I welcome connections through the social and academic platforms linked on top of the website and to [reach out via email](mailto:sina.azad.u@gmail.com) for communications. I do my best to respond timely (usually in a few hours) and am always open to collaborations and discussions about my research and academic journey. I also look forward to learning from you and hearing your story.
