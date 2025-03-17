@@ -11,7 +11,7 @@ execute:
 website:
   # title: "Sina Azad"
   site-url: https://sinaazad.com/
-  favicon: media/favicon_SA_3.png
+  favicon: media/1_Home/favicon_SA_3.png
   google-analytics: 
     tracking-id: "G-5W8GMD5CSV"
     anonymize-ip: true
@@ -32,6 +32,8 @@ website:
         text: Projects
       - href: news.qmd
         text: News
+      - href: resources.qmd
+        text: Resources
         
     right: 
       - text: "{{< fa brands linkedin >}}"

@@ -3,4 +3,68 @@ title: "Projects"
 editor: source
 ---
 
-Content coming soon. Stay tuned!
+## Cancer Grand Challenges
+
+In my current position as a Postdoctoral Research Associate in the [Cao Lab](https://caolab.wustl.edu/) at Washington University in St. Louis, I am a part of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) (Pathways, Risk factors, and mOlecueS to Prevent Early-onset Colorectal Tumors), an international research collaboration co-led by [Dr. Yin Cao](https://caolab.wustl.edu/people/yin-cao/) and funded by the [Cancer Grand Challenges](https://www.cancergrandchallenges.org/) initiative—a partnership between *Cancer Research UK* and the *National Cancer Institute*. This prestigious program supports innovative, interdisciplinary research projects designed to address significant barriers in cancer prevention and treatment.
+
+Our research focuses specifically on the [Early-onset Cancers challenge](https://www.cancergrandchallenges.org/challenges/active-challenges/early-onset-cancers), seeking to understand the global increase in cancer incidence among adults under the age of 50. This worrying trend, affecting multiple cancer types such as colorectal, breast, liver, and thyroid cancers, cannot be fully explained by increased screening alone. We explore various changes in lifestyle and environmental exposures, known collectively as the exposome, including diet, microbiome alterations, obesity, alcohol use, stress, pollution, and antibiotic exposure, to uncover the underlying mechanisms driving these increases.
+
+Within Team PROSPECT, our dedicated goal is to identify and disrupt the complex interactions among lifestyle, environmental, and biological factors that promote colorectal cancer in younger populations. By deciphering these causal networks, our ultimate aim is to develop targeted prevention strategies, significantly improving outcomes for younger adults at risk.
+
+[![](media/3_Projects/PROSPECT_CGC.png){width=60% fig-align="center"}](https://www.cancergrandchallenges.org/prospect)
+
+## Biomarkers of Osteoarthritis
+
+In my previous role as a Research Data Analyst at the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), University of Leeds, I contributed to the data analysis of clinical studies and biomarker research, with a focus on osteoarthritis, under the supervision of [Professor Philip Conaghan](https://medicinehealth.leeds.ac.uk/medicine/staff/236/professor-philip-conaghan) and [Dr. Liz Hensor](https://medicinehealth.leeds.ac.uk/medicine/staff/418/liz-hensor). By analyzing data from multiple osteoarthritis patient cohorts, including [The Osteoarthritis Initiative (OAI)](https://nda.nih.gov/oai), my research aimed to identify biomarkers associated with pain and other clinical outcomes in individuals living with osteoarthritis.
+
+[![](media/3_Projects/OAI.png){width=40% fig-align="center"}](https://nda.nih.gov/oai)
+
+## WHO STEPS
+
+During my research fellowship at the Non-Communicable Diseases Research Center (NCDRC), Tehran University of Medical Sciences, I contributed to the design, implementation, data analysis, and publication of the study protocol and results for the 2021 [WHO STEPwise approach to NCD risk factor surveillance (STEPS)](https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/steps) survey in Iran. STEPS is a simple, standardized method for collecting, analyzing and disseminating data on key non-communicable diseases' risk factors in countries. The survey instrument covers key behavioral risk factors including tobacco use, alcohol use, physical inactivity, unhealthy diet, as well as key biological risk factors including overweight and obesity, raised blood pressure, raised blood glucose, and abnormal blood lipids. My specific focus in Iran STEPS Survey 2021 was on [survey design](https://pubmed.ncbi.nlm.nih.gov/37543889/) and the [diabetes mellitus care cascade](https://pubmed.ncbi.nlm.nih.gov/37598214/).  
+
+Additionally, I was involved in the secondary analysis of the Iran STEPS Survey 2016 data, which led to publications on [salt intake estimation using the small area estimation method](https://pubmed.ncbi.nlm.nih.gov/34261565/) and the [burden of cardiovascular diseases attributable to total cholesterol using the population attributable fraction method](https://pubmed.ncbi.nlm.nih.gov/33520846/). I also contributed to [multiple other publications](https://pubmed.ncbi.nlm.nih.gov/?term=%28Sina+Azadnajafabad%5BAuthor%5D%29+AND+%28STEPS%5BTitle%5D%29&sort=date) leveraging STEPS findings.
+
+[![](media/3_Projects/STEPS_logo.jpg){width=50% fig-align="center"}]((https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/steps))
+
+## Quality of Care Index
+
+During my research at NCDRC, I played a key role in developing the [Quality of Care Index (QCI)](https://www.protocols.io/view/quality-of-care-index-qci-q26g78ym3lwz/v1)—a metric designed to assess the quality of care for various diseases and injuries using epidemiological data from the [Global Burden of Disease (GBD)](https://www.healthdata.org/research-analysis/gbd) study. As part of a team of epidemiologists and biostatisticians, I contributed to the conceptualization and development of QCI, helping to refine its methodology and application.
+
+Beyond the development of QCI, I led my project assessing [global, regional, and national QCI trends for thyroid cancer](https://pubmed.ncbi.nlm.nih.gov/33665966/), and contributed to [multiple publications on this method](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Sina+Azadnajafabad%5BAuthor%5D%29%29+AND+%28quality+of+care+index%5BTitle%5D%29&sort=date). Building on this work, I proposed an expansion of QCI to evaluate the quality of care for disease risk factors, leading to the development of the Risk Factor Quality of Care Index (rQCI). This framework was applied to study the [breast cancer quality of care](https://pubmed.ncbi.nlm.nih.gov/35770711/), culminating in published findings that further advanced the understanding of healthcare quality in cancer management.
+
+[![](media/3_Projects/QCI_BC_cropped.jpg){width=70% fig-align="center"}](https://pubmed.ncbi.nlm.nih.gov/35770711/)
+
+## Global Burden of Disease
+
+Since 2021, I have been an active collaborator in the [Global Burden of Disease (GBD)](https://www.healthdata.org/research-analysis/gbd) study, the largest and most comprehensive effort to quantify health loss across locations and over time, led by the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/) at the University of Washington. I have contributed to refining the methods and results of burden of disease estimations in the GBD 2017, 2019, 2021, and 2023 iterations.
+
+During my research fellowship at NCDRC, beyond developing the Quality of Care Index (QCI) using GBD data, my contributions have included [burden of disease estimations and health system performance in Iran](https://pubmed.ncbi.nlm.nih.gov/35397236/), [global burden of injuries and its risk factors](https://pubmed.ncbi.nlm.nih.gov/39454232/), and [burden of breast cancer and its risk factors in the North Africa and Middle East region](https://pubmed.ncbi.nlm.nih.gov/37593096/). These efforts have resulted in multiple high-impact publications, advancing knowledge on disease burden and healthcare performance across diverse populations.
+
+[![](media/3_Projects/GBD.png){width=55% fig-align="center"}](https://www.healthdata.org/research-analysis/gbd)
+
+## Non-Communicable Diseases
+
+During my research at NCDRC, a significant part of my work focused on the epidemiology of non-communicable diseases (NCDs) and their risk factors. I authored a highly cited review on [NCD risk factors in Iran](https://pubmed.ncbi.nlm.nih.gov/33500879/), which has had a notable impact in the field. Additionally, I collaborated with fellow researchers to examine the [epidemiologic patterns of cancers](https://pubmed.ncbi.nlm.nih.gov/34222092/), the [burden of NCDs](https://pubmed.ncbi.nlm.nih.gov/39610553/), and [health inequalities related to NCDs in Iran](https://pubmed.ncbi.nlm.nih.gov/39610535/). I also contributed to the design of the [first nationally and sub-nationally representative NCD cohort study in Iran (*Iran Cohort Study*)](https://pubmed.ncbi.nlm.nih.gov/37255781/), which serves as a foundational study for future research on NCDs.
+
+With the emergence of COVID-19, my research expanded to investigate the intersection between NCDs and the pandemic. I led a study on [Iran’s first online self-screening platform for COVID-19](https://pubmed.ncbi.nlm.nih.gov/33619926/), assessing its effectiveness in early detection and public health response. Additionally, I led a research on the [contribution of NCDs to COVID-19 mortality](https://pubmed.ncbi.nlm.nih.gov/34196211/) and co-authored [several other studies](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28Sina+Azadnajafabad%5BAuthor%5D%29%29+%29+AND+%28covid%5BTitle%2FAbstract%5D%29&sort=date) examining the pandemic’s impact. Beyond epidemiology, I explored bioethical challenges during the pandemic, publishing a paper on the [balance between healthcare workers’ autonomy rights and their duty to provide patient care during COVID-19](https://pubmed.ncbi.nlm.nih.gov/34055247/).
+
+## Clinical Projects
+
+During my medical training and post-graduation, I had the opportunity to work closely with clinical supervisors across various surgical specialties, contributing to research in multiple domains:
+
+* **Otolaryngology–Head & Neck Surgery**: My clinical research journey began in medical school, where I led my MD thesis on the [clinical characteristics of benign vocal fold lesions and the voice handicap index assessment of these laryngeal conditions](https://pubmed.ncbi.nlm.nih.gov/39971675/).
+
+* **Colorectal Surgery**: I contributed to data collection, analysis, and publication of a study [investigating prognostic factors for disease recurrence and overall survival following curative colon cancer resection, based on a 10-year patient cohort](https://pubmed.ncbi.nlm.nih.gov/36479535/). Additionally, I participated in research on [surgical outcomes of encapsulated peritoneal sclerosis associated with peritoneal dialysis](https://link.springer.com/article/10.1007/s12262-022-03339-x).
+
+* **Bariatric Surgery**: I was involved in a study analyzing [postoperative outcomes and advantages of hand-sewn laparoscopic one-anastomosis gastric bypass](https://pubmed.ncbi.nlm.nih.gov/33047292/), contributing to data collection, statistical analysis, and publication.
+
+* **Pediatric Surgery & Neurosurgery**: I led a study examining the incidence and risk factors for complicated acute appendicitis in children. Additionally, I contributed to two pediatric clinical trials, one [assessing the impact of external ventricular drain tunneling length on cerebrospinal fluid infection rates](https://pubmed.ncbi.nlm.nih.gov/33740757/), and another [comparing single-dose vs. multiple-dose antibiotic prophylaxis in clean pediatric neurosurgical interventions](https://pubmed.ncbi.nlm.nih.gov/34861647/).
+
+* **Orthopedic Surgery**: I collaborated with orthopedic surgeons to evaluate patient outcomes following [total hip arthroplasty](https://journals.lww.com/adbm/fulltext/2025/02280/a_comparative_analysis_of_functional_outcomes.13.aspx), [total knee arthroplasty](https://pubmed.ncbi.nlm.nih.gov/39616316/), and [treatment for shoulder stiffness](https://www.traumamon.com/article_212038.html). Additionally, I co-authored a [case report on distant migration of a broken guide pin following femoral neck fixation](https://pubmed.ncbi.nlm.nih.gov/39488715/), a rare but significant complication.
+
+* **Radiology**: In collaboration with interventional and diagnostic radiologists at the Advanced Diagnostic and Interventional Radiology Research Center at Tehran University of Medical Sciences, I worked on studies assessing [prostatic artery embolization outcomes for benign prostatic hyperplasia](https://pubmed.ncbi.nlm.nih.gov/40078904/), [refining MRI protocols for endometriosis](https://pubmed.ncbi.nlm.nih.gov/39531257/), and documenting a [rare case of pulmonary metastasis of a giant cell tumor mimicking an arteriovenous malformation](https://pubmed.ncbi.nlm.nih.gov/38229600/).
+
+* **Trauma & Spinal Cord Injury**: As part of a research team at the Sina Trauma and Surgery Research Center, Tehran University of Medical Sciences, I contributed to developing national clinical practice guidelines on [timing of decompressive surgery in acute spinal cord injury](https://pubmed.ncbi.nlm.nih.gov/37074391/) and [the role of baseline MRI in acute spinal cord injury assessment](https://brieflands.com/articles/ans-135297.html). Additionally, I collaborated on projects exploring [vagus nerve stimulation for spinal cord injury rehabilitation](https://pubmed.ncbi.nlm.nih.gov/36858292/) and [brain-computer interface applications in neurodegenerative diseases](https://pubmed.ncbi.nlm.nih.gov/37256332/).
+
+Through these multidisciplinary collaborations, I gained comprehensive clinical research experience, contributing to high-impact studies that bridge clinical practice with scientific advancements.
