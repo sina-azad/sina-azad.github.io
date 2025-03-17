@@ -11,12 +11,12 @@ execute:
 website:
   # title: "Sina Azad"
   site-url: https://sinaazad.com/
-  favicon: media/1_Home/favicon_SA_3.png
+  favicon: docs/media/1_Home/favicon_SA_3.png
   google-analytics: 
     tracking-id: "G-5W8GMD5CSV"
     anonymize-ip: true
   navbar:
-    logo: media/1_Home/favicon_SA_3.png
+    logo: docs/media/1_Home/favicon_SA_3.png
     logo-alt: "My initials has made this logo, SA"
     collapse: true
     pinned: true
