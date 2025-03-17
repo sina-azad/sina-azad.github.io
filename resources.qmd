@@ -1,0 +1,54 @@
+---
+title: "Resources"
+editor: source
+---
+
+This page is dedicated to providing resources for fellow researchers and medical students seeking guidance to begin their research journey or enhance their academic profile.
+
+## CV
+
+You can find various resources on formatting your CV, including the examples listed below:
+
+* [WashU Resumes, Cover Letters & Application Materials](https://careers.wustl.edu/channels/resumes-cover-letters/)
+
+* [WashU School of Medicine CV Preparation Information](https://faculty.med.wustl.edu/appointments-promotions/wusm-cv-formatting/)
+
+* [Johns Hopkins University CV Guide](https://studentaffairs.jhu.edu/wp-content/uploads/sites/58/2017/08/Curriculum_Vitae_JHU_Career_Center.pdf)
+
+## Research Training
+
+* [Research 101 Online Training](https://tracs.unc.edu/index.php/services/engagement/research-101), The North Carolina Translational and Clinical Sciences Institute
+
+## Scientific Writing
+
+* [Principles of Scientific Writing and Biomedical Publication: A JAMA Editors Guide for Authors](https://academic.oup.com/book/58841)
+
+## Statistics
+
+* [JAMA Guide to Statistics and Methods](https://jamanetwork.com/collections/44042/jama-guide-to-statistics-and-methods)
+
+## Epidemiology
+
+* [Epidemiology: An Introduction](https://global.oup.com/academic/product/epidemiology-9780197751541?cc=us&lang=en&) by Kenneth J. Rothman, Krista F. Huybrechts, and Eleanor J. Murray
+
+* [Epidemiology: Beyond the Basics](https://www.jblearning.com/catalog/productdetails/9781284116595?srsltid=AfmBOop6xGZ32xTutQ10v-aT61KKvteTPUGkjs5d-cQrAREGDTUPO2qm) by Moyses Szklo and F. Javier Nieto
+
+## R
+
+* [R for Data Science (2e)](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+
+* [ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen
+
+* [Practical Statistics in Medicine with R](https://practical-stats-med-r.netlify.app/) by Konstantinos I. Bougioukas
+
+* [Stats and R](https://statsandr.com/)
+
+## Website Tools
+
+* [Quarto Websites](https://quarto.org/docs/websites/)
+
+* [Data science tools for building professional online portfolios](https://ucsb-meds.github.io/EDS-296-DS-portfolios/) by Sam Shanny-Csik
+
+* [Altmetric’s](https://badge-docs.altmetric.com/index.html) and [Dimensions](https://badge.dimensions.ai/?identifier=pub.1134733122) Badges
