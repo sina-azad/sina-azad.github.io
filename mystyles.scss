@@ -2,7 +2,7 @@
 
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sen:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&family=Sen:wght@400..800&display=swap');
 
 // Fonts
 $sen: "Sen", sans-serif;
@@ -13,7 +13,8 @@ $roboto: "Roboto", sans-serif;
 $dark-green: #858E79;
 $light-green: #D1D9CE;
 $cream: #FDFBF7;
-$gray: #64605f;
+$gray: #64605f; 
+$dark-gray: #333333;
 $purple: #9158A2;
 $orange: #ad7237;
 $navy: #000080;
@@ -31,7 +32,7 @@ $navbar-bg: $white;
 $navbar-fg: $black;
 $navbar-hl: $teal;
 $body-bg: $white;
-$body-color: $gray;
+$body-color: $dark-gray;
 $footer-bg: $white;
 $link-color: $navy;
 
@@ -49,7 +50,7 @@ body {
   color: $body-color;
   background-color: $body-bg;
   line-height: 1.6;
-  text-align: justify;
+  text-align: left;
   margin: 0;
 }
 
@@ -80,12 +81,12 @@ h4, h5, h6 { font-family: $roboto; font-weight: 400; }
   text-align: center;
 }
 
-/* 6. Bio (Justified) */
+/* 6. Bio */
 #bio {
   font-family: $roboto;
   font-size: $body-font-size;
   color: $body-color;
-  text-align: justify;
+  text-align: left;
   margin-bottom: 15px;
 }
 
