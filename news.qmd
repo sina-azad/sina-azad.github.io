@@ -4,9 +4,7 @@ editor: source
 ---
 
 ## 2025
-* March: Honored to be chosen as a judge for WashU's 30th Annual **Graduate Research Symposium**, scheduled for March 27, 2025.
-
-[![](media/2_WashU/GRS_2025.png){width=60% fig-align="center"}](https://sites.wustl.edu/gpsc/events/graduate-research-symposium/)
+* March: Honored to be chosen as a judge for WashU's 30th Annual [**Graduate Research Symposium**](https://sites.wustl.edu/gpsc/events/graduate-research-symposium/), scheduled for March 27, 2025.
 
 * January: Excited to share that our abstract has been accepted for poster presentation at the **American Association for Cancer Research (AACR) Annual Meeting 2025**, taking place in Chicago, April 25–30.
 
@@ -37,6 +35,4 @@ editor: source
 
 <br>
 
-* August: Thrilled to join the **Cao Lab** in the Division of Public Health Sciences, Department of Surgery, WashU as a Postdoctoral Research Associate!
-
-[![](media/2_WashU/Cao_Lab.jpg){width=80% fig-align="center"}](https://caolab.wustl.edu/)
+* August: Thrilled to join the [**Cao Lab**](https://caolab.wustl.edu/) in the Division of Public Health Sciences, Department of Surgery, WashU as a Postdoctoral Research Associate!
