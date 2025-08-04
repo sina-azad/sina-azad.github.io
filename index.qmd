@@ -2,7 +2,7 @@
 title: "Sina Azadnajafabad, MD, MPH"
 description-meta: "Sina is a postdoctoral researcher at Washington University in St. Louis, doing research on cancer epidemiology, prevention, and surgery."
 editor: source
-image: media/1_Home/Headshot_1.jpg
+image: media/1_Home/Headshot_2.jpg
 toc: false
 about: 
   template: trestles

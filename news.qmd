@@ -4,16 +4,20 @@ editor: source
 ---
 
 ## 2025
-* April: Happy to join the [**Cancer Grand Challenges Future Leaders Working Group**](https://www.cancergrandchallenges.org/about/our-community/future-leaders) as the lead of the Team PROSPECT future leaders to help with activities to develop the next generation of cancer researchers.
+* **July:** It was an amazing experience to expand my knowledge and skills in molecular cancer epidemiology at the American Association for Cancer Research (AACR) [**Integrative Molecular Epidemiology Workshop**](https://www.aacr.org/meeting/ime25/) 2025, aimed to bridge cancer biology and percision medicine, in Philadelphia!
 
-* March: Honored to be chosen as a judge for WashU's 30th Annual [**Graduate Research Symposium**](https://sites.wustl.edu/gpsc/events/graduate-research-symposium/), scheduled for March 27, 2025.
+* **June:** I am excited to join the [**Cancer Grand Challenges Future Leaders’ Conference 2025**](https://www.cancergrandchallenges.org/event/future-leaders-conference-2025) Organizing Committee, helping plan this November’s conference in Milan, Italy.
 
-* January: Excited to share that our abstract has been accepted for poster presentation at the [**American Association for Cancer Research (AACR) Annual Meeting 2025**](https://www.aacr.org/meeting/aacr-annual-meeting-2025/), taking place in Chicago, April 25–30.
+* **April:** Happy to join the [**Cancer Grand Challenges Future Leaders Working Group**](https://www.cancergrandchallenges.org/about/our-community/future-leaders) as the lead of the Team PROSPECT future leaders to help with activities to develop the next generation of cancer research leaders.
 
-[![](media/2_WashU/AACR_2025_Flyer.jfif){width=80% fig-align="center"}](https://www.aacr.org/meeting/aacr-annual-meeting-2025/)
+* **March:** Honored to be chosen as a judge for WashU's 30th Annual [**Graduate Research Symposium**](https://sites.wustl.edu/gpsc/events/graduate-research-symposium/), scheduled for March 27, 2025.
+
+* **January:** Excited to share that my abstract has been accepted for poster presentation at the [**American Association for Cancer Research (AACR) Annual Meeting 2025**](https://www.aacr.org/meeting/aacr-annual-meeting-2025/), taking place in Chicago, April 25–30.
+
+![](media/2_WashU/AACR_2025_Flyer.jfif){width=80% fig-align="center"}
 
 ## 2024
-* November 18: Honored to be a guest speaker at the [*Cells to Society Club*](https://www.linkedin.com/company/cellstosocietywashu/posts/?feedView=all) at the WashU Brown School, discussing the [**Rising Incidence of Colorectal Cancer in Younger Adults**](https://www.linkedin.com/posts/cellstosocietywashu_cells-to-society-washu-is-excited-to-meet-activity-7264318188216070145-vhyZ/?utm_source=social_share_send&utm_medium=member_desktop_web).
+* **November 18:** Honored to be a guest speaker at the [*Cells to Society Club*](https://www.linkedin.com/company/cellstosocietywashu/posts/?feedView=all) at the WashU Brown School, discussing the [**Rising Incidence of Colorectal Cancer in Younger Adults**](https://www.linkedin.com/posts/cellstosocietywashu_cells-to-society-washu-is-excited-to-meet-activity-7264318188216070145-vhyZ/?utm_source=social_share_send&utm_medium=member_desktop_web).
 
 ::: {layout-ncol=2 .equal-images .tight-images}
 
@@ -25,16 +29,16 @@ editor: source
 
 <br>
 
-* November 13: Excited to present my developing project on **Generational Shifts in Cancer Risk** at the *Work in Progress Series* in the Division of Public Health Sciences. 
+* **November 13:** Excited to present my developing project on **Generational Shifts in Cancer Risk** at the *Work in Progress Series* in the Division of Public Health Sciences. 
 
 ![](media/2_WashU/WIP_PHS.jpeg){width=80% fig-align="center"}
 
 <br>
 
-* October - December: Excited to teach R programming labs for statistical analysis of complex survey data as a **Teaching Assistant** during the Intermediate Epidemiology Course led by Dr. Cao, as a part of the *Master of Population Health Sciences (MPHS) Program*.
+* **October - December:** Excited to teach R programming labs for statistical analysis of complex survey data as a **Teaching Assistant** during the Intermediate Epidemiology Course led by Dr. Cao, as a part of the *Master of Population Health Sciences (MPHS) Program*.
 
 ![](media/2_WashU/TA_MPHS.jpg){width=80% fig-align="center"}
 
 <br>
 
-* August: Thrilled to join the [**Cao Lab**](https://caolab.wustl.edu/) in the Division of Public Health Sciences, Department of Surgery, WashU as a Postdoctoral Research Associate!
+* **August:** Thrilled to join the [**Cao Lab**](https://caolab.wustl.edu/) in the Division of Public Health Sciences, Department of Surgery, WashU as a Postdoctoral Research Associate!

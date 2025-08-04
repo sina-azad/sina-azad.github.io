@@ -35,6 +35,8 @@ You can find various resources on formatting your CV, including the examples lis
 
 ## R
 
+* Download [R](https://cran.r-project.org/), [Positron](https://positron.posit.co/) (the next-generation data science IDE built by Posit PBC), and [RStudio](https://posit.co/download/rstudio-desktop/) (the established IDE to use R)
+
 * [R for Data Science (2e)](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
