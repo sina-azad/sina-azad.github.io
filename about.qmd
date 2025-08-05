@@ -21,9 +21,10 @@ My research interests lie at the intersection of clinical epidemiology and surge
 * Awarded the Iranian exceptional scholars researcher program award
 
 ## {{< fa newspaper >}} Collaborations
-* Member of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) and Future Leaders Working Group in [Cancer Grand Challenges](https://www.cancergrandchallenges.org/about/our-community/future-leaders)
-* Collaborator in the [Global Burden of Disease Study](https://www.healthdata.org/research-analysis/gbd), contributing to high-impact publications in prestigious journals.
-* Editorial and peer-review experience in several leading journals, including [PLOS One](https://journals.plos.org/plosone/search?resultsPerPage=60&unformattedQuery=editor%3A%22Sina%20Azadnajafabad%22&q=editor%3A%22Sina%20Azadnajafabad%22&sortOrder=DATE_NEWEST_FIRST&page=1) and Nature’s Scientific Reports.
+* Member of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) and [Future Leaders Working Group in Cancer Grand Challenges](https://www.cancergrandchallenges.org/about/our-community/future-leaders)
+* Associate Member of the [American Association for Cancer Research](https://www.aacr.org/)
+* Senior Collaborator of the [Global Burden of Disease Study](https://www.healthdata.org/research-analysis/gbd)
+* Academic editor and peer-reviewer for several biomedical journals, including [PLOS One](https://journals.plos.org/plosone/static/editorial-board?ae_name=Sina+Azadnajafabad) and [Nature Scientific Reports](https://www.nature.com/srep/about/editors)
 
 ## {{< fa handshake-angle >}} Volunteer Activities
 In addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I am actively participating in programs to promote cancer preventive health behaviors via increasing cancer awareness and screening.
