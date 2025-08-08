@@ -158,50 +158,6 @@ li {
   }
 }
 
-/* Badge Loading Placeholder & Progressive Enhancement */
-.altmetric-publication .badges-container {
-  position: relative;
-  min-height: 52px; /* reserve space to reduce layout shift */
-}
-
-.altmetric-publication .badges-container::before {
-  content: "Impact data loading…";
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 0.70rem;
-  letter-spacing: .5px;
-  font-weight: 500;
-  color: #888;
-  opacity: .9;
-  animation: badge-pulse 1.4s ease-in-out infinite;
-  pointer-events: none;
-}
-
-.altmetric-publication .badges-container:not(.badges-ready) .__dimensions_badge_embed__,
-.altmetric-publication .badges-container:not(.badges-ready) .altmetric-embed {
-  opacity: 0;
-}
-
-.altmetric-publication .badges-container.badges-ready::before {
-  opacity: 0;
-  transition: opacity .45s ease;
-  animation: none;
-  content: ""; /* clear text */
-}
-
-.altmetric-publication .badges-container.badges-ready .__dimensions_badge_embed__,
-.altmetric-publication .badges-container.badges-ready .altmetric-embed {
-  opacity: 1;
-  transition: opacity .45s ease;
-}
-
-@keyframes badge-pulse {
-  0% { opacity: .25; }
-  50% { opacity: .9; }
-  100% { opacity: .25; }
-}
 
 /* 12. Multiple Images Aligning */
 .equal-images img {
