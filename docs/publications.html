@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ae7f499c31185fb69bf8668e45d1089c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-10683173f75ce10c361c73c55e6816f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
@@ -2118,6 +2118,74 @@ gtag('config', 'G-5W8GMD5CSV', { 'anonymize_ip': true});
 <!-- Dimensions -->
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<!-- Progressive Enhancement: Mark badge containers as ready after badges render -->
+
+<script>
+
+	(function(){
+
+		const isBadgePopulated = (el) => {
+
+			if (!el) return false;
+
+			// Consider it populated if it has child nodes that render or non-zero dimensions
+
+			return el.childElementCount > 0 || el.offsetWidth > 0;
+
+		};
+
+
+
+		const scan = () => {
+
+			document.querySelectorAll('.badges-container').forEach(c => {
+
+				if (c.classList.contains('badges-ready')) return; // skip if already marked
+
+				const dim = c.querySelector('.__dimensions_badge_embed__');
+
+				const alt = c.querySelector('.altmetric-embed');
+
+				if (isBadgePopulated(dim) || isBadgePopulated(alt)) {
+
+					c.classList.add('badges-ready');
+
+				}
+
+			});
+
+		};
+
+
+
+		// Repeated scans with backoff
+
+		const schedule = [250, 600, 1200, 2000, 3500, 5000, 7000];
+
+		schedule.forEach(t => setTimeout(scan, t));
+
+
+
+		// Fallback: force all ready after 9s to avoid lingering placeholders
+
+		setTimeout(() => {
+
+			document.querySelectorAll('.badges-container:not(.badges-ready)').forEach(c => c.classList.add('badges-ready'));
+
+		}, 9000);
+
+
+
+		document.addEventListener('DOMContentLoaded', scan);
+
+		window.addEventListener('load', scan);
+
+	})();
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
