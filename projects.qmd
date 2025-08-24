@@ -41,6 +41,12 @@ During my research fellowship at NCDRC, beyond developing the Quality of Care In
 
 [![](media/3_Projects/GBD.png){width=55% fig-align="center"}](https://www.healthdata.org/research-analysis/gbd)
 
+## HPACC
+
+[Global Health and Population Project on Access to Care for Cardiometabolic Diseases (HPACC)](https://www.hpaccproject.org/) is an international research consortium established to meet the need for answers to key health policy and clinical questions relating to cardiometabolic diseases globally. This consortium obtains and harmonizes nationally representative survey data on cardiometabolic diseases with a focus on low- and middle-income countries (LMICs) to close existing research gaps. I have contributed to HPACC by providing data from WHO STEPS surveys data on cardiometabolic diseases and risk factors.
+
+One of the publications I have contributed was on the [variation in the proportion of adults in need of blood pressure-lowering medications by hypertension care guideline in LMICs](https://pubmed.ncbi.nlm.nih.gov/33554610/), analyzing data of more than one million individuals from 50 nationally representative surveys, published in *Criculation*. Another study was on the [national evidence on glucose-lowering medication use for diabetes](https://pubmed.ncbi.nlm.nih.gov/40759643/), analyzing data from 62 LMICs, published in *Nature Communications*. Both studies provided crucial insights into the management of cardiometabolic diseases in resource-limited settings.
+
 ## Non-Communicable Diseases
 
 During my research at NCDRC, a significant part of my work focused on the epidemiology of non-communicable diseases (NCDs) and their risk factors. I authored a highly cited review on [NCD risk factors in Iran](https://pubmed.ncbi.nlm.nih.gov/33500879/), which has had a notable impact in the field. Additionally, I collaborated with fellow researchers to examine the [epidemiologic patterns of cancers](https://pubmed.ncbi.nlm.nih.gov/34222092/), the [burden of NCDs](https://pubmed.ncbi.nlm.nih.gov/39610553/), and [health inequalities related to NCDs in Iran](https://pubmed.ncbi.nlm.nih.gov/39610535/). I also contributed to the design of the [first nationally and sub-nationally representative NCD cohort study in Iran (*Iran Cohort Study*)](https://pubmed.ncbi.nlm.nih.gov/37255781/), which serves as a foundational study for future research on NCDs.
