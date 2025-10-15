@@ -1,1 +1,1 @@
-This repository contains the codes for my [personal webiste](https://sinaazad.com/).
+This repository contains the codes for my [personal website](https://sinaazad.com/).
