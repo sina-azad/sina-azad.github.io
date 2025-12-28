@@ -13,7 +13,7 @@ $roboto: "Roboto", sans-serif;
 $dark-green: #858E79;
 $light-green: #D1D9CE;
 $cream: #FDFBF7;
-$gray: #64605f; 
+$gray: #64605f;
 $dark-gray: #333333;
 $purple: #9158A2;
 $orange: #ad7237;
@@ -25,7 +25,7 @@ $light-gray: #f2f4f4;
 
 // Font size
 $my-font-size: 30px;
-$body-font-size: 18px;
+$body-font-size: 17px;
 
 // Base document colors
 $navbar-bg: $white;
@@ -55,11 +55,48 @@ body {
 }
 
 
+
+// /* 25. Smooth scrolling & TOC offset for fixed navbar */
+// :root {
+//   --site-navbar-height: 72px; /* adjust if your navbar is taller/shorter */
+//   scroll-behavior: smooth;
+// }
+
+// article :is(h1, h2, h3, h4, h5, h6),
+// .quarto-container :is(h1, h2, h3, h4, h5, h6) {
+//   scroll-margin-top: calc(var(--site-navbar-height) + 1rem);
+// }
+
+// /* Ensure TOC anchor clicks scroll smoothly */
+// .quarto-toc a {
+//   scroll-behavior: smooth;
+// }
+
 /* 2. Typography for Headings */
-h1 { font-family: $roboto; font-weight: 600; }
-h2 { font-family: $roboto; font-weight: 500; }
-h3 { font-family: $roboto; font-weight: 400; }
-h4, h5, h6 { font-family: $roboto; font-weight: 400; }
+h1 {
+  font-family: $roboto;
+  font-weight: 500;
+}
+
+h2 {
+  font-family: $roboto;
+  font-weight: 400;
+  // font-size: 22px;
+}
+
+h3 {
+  font-family: $roboto;
+  font-weight: 300;
+  // font-size: 20px;
+}
+
+h4,
+h5,
+h6 {
+  font-family: $roboto;
+  font-weight: 300;
+  // font-size: 20px;
+}
 
 /* 3. Title Class */
 .title {
@@ -116,7 +153,7 @@ li {
 
 
 /* 9. Navbar Logo Size */
-.navbar-brand img { 
+.navbar-brand img {
   max-height: 30px;
   width: auto;
 }
@@ -140,9 +177,11 @@ li {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    gap: 10px; /* gap between badges */
+    gap: 10px;
+    /* gap between badges */
     width: auto;
-    margin-left: 20px; /* Add space between text and badges */
+    margin-left: 20px;
+    /* Add space between text and badges */
   }
 
   .__dimensions_badge_embed__ {
@@ -171,16 +210,18 @@ li {
   gap: 0px;
   align-items: center;
 }
+
 .tight-images img {
   margin: 0;
   padding: 0;
   height: 400px;
   object-fit: cover;
 }
+
 .equal-images a {
   display: flex;
   justify-content: center;
-} 
+}
 
 /* 13. Social Links Container */
 .about-links {
@@ -273,23 +314,26 @@ li {
 
 // 20. Put all the icons in a single row in the hamburger menu
 .navbar-nav.navbar-nav-scroll.ms-auto {
-    flex-direction: row;
+  flex-direction: row;
 }
 
 
 /* 21. Footer Styling */
 .nav-footer {
-    flex-wrap: wrap;
-    background-color: $body-bg;
+  flex-wrap: wrap;
+  background-color: $body-bg;
 }
 
 
 /* 22. Navbar Shadow Effect */
 .navbar {
-  background-color: white; /* Ensure the navbar is white */
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle bottom shadow */
+  background-color: white;
+  /* Ensure the navbar is white */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  /* Subtle bottom shadow */
   position: relative;
-  z-index: 1000; /* Ensures shadow is above other elements */
+  z-index: 1000;
+  /* Ensures shadow is above other elements */
 }
 
 
@@ -302,6 +346,3 @@ li {
   position: relative;
   z-index: 1000;
 } */
-
-
-

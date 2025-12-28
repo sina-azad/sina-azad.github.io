@@ -71,6 +71,7 @@ format:
       - mystyles.scss
     mainfont: Roboto
     toc: true
+    toc-expand: 2
     page-layout: full
     include-after-body: 
       - altmetric-script.html # Include the Altmetric JavaScript Globally
