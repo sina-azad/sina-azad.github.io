@@ -337,8 +337,6 @@ li {
 }
 
 
-
-
 /* Navbar Separator Line 
 .navbar {
   background-color: white; 
@@ -346,3 +344,50 @@ li {
   position: relative;
   z-index: 1000;
 } */
+
+
+/* 23. Publication buttons alignment */
+/* indexed publications buttons */
+.pub-index-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 12px;
+}
+
+/* base button style */
+.pub-index-buttons .btn {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px 18px;
+  border-radius: 8px;
+  border-width: 2px;
+  text-decoration: none !important;
+  transition: all 0.2s ease-in-out;
+}
+
+/* outline color and text */
+.pub-index-buttons .btn-outline-primary {
+  color: #000080;               /* navy */
+  border-color: #000080;
+  background-color: #ffffff;
+}
+
+/* hover and focus */
+.pub-index-buttons .btn-outline-primary:hover,
+.pub-index-buttons .btn-outline-primary:focus {
+  background-color: #000080;
+  color: #ffffff;
+  border-color: #000080;
+  text-decoration: none !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 128, 0.25);
+}
+
+/* active click */
+.pub-index-buttons .btn-outline-primary:active {
+  transform: translateY(1px);
+}
+
+
+

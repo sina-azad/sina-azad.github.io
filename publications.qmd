@@ -6,10 +6,13 @@ editor_options:
 ---
 
 ## Indexed Publications
-* [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800)
-* [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200)
-* [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57219389837)
-* [**Web of Science**](https://www.webofscience.com/wos/author/record/ABC-5770-2020)
+
+::: {.pub-index-buttons}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800){.btn .btn-outline-primary target="_blank"}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sina+Azadnajafabad&sort=date&size=200){.btn .btn-outline-primary target="_blank"}
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219389837){.btn .btn-outline-primary target="_blank"}
+[Web of Science](https://www.webofscience.com/wos/author/record/ABC-5770-2020){.btn .btn-outline-primary target="_blank"}
+:::
 
 ```{r}
 #| echo: false
