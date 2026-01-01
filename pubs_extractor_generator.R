@@ -97,6 +97,7 @@ writeLines(markdown, "publist_selected.qmd")
 
 # Input publications
 pubs_list <- c(
+  "Nosratinia N, Azadnajafabad S, Masinaei M, Golestani A, Ghamari S-H, Abbasi-Kangevari M, et al. Salt Intake Among the Iranian Population and Public Attitudes Toward Salt Consumption: National and Subnational Report From STEPS 2021. Food Science & Nutrition. 2026. DOI: 10.1002/fsn3.71399. url: https://onlinelibrary.wiley.com/doi/10.1002/fsn3.71399",
   "Davoody S, Vakili K, Jazi K, Fathi M, Heidari-Foroozan M, Mofidi SA, Taremi M, Taherkhani A, Azadnajafabad S, Pour FH, et al. Alterations of Gut Microbiota and Microbial Metabolites in Parkinson's Disease: A Systematic Review. Molecular Neurobiology. 2025. DOI: 10.1007/s12035-025-05598-7. url: https://link.springer.com/article/10.1007/s12035-025-05598-7",
   "Rashidi A, Bastan MM, Golestani A, Azadnajafabad S, Rezaei N, Zeinodinimeymand M, et al. Burden of osteoarthritis in North Africa and Middle East from 1990 to 2021: findings from the Global Burden of Disease 2021 study. Clinical Rheumatology. 2025. DOI: 10.1007/s10067-025-07761-w. url: https://link.springer.com/article/10.1007/s10067-025-07761-w",
   "Khanmohammadi S, Karimi K, Sadri M, Ebrahimpur M, Payab M, Azadnajafabad S, et al. Prevalence and determinants of general and abdominal obesity and overweight among older Iranian adults using 2016 and 2021 STEPS surveys. Scientific Reports. 2025. DOI: 10.1038/s41598-025-23885-0. url: https://www.nature.com/articles/s41598-025-23885-0",
@@ -273,6 +274,8 @@ pubs_list <- c(
 )
 
 
+# prepare pubs_list.csv ----
+
 # Parse the texts
 parsed_data <- tibble(
   text = pubs_list
@@ -302,308 +305,70 @@ parsed_data <- tibble(
 export(x = parsed_data, file = "pubs_list.csv")
 
 
+# generate per year bibliography ----
 
-## 2025 ----
-# Read + filter the publication data for year
-data <- 
-  import("pubs_list.csv") |> 
-  filter(year == "2025")
+pubs <- import("pubs_list.csv")
 
+# years to iterate over
+years <- sort(unique(pubs$year), decreasing = TRUE)
 
-# Initialize Markdown content
-markdown <- ""
+for (yr in years) {
 
-# Loop through each publication and generate Markdown content
-for (i in 1:nrow(data)) {
-  authors <- data$author[i]
-  title <- data$title[i]
-  url <- data$url[i]
-  journal <- data$journal[i]
-  year <- data$year[i]
-  doi <- data$doi[i]
-  
-  # Bold "Azadnajafabad S" in the authors string
-  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
-  
-  # Add formatted publication with Altmetric and Dimensions badges
-  markdown <- paste0(
-    markdown,
-    "::: {.altmetric-publication}\n",
-    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
-    "<div class=\"badges-container\">\n",
-    "  <span class=\"__dimensions_badge_embed__\" \n",
-    "        data-doi=\"", doi, "\"\n",
-    "        data-legend=\"hover-bottom\"\n",
-    "        data-style=\"small_circle\"\n",
-    "        data-hide-zero-citations=\"true\">\n",
-    "  </span>\n\n",
-    "  <div data-badge-popover=\"bottom\" \n",
-    "       data-badge-type=\"donut\" \n",
-    "       data-condensed=\"false\" \n",
-    "       data-doi=\"", doi, "\" \n",
-    "       data-hide-no-mentions=\"true\" \n",
-    "       data-hide-less-than=\"0\" \n",
-    "       class=\"altmetric-embed\">\n",
-    "  </div>\n",
-    "</div>\n",
-    ":::\n\n"
-  )
+  # filter data for year
+  data <- pubs |>
+    filter(year == yr)
+
+  # skip if no publications for that year
+  if (nrow(data) == 0) next
+
+  # initialize markdown content
+  markdown <- ""
+
+  # loop through publications
+  for (i in seq_len(nrow(data))) {
+
+    authors <- data$author[i]
+    title   <- data$title[i]
+    url     <- data$url[i]
+    journal <- data$journal[i]
+    year    <- data$year[i]
+    doi     <- data$doi[i]
+
+    # bold my name
+    authors <- gsub(
+      "Azadnajafabad S",
+      "**Azadnajafabad S**",
+      authors
+    )
+
+    # append formatted markdown
+    markdown <- paste0(
+      markdown,
+      "::: {.altmetric-publication}\n",
+      "* ", authors, ". [", title, "](", url, "). *",
+      journal, ".* ", year, ". DOI: ", doi, "\n\n",
+      "<div class=\"badges-container\">\n",
+      "  <span class=\"__dimensions_badge_embed__\" \n",
+      "        data-doi=\"", doi, "\"\n",
+      "        data-legend=\"hover-bottom\"\n",
+      "        data-style=\"small_circle\"\n",
+      "        data-hide-zero-citations=\"true\">\n",
+      "  </span>\n\n",
+      "  <div data-badge-popover=\"bottom\" \n",
+      "       data-badge-type=\"donut\" \n",
+      "       data-condensed=\"false\" \n",
+      "       data-doi=\"", doi, "\" \n",
+      "       data-hide-no-mentions=\"true\" \n",
+      "       data-hide-less-than=\"0\" \n",
+      "       class=\"altmetric-embed\">\n",
+      "  </div>\n",
+      "</div>\n",
+      ":::\n\n"
+    )
+  }
+
+  # write output file
+  outfile <- paste0("publist_", yr, ".qmd")
+  writeLines(markdown, outfile)
 }
 
-# Save the generated Markdown to a file
-writeLines(markdown, "publist_2025.qmd")
-
-
-## 2024 ----
-# Read + filter the publication data for year
-data <- 
-  import("pubs_list.csv") |> 
-  filter(year == "2024")
-
-
-# Initialize Markdown content
-markdown <- ""
-
-# Loop through each publication and generate Markdown content
-for (i in 1:nrow(data)) {
-  authors <- data$author[i]
-  title <- data$title[i]
-  url <- data$url[i]
-  journal <- data$journal[i]
-  year <- data$year[i]
-  doi <- data$doi[i]
-  
-  # Bold "Azadnajafabad S" in the authors string
-  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
-  
-  # Add formatted publication with Altmetric and Dimensions badges
-  markdown <- paste0(
-    markdown,
-    "::: {.altmetric-publication}\n",
-    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
-    "<div class=\"badges-container\">\n",
-    "  <span class=\"__dimensions_badge_embed__\" \n",
-    "        data-doi=\"", doi, "\"\n",
-    "        data-legend=\"hover-bottom\"\n",
-    "        data-style=\"small_circle\"\n",
-    "        data-hide-zero-citations=\"true\">\n",
-    "  </span>\n\n",
-    "  <div data-badge-popover=\"bottom\" \n",
-    "       data-badge-type=\"donut\" \n",
-    "       data-condensed=\"false\" \n",
-    "       data-doi=\"", doi, "\" \n",
-    "       data-hide-no-mentions=\"true\" \n",
-    "       data-hide-less-than=\"0\" \n",
-    "       class=\"altmetric-embed\">\n",
-    "  </div>\n",
-    "</div>\n",
-    ":::\n\n"
-  )
-}
-
-# Save the generated Markdown to a file
-writeLines(markdown, "publist_2024.qmd")
-
-
-## 2023 ----
-# Read + filter the publication data for year
-data <- 
-  import("pubs_list.csv") |> 
-  filter(year == "2023")
-
-
-# Initialize Markdown content
-markdown <- ""
-
-# Loop through each publication and generate Markdown content
-for (i in 1:nrow(data)) {
-  authors <- data$author[i]
-  title <- data$title[i]
-  url <- data$url[i]
-  journal <- data$journal[i]
-  year <- data$year[i]
-  doi <- data$doi[i]
-  
-  # Bold "Azadnajafabad S" in the authors string
-  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
-  
-  # Add formatted publication with Altmetric and Dimensions badges
-  markdown <- paste0(
-    markdown,
-    "::: {.altmetric-publication}\n",
-    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
-    "<div class=\"badges-container\">\n",
-    "  <span class=\"__dimensions_badge_embed__\" \n",
-    "        data-doi=\"", doi, "\"\n",
-    "        data-legend=\"hover-bottom\"\n",
-    "        data-style=\"small_circle\"\n",
-    "        data-hide-zero-citations=\"true\">\n",
-    "  </span>\n\n",
-    "  <div data-badge-popover=\"bottom\" \n",
-    "       data-badge-type=\"donut\" \n",
-    "       data-condensed=\"false\" \n",
-    "       data-doi=\"", doi, "\" \n",
-    "       data-hide-no-mentions=\"true\" \n",
-    "       data-hide-less-than=\"0\" \n",
-    "       class=\"altmetric-embed\">\n",
-    "  </div>\n",
-    "</div>\n",
-    ":::\n\n"
-  )
-}
-
-# Save the generated Markdown to a file
-writeLines(markdown, "publist_2023.qmd")
-
-
-## 2022 ----
-# Read + filter the publication data for year
-data <- 
-  import("pubs_list.csv") |> 
-  filter(year == "2022")
-
-
-# Initialize Markdown content
-markdown <- ""
-
-# Loop through each publication and generate Markdown content
-for (i in 1:nrow(data)) {
-  authors <- data$author[i]
-  title <- data$title[i]
-  url <- data$url[i]
-  journal <- data$journal[i]
-  year <- data$year[i]
-  doi <- data$doi[i]
-  
-  # Bold "Azadnajafabad S" in the authors string
-  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
-  
-  # Add formatted publication with Altmetric and Dimensions badges
-  markdown <- paste0(
-    markdown,
-    "::: {.altmetric-publication}\n",
-    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
-    "<div class=\"badges-container\">\n",
-    "  <span class=\"__dimensions_badge_embed__\" \n",
-    "        data-doi=\"", doi, "\"\n",
-    "        data-legend=\"hover-bottom\"\n",
-    "        data-style=\"small_circle\"\n",
-    "        data-hide-zero-citations=\"true\">\n",
-    "  </span>\n\n",
-    "  <div data-badge-popover=\"bottom\" \n",
-    "       data-badge-type=\"donut\" \n",
-    "       data-condensed=\"false\" \n",
-    "       data-doi=\"", doi, "\" \n",
-    "       data-hide-no-mentions=\"true\" \n",
-    "       data-hide-less-than=\"0\" \n",
-    "       class=\"altmetric-embed\">\n",
-    "  </div>\n",
-    "</div>\n",
-    ":::\n\n"
-  )
-}
-
-# Save the generated Markdown to a file
-writeLines(markdown, "publist_2022.qmd")
-
-
-## 2021 ----
-# Read + filter the publication data for year
-data <- 
-  import("pubs_list.csv") |> 
-  filter(year == "2021")
-
-
-# Initialize Markdown content
-markdown <- ""
-
-# Loop through each publication and generate Markdown content
-for (i in 1:nrow(data)) {
-  authors <- data$author[i]
-  title <- data$title[i]
-  url <- data$url[i]
-  journal <- data$journal[i]
-  year <- data$year[i]
-  doi <- data$doi[i]
-  
-  # Bold "Azadnajafabad S" in the authors string
-  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
-  
-  # Add formatted publication with Altmetric and Dimensions badges
-  markdown <- paste0(
-    markdown,
-    "::: {.altmetric-publication}\n",
-    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
-    "<div class=\"badges-container\">\n",
-    "  <span class=\"__dimensions_badge_embed__\" \n",
-    "        data-doi=\"", doi, "\"\n",
-    "        data-legend=\"hover-bottom\"\n",
-    "        data-style=\"small_circle\"\n",
-    "        data-hide-zero-citations=\"true\">\n",
-    "  </span>\n\n",
-    "  <div data-badge-popover=\"bottom\" \n",
-    "       data-badge-type=\"donut\" \n",
-    "       data-condensed=\"false\" \n",
-    "       data-doi=\"", doi, "\" \n",
-    "       data-hide-no-mentions=\"true\" \n",
-    "       data-hide-less-than=\"0\" \n",
-    "       class=\"altmetric-embed\">\n",
-    "  </div>\n",
-    "</div>\n",
-    ":::\n\n"
-  )
-}
-
-# Save the generated Markdown to a file
-writeLines(markdown, "publist_2021.qmd")
-
-
-## 2020 ----
-# Read + filter the publication data for year
-data <- 
-  import("pubs_list.csv") |> 
-  filter(year == "2020")
-
-
-# Initialize Markdown content
-markdown <- ""
-
-# Loop through each publication and generate Markdown content
-for (i in 1:nrow(data)) {
-  authors <- data$author[i]
-  title <- data$title[i]
-  url <- data$url[i]
-  journal <- data$journal[i]
-  year <- data$year[i]
-  doi <- data$doi[i]
-  
-  # Bold "Azadnajafabad S" in the authors string
-  authors <- gsub("Azadnajafabad S", "**Azadnajafabad S**", authors)
-  
-  # Add formatted publication with Altmetric and Dimensions badges
-  markdown <- paste0(
-    markdown,
-    "::: {.altmetric-publication}\n",
-    "* ", authors, ". [", title, "](", url, "). *", journal, ".* ", year, ". DOI: ", doi, "\n\n",
-    "<div class=\"badges-container\">\n",
-    "  <span class=\"__dimensions_badge_embed__\" \n",
-    "        data-doi=\"", doi, "\"\n",
-    "        data-legend=\"hover-bottom\"\n",
-    "        data-style=\"small_circle\"\n",
-    "        data-hide-zero-citations=\"true\">\n",
-    "  </span>\n\n",
-    "  <div data-badge-popover=\"bottom\" \n",
-    "       data-badge-type=\"donut\" \n",
-    "       data-condensed=\"false\" \n",
-    "       data-doi=\"", doi, "\" \n",
-    "       data-hide-no-mentions=\"true\" \n",
-    "       data-hide-less-than=\"0\" \n",
-    "       class=\"altmetric-embed\">\n",
-    "  </div>\n",
-    "</div>\n",
-    ":::\n\n"
-  )
-}
-
-# Save the generated Markdown to a file
-writeLines(markdown, "publist_2020.qmd")

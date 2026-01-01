@@ -62,7 +62,7 @@ website:
         href: mailto:sina.azad.u@gmail.com
 
   page-footer: 
-    center: © 2025 Sina Azadnajafabad<br> Website built with [{{< iconify simple-icons:quarto >}}](https://quarto.org/){target=_blank}, [{{< fa brands r-project >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github >}}](https://github.com/){target=_blank}
+    center: © 2026 Sina Azadnajafabad<br> Website built with [{{< iconify simple-icons:quarto >}}](https://quarto.org/){target=_blank}, [{{< fa brands r-project >}}](https://www.r-project.org/about.html){target=_blank} and [{{< fa brands github >}}](https://github.com/){target=_blank}
 
 
 format:

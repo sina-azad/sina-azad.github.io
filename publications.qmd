@@ -28,6 +28,10 @@ source("pubs_extractor_generator.R")
 {{< include publist_selected.qmd >}}
 
 ## Bibliography
+### 2026
+
+{{< include publist_2026.qmd >}}
+
 ### 2025
 
 {{< include publist_2025.qmd >}}
