@@ -358,9 +358,9 @@ li {
 /* base button style */
 .pub-index-buttons .btn {
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
-  padding: 10px 18px;
+  padding: 6px 12px;
   border-radius: 8px;
   border-width: 2px;
   text-decoration: none !important;
@@ -390,4 +390,15 @@ li {
 }
 
 
+/* figure caption styling */
+figcaption {
+  text-align: center;
+  font-size: 0.95em;
+  color: $body-color;
+}
 
+// callout body font size and color
+.callout-body {
+  font-size: $body-font-size !important;
+  color: $body-color;
+}

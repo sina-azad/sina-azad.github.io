@@ -18,43 +18,72 @@ editor_options:
 #| echo: false
 #| error: false
 #| warning: false
+#| output: false
 
-# run this code before rendering publications.qmd
-source("pubs_extractor_generator.R")
+# RUN this code before rendering publications.qmd to generate qmd files used later below
+source("pubs_extractor_v2.R")
 ```
 
 ## Selected Publications
 
-{{< include publist_selected.qmd >}}
+{{< include _pubs_files/publist_selected.qmd >}}
 
-## Bibliography
+## Bibliography (peer-reviewed journal articles)
 ### 2026
 
-{{< include publist_2026.qmd >}}
+{{< include _pubs_files/publist_2026.qmd >}}
 
 ### 2025
 
-{{< include publist_2025.qmd >}}
+{{< include _pubs_files/publist_2025.qmd >}}
 
 ### 2024
 
-{{< include publist_2024.qmd >}}
+{{< include _pubs_files/publist_2024.qmd >}}
 
 ### 2023
 
-{{< include publist_2023.qmd >}}
+{{< include _pubs_files/publist_2023.qmd >}}
 
 ### 2022
 
-{{< include publist_2022.qmd >}}
+{{< include _pubs_files/publist_2022.qmd >}}
 
 ### 2021
 
-{{< include publist_2021.qmd >}}
+{{< include _pubs_files/publist_2021.qmd >}}
 
 ### 2020
 
-{{< include publist_2020.qmd >}}
+{{< include _pubs_files/publist_2020.qmd >}}
+
+## Preprints
+
+{{< include _pubs_files/publist_preprints.qmd >}}
+
+## Published conference abstracts
+
+{{< include _pubs_files/publist_conferences.qmd >}}
+
+## Summary Statistics
+
+::: {.callout-note appearance="simple" }
+
+Publication and citation statistics in this section are based on [Google Scholar](https://scholar.google.com/citations?hl=en&user=OqOPJOEAAAAJ&view_op=list_works&sortby=pubdate&inst=2230987035966559800) as of **`r format(Sys.Date(), "%B %d, %Y")`**.
+
+:::
+
+```{r}
+#| echo: false
+#| error: false
+#| warning: false
+#| tbl-cap: "Publication and citation statistics"
+
+source("citation_extractor.R")
+
+citation_table
+
+```
 
 ## Publications Wordcloud
 
@@ -64,5 +93,7 @@ source("pubs_extractor_generator.R")
 #| warning: false
 
 source("wordcloud_script.R")
+
 ```
 
+![Wordcloud of publications titles](media/5_wordcloud/wordcloud.png){width=500 height=500 fig-align="center"}
