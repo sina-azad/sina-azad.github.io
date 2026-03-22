@@ -40,3 +40,5 @@ When not in the lab or classroom, I enjoy travelling, jogging, biking, swimming,
 
 ## {{< fa wifi >}} Connect with Me
 I welcome connections through the social and academic platforms linked on top of the website and to [reach out via email](mailto:sina.azad.u@gmail.com) for communications. I do my best to respond timely (usually in a few hours) and am always open to collaborations and discussions about my research and academic journey. I also look forward to learning from you and hearing your story.
+
+Feel free to explore [my publications](publications.qmd) and [my projects](projects.qmd).
