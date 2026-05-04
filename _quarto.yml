@@ -58,9 +58,9 @@ website:
       - text: "{{< fa brands x-twitter >}}"
         href: https://x.com/SinaAzadMD
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app/profile/sinaazadmd.bsky.social
-        target: _blank
+      # - text: "{{< fa brands bluesky >}}"
+      #   href: https://bsky.app/profile/sinaazadmd.bsky.social
+      #   target: _blank
       - text: "{{< fa envelope >}}"
         href: mailto:sina.azad.u@gmail.com
 
