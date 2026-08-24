@@ -3,10 +3,9 @@ pacman::p_load(rio, tidyverse, officer, xml2)
 # import bibliography word file path
 source("files_directories.R")
 
+# word file path
 word_file_path <- list.files(my_publications_folder, full.names = TRUE) |>
   str_subset("My_bibliography_.*\\.docx$")
-
-# word_file_path
 
 # output pubs_list.csv path, all qmd output files are alson in _pubs_files/
 pubs_list_dir <- "_pubs_files/pubs_list.csv"
@@ -96,15 +95,19 @@ parse_bibliography_entries <- function(entries, output_csv = pubs_list_dir) {
       # Extract components using pattern matching
       # Fields are separated by ". " followed by field marker with ":"
       # Content can include colons, so match until ". " + next field marker
-      author = str_trim(str_extract(text, "(?<=author:\\s).*?(?=\\.\\s(?:title:|journal:|year:|conf:|doi:|pmid:|ref\\s|url:))")),
-      title = str_trim(str_extract(text, "(?<=title:\\s).*?(?=\\.\\s(?:journal:|year:|conf:|doi:|pmid:|ref\\s|url:|author:))")),
+      author = str_trim(str_extract(text, "(?<=author:\\s).*?(?=\\.\\s(?:title:|journal:|book:||year:|conf:|publisher:|doi:|pmid:|ref\\s|url:))")),
+      title = str_trim(str_extract(text, "(?<=title:\\s).*?(?=\\.\\s(?:journal:|book:|year:|conf:|doi:|pmid:|ref\\s|url:|author:))")),
       journal = str_trim(str_extract(text, "(?<=journal:\\s).*?(?=\\.\\s(?:year:|doi:|pmid:|ref\\s|url:|author:|title:|conf:))")),
       year = str_extract(text, "(?<=year:\\s)\\d{4}"),
       conference = str_trim(str_extract(text, "(?<=conf:\\s).*?(?=\\.\\s(?:journal:|doi:|pmid:|ref\\s|url:|author:|title:|year:))")),
       doi = str_remove(str_extract(text, "(?<=doi:\\s)\\S+"), "\\.$"),
       pmid = str_remove(str_extract(text, "(?<=pmid:\\s)\\S+"), "\\.$"),
       ref_type = str_trim(str_extract(text, "(?<=ref\\stype:\\s).*?(?=\\.\\s(?:url:|author:|title:|journal:|year:|conf:|doi:|pmid:))|(?<=ref\\stype:\\s)[^.]*$")),
-      url = str_extract(text, "(?<=url:\\s)\\S+")
+      url = str_extract(text, "(?<=url:\\s)\\S+"),
+      book = str_trim(str_extract(text, "(?<=book:\\s).*?(?=\\.\\s(?:publisher:|year:|chapter:|pages:|url:|author:|title:|journal:|conf:|doi:|pmid:))")),
+      publisher = str_trim(str_extract(text, "(?<=publisher:\\s).*?(?=\\.\\s(?:year:|chapter:|pages:|url:|author:|title:|journal:|conf:|doi:|pmid:))")),
+      chapter = str_trim(str_extract(text, "(?<=chapter:\\s).*?(?=\\.\\s(?:pages:|url:|author:|title:|journal:|conf:|doi:|pmid:))")),
+      pages = str_trim(str_extract(text, "(?<=pages:\\s).*?(?=\\.\\s(?:url:|ref\\s))"))
     ) |>
     ungroup() |>
 
@@ -113,7 +116,7 @@ parse_bibliography_entries <- function(entries, output_csv = pubs_list_dir) {
       doi = ifelse(is.na(doi), "N/A", doi),
       pmid = ifelse(is.na(pmid), "N/A", pmid)
     ) |>
-    select(author, title, journal, year, doi, pmid, ref_type, url, conference)
+    select(author, title, journal, year, doi, pmid, ref_type, url, conference, book, publisher, chapter, pages)
 
   # Save to CSV
   export(x = result, file = pubs_list_dir)
@@ -428,7 +431,107 @@ generate_preprints_bibliography <- function(csv_file = pubs_list_dir) {
 }
 
 # ==========================================================================
-# Step 6: function to generate conference abstracts qmd file from CSV ----
+# Step 6: function to generate book chapters qmd file from CSV ----
+# ==========================================================================
+
+generate_book_chapters_bibliography <- function(csv_file = pubs_list_dir) {
+  # Read the publication data
+  pubs <- import(csv_file)
+
+  # filter for reference type "Book Section" and select relevant columns
+  data <- pubs |>
+    filter(ref_type == "Book Section") |>
+    select(author, title, book, publisher, year, chapter, pages, url, doi)
+
+  # initialize markdown content
+  markdown <- ""
+
+  # loop through publications
+  for (i in seq_len(nrow(data))) {
+    authors <- data$author[i]
+    title <- data$title[i]
+    url <- data$url[i]
+    book <- data$book[i]
+    publisher <- data$publisher[i]
+    year <- data$year[i]
+    chapter <- data$chapter[i]
+    pages <- data$pages[i]
+    doi <- data$doi[i]
+
+    # bold my name
+    authors <- gsub(
+      "Azadnajafabad S",
+      "**Azadnajafabad S**",
+      authors
+    )
+
+    # italicize book title
+    book <- paste0("*", book, "*")
+
+    # append formatted markdown
+    markdown <- paste0(
+      markdown,
+      "::: {.altmetric-publication}\n",
+      "* ",
+      authors,
+      ". [",
+      title,
+      "](",
+      url,
+      "). ",
+      book,
+      ". ",
+      publisher,
+      ". ",
+      year,
+      ". Chapter: ",
+      chapter,
+      ". ",
+      pages,
+      ". DOI: ",
+      doi,
+      "\n\n",
+      # Dimensions badge - shows citation count and other metrics
+      "<div class=\"badges-container\">\n",
+      "  <span class=\"__dimensions_badge_embed__\" \n",
+      "        data-doi=\"",
+      doi,
+      "\"\n",
+      "        data-legend=\"hover-bottom\"\n",
+      "        data-style=\"small_circle\"\n",
+      "        data-hide-zero-citations=\"true\">\n",
+      "  </span>\n\n",
+      # Altmetric badge - shows online mentions and social media impact
+      "  <div data-badge-popover=\"bottom\" \n",
+      "       data-badge-type=\"donut\" \n",
+      "       data-condensed=\"false\" \n",
+      "       data-doi=\"",
+      doi,
+      "\" \n",
+      "       data-hide-no-mentions=\"true\" \n",
+      "       data-hide-less-than=\"0\" \n",
+      "       class=\"altmetric-embed\">\n",
+      "  </div>\n",
+      "</div>\n",
+      ":::\n\n"
+    )
+  }
+
+  # write output file
+  outfile <- "_pubs_files/publist_book_chapters.qmd"
+  writeLines(markdown, outfile)
+
+  cat(paste0(
+    "Generated book chapters bibliography file: ",
+    outfile,
+    " (",
+    nrow(data),
+    " book chapters)\n"
+  ))
+}
+
+# ==========================================================================
+# Step 7: function to generate conference abstracts qmd file from CSV ----
 # ==========================================================================
 
 generate_conference_bibliography <- function(csv_file = pubs_list_dir) {
@@ -549,7 +652,11 @@ complete_bibliography_workflow <- function(
   cat("Generating preprints bibliography file...\n")
   generate_preprints_bibliography(output_csv)
 
-  # Step 6: Generate conference abstracts bibliography file
+  # Step 6: Generate book chapters bibliography file
+  cat("Generating book chapters bibliography file...\n")
+  generate_book_chapters_bibliography(output_csv)
+
+  # Step 7: Generate conference abstracts bibliography file
   cat("Generating conference abstracts bibliography file...\n")
   generate_conference_bibliography(output_csv)
 

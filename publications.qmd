@@ -21,7 +21,8 @@ editor_options:
 #| output: false
 
 # RUN this code before rendering publications.qmd to generate qmd files used later below
-source("pubs_extractor_v2.R")
+source("pubs_extractor.R")
+source("presentations_extractor.R")
 ```
 
 ## Selected Publications
@@ -61,7 +62,11 @@ source("pubs_extractor_v2.R")
 
 {{< include _pubs_files/publist_preprints.qmd >}}
 
-## Published conference abstracts
+## Book Chapters
+
+{{< include _pubs_files/publist_book_chapters.qmd >}}
+
+## Conference Abstracts
 
 {{< include _pubs_files/publist_conferences.qmd >}}
 
@@ -97,3 +102,24 @@ source("wordcloud_script.R")
 ```
 
 ![Wordcloud of publications titles](media/5_wordcloud/wordcloud.png){width=500 height=500 fig-align="center"}
+
+## Presentations and Talks
+### 2026
+
+{{< include _pubs_files/presentations_2026.qmd >}}
+
+### 2025
+
+{{< include _pubs_files/presentations_2025.qmd >}}
+
+### 2024
+
+{{< include _pubs_files/presentations_2024.qmd >}}
+
+### 2023
+
+{{< include _pubs_files/presentations_2023.qmd >}}
+
+### 2021
+
+{{< include _pubs_files/presentations_2021.qmd >}}
