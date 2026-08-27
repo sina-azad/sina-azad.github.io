@@ -131,6 +131,7 @@ parse_bibliography_entries <- function(entries, output_csv = pubs_list_dir) {
 generate_selected_bibliography <- function(
   csv_file = pubs_list_dir,
   selected_pmids = c(
+    "42649278",
     "41781047",
     "40996033",
     "40171038",

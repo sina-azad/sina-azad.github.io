@@ -4,6 +4,10 @@ editor: source
 ---
 
 ## 2026
+* **August:** Our research in Cao Lab at WashU on [**shaping the future of early-onset colorectal cancer prevention**](https://www.nature.com/articles/s41568-026-00965-5) has been published in *Nature Reviews Cancer*. This is a milestone roadmap review on early-onset colorectal cancer risk factor discovery and its integration with causal mechanistic insights, arguing that prevention strategies need to be tailored to younger populations.
+
+[![](media/4_News/NRC_review_EOCRC_2026.png){width=80% fig-align="center"}](https://www.nature.com/articles/s41568-026-00965-5)
+
 * **April:** Excited to share that I will be presenting my research at the [**American Cancer Society and Cancer Research UK Cancer Prevention Research Conference 2026**](https://web.cvent.com/event/17ec9efb-0d57-47bf-b4eb-f0a0d26c1b3d/summary) this June, in Atlanta, Georgia.
 
 [![](media/4_News/ACS_CRUK_2026.jpeg){width=80% fig-align="center"}](https://web.cvent.com/event/17ec9efb-0d57-47bf-b4eb-f0a0d26c1b3d/summary)
