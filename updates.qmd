@@ -1,9 +1,11 @@
 ---
-title: "News"
+title: "Updates"
 editor: source
 ---
 
 ## 2026
+* **October:** I will be presenting my research on early-onset colorectal cancer risk factor discovery and clinical trajectories at the **Team PROSPECT Annual Retreat 2026**, taking place on October 1–2 at WashU in St. Louis, Missouri. My presentation will be both during scientific sessions and as a poster presentation.
+
 * **August:** Our research in Cao Lab at WashU on [**shaping the future of early-onset colorectal cancer prevention**](https://www.nature.com/articles/s41568-026-00965-5) has been published in *Nature Reviews Cancer*. This is a milestone roadmap review on early-onset colorectal cancer risk factor discovery and its integration with causal mechanistic insights, arguing that prevention strategies need to be tailored to younger populations.
 
 [![](media/4_News/NRC_review_EOCRC_2026.png){width=80% fig-align="center"}](https://www.nature.com/articles/s41568-026-00965-5)

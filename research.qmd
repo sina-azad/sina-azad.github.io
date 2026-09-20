@@ -1,13 +1,13 @@
 ---
-title: "Projects"
+title: "Research"
 editor: source
 ---
 
 ## Cancer Grand Challenges
 
-In my current position as a Postdoctoral Research Associate in the [Cao Lab](https://caolab.wustl.edu/) at Washington University in St. Louis, I am a part of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) (Pathways, Risk factors, and mOlecueS to Prevent Early-onset Colorectal Tumors), an international research collaboration co-led by [Dr. Yin Cao](https://caolab.wustl.edu/people/yin-cao/) and funded by the [Cancer Grand Challenges](https://www.cancergrandchallenges.org/) initiative, co-founded by the two largest funders of cancer research in the world, *Cancer Research UK* and the *National Cancer Institute* in the U.S. This prestigious program builds an elite, interdisciplinary community to tackle cancer’s most complex problems, and aims to accelerate high-impact research and translate discoveries for public and patient benefit through global team science.
+In my current position as a Postdoctoral Research Associate in the [Cao Lab](https://caolab.wustl.edu/) at Washington University in St. Louis, I am part of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) (Pathways, Risk factors, and mOlecueS to Prevent Early-onset Colorectal Tumors), an international research collaboration funded by the [Cancer Grand Challenges](https://www.cancergrandchallenges.org/) initiative, co-founded by the two largest funders of cancer research in world, *Cancer Research UK* and the *National Cancer Institute* in the U.S. This prestigious program builds an elite, interdisciplinary community to tackle cancer’s most complex problems, and aims to accelerate high-impact research and translate discoveries for public and patient benefit through global team science.
 
-My research in this team focuses specifically on the [early-onset cancers challenge](https://www.cancergrandchallenges.org/challenges/active-challenges/early-onset-cancers), seeking to understand the global increase in cancer incidence among adults under age of 50. This worrying trend of multiple cancer types cannot be fully explained by increased screening alone. We explore various changes in lifestyle and environmental exposures and risk factors, to uncover the underlying mechanisms driving these trends, with a focus on colorectal cancer.
+My research in this team focuses specifically on the [early-onset cancers challenge](https://www.cancergrandchallenges.org/challenges/active-challenges/early-onset-cancers), seeking to understand the global increase in cancer incidence among adults under age of 50. This worrying trend of multiple cancer types cannot be fully explained by increased screening alone. We explore various changes in lifestyle and environmental exposures and risk factors, to uncover the underlying mechanisms driving these trends and to guide prevention strategies, with a focus on [early-onset colorectal cancer](https://pubmed.ncbi.nlm.nih.gov/42649278/).
 
 [![](media/3_Projects/PROSPECT_CGC.png){width=60% fig-align="center"}](https://www.cancergrandchallenges.org/prospect)
 
