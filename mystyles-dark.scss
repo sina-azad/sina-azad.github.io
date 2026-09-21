@@ -1,61 +1,68 @@
 /*-- scss:defaults --*/
 
 
-// Import fonts
+// Import fonts (same as light theme)
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&family=Sen:wght@400..800&display=swap');
 
-// Fonts
+// Fonts (same as light theme)
 $sen: "Sen", sans-serif;
 $nunito: "Nunito", sans-serif;
 $roboto: "Roboto", sans-serif;
 
 // Colors
-$dark-green: #858E79;
-$light-green: #D1D9CE;
-$cream: #FDFBF7;
-$gray: #64605f;
-$dark-gray: #333333;
-$purple: #9158A2;
-$orange: #ad7237;
-$navy: #000080;
-$teal: #008080;
+$dark-green: #9AA491;
+$light-green: #3A4136;
+$cream: #2A2622;
+$gray: #b3aeac;
+$dark-gray: #E0E0E0;
+$purple: #C79AE0;
+$orange: #d69a63;
+$navy: #7A8CFF;
+$teal: #33B5B5;
 $black: #000000;
 $white: #FFFFFF;
-$light-gray: #f2f4f4;
+$light-gray: #2A2C2C;
 
-// Font size
+// Surface colors
+$surface: #1A1A1A;
+$surface-2: #242424;
+
+// Font size (same as light theme)
 $my-font-size: 30px;
 $body-font-size: 17px;
 
 // Base document colors
-$navbar-bg: $white;
-$navbar-fg: $black;
+$navbar-bg: $surface;
+$navbar-fg: $white;
 $navbar-hl: $teal;
-$body-bg: $white;
+$body-bg: #121212;
 $body-color: $dark-gray;
-$footer-bg: $white;
-$link-color: $navy;
+$footer-bg: $surface;
+$bright-red: #ff4c4c;
+$bright-green: #4cd964;
+$link-color: $bright-green;
 
 // Heading / title color
-$heading-color: $black;
+$heading-color: $white;
 
 // Inline code styling
-$code-bg: $cream;
+$code-bg: $surface-2;
 $code-color: $purple;
 
 // About-link buttons
-$about-link-border: #ccc;
-$about-link-color: #555;
-$about-link-bg: #f9f9f9;
-$about-link-hover-bg: #e6e6e6;
+$about-link-border: #4d4d4d;
+$about-link-color: #d0d0d0;
+$about-link-bg: $surface-2;
+$about-link-hover-bg: #333333;
 
 // Navbar shadow
-$navbar-shadow: rgba(0, 0, 0, 0.1);
+$navbar-shadow: rgba(0, 0, 0, 0.5);
 
 // Publication index buttons
-$pub-btn-color: $navy;
-$pub-btn-bg: $white;
-$pub-btn-hover-shadow: rgba(0, 0, 128, 0.25);
+$dark-green-btn: #34a853;
+$pub-btn-color: $dark-green-btn;
+$pub-btn-bg: $surface;
+$pub-btn-hover-shadow: rgba(52, 168, 83, 0.3);
 
 /*-- scss:rules --*/
 
@@ -71,24 +78,6 @@ body {
   margin: 0;
 }
 
-
-
-// /* 25. Smooth scrolling & TOC offset for fixed navbar */
-// :root {
-//   --site-navbar-height: 72px; /* adjust if your navbar is taller/shorter */
-//   scroll-behavior: smooth;
-// }
-
-// article :is(h1, h2, h3, h4, h5, h6),
-// .quarto-container :is(h1, h2, h3, h4, h5, h6) {
-//   scroll-margin-top: calc(var(--site-navbar-height) + 1rem);
-// }
-
-// /* Ensure TOC anchor clicks scroll smoothly */
-// .quarto-toc a {
-//   scroll-behavior: smooth;
-// }
-
 /* 2. Typography for Headings */
 h1 {
   font-family: $roboto;
@@ -98,13 +87,11 @@ h1 {
 h2 {
   font-family: $roboto;
   font-weight: 400;
-  // font-size: 22px;
 }
 
 h3 {
   font-family: $roboto;
   font-weight: 300;
-  // font-size: 20px;
 }
 
 h4,
@@ -112,7 +99,6 @@ h5,
 h6 {
   font-family: $roboto;
   font-weight: 300;
-  // font-size: 20px;
 }
 
 /* 3. Title Class */
@@ -143,19 +129,6 @@ h6 {
   text-align: left;
   margin-bottom: 15px;
 }
-
-
-/* 7. Lists & Bullets 
-ul, ol {
-  list-style-position: outside;
-  padding-left: 25px;
-}
-
-li {
-  text-align: justify;
-  display: list-item;
-} */
-
 
 /* 8. Links (Scoped to Content Only, Not Header) */
 .quarto-container a {
@@ -195,10 +168,8 @@ li {
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
-    /* gap between badges */
     width: auto;
     margin-left: 20px;
-    /* Add space between text and badges */
     position: relative;
   }
 
@@ -208,6 +179,11 @@ li {
     height: 50px;
   }
 
+  // Altmetric's badge script has a black score number with no dark-mode
+  // option. Rather than restyle its own box (which fought its internal
+  // layout), altmetric-badge-fix.js drops a separately-positioned backdrop
+  // element behind it, sized/placed to exactly match — only once a badge
+  // actually renders, so rows with no Altmetric data show no circle.
   .altmetric-embed {
     flex-shrink: 0;
     width: 50px;
@@ -378,24 +354,12 @@ li {
 .navbar {
   background-color: $navbar-bg;
   box-shadow: 0px 4px 6px $navbar-shadow;
-  /* Subtle bottom shadow */
   position: relative;
   z-index: 1000;
-  /* Ensures shadow is above other elements */
 }
 
 
-/* Navbar Separator Line 
-.navbar {
-  background-color: white; 
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
-  position: relative;
-  z-index: 1000;
-} */
-
-
 /* 23. Publication buttons alignment */
-/* indexed publications buttons */
 .pub-index-buttons {
   display: flex;
   flex-wrap: wrap;
@@ -426,7 +390,7 @@ li {
 .pub-index-buttons .btn-outline-primary:hover,
 .pub-index-buttons .btn-outline-primary:focus {
   background-color: $pub-btn-color;
-  color: $pub-btn-bg;
+  color: $body-bg;
   border-color: $pub-btn-color;
   text-decoration: none !important;
   box-shadow: 0 4px 10px $pub-btn-hover-shadow;
@@ -451,3 +415,54 @@ figcaption {
   color: $body-color;
 }
 
+// Fallback in case Altmetric ever renders the score as real DOM/SVG text
+// rather than an image (dimensions badges already have their own white
+// background and don't need this).
+.altmetric-embed text,
+.altmetric-embed tspan,
+.altmetric-embed .altmetric-score {
+  fill: $bright-red !important;
+  color: $bright-red !important;
+}
+
+// Legibility backdrop for the Altmetric badge: a same-box ::before pinned
+// with inset:0 on .altmetric-embed itself, so it can never drift out of
+// alignment the way a separately-positioned sibling element could. The
+// .has-badge class is added by altmetric-badge-fix.js once a badge has
+// actually rendered (so rows with no Altmetric data show no circle).
+.altmetric-embed.has-badge {
+  // Altmetric's own injected content isn't centered within the container
+  // by default, which made the ::before circle look off-center relative to
+  // the visible badge graphic. Center it explicitly — this is a separate
+  // flex context from .badges-container's row layout, so it doesn't affect
+  // spacing between the two badges.
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  // Flex items default to min-width/min-height:auto, which can let this
+  // box grow past 50x50 to fit its (nested-flex) child's intrinsic size —
+  // that growth is what was throwing off the gap to the Dimensions badge.
+  // Force it back to the fixed box regardless of the child's natural size.
+  // (No overflow:hidden here — that squared off the badge's round shape;
+  // letting it overflow visibly like before keeps its natural circle.)
+  min-width: 0;
+  min-height: 0;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: $white;
+    border-radius: 50%;
+    z-index: 0;
+    pointer-events: none;
+  }
+}
+
+// A positioned ::before always paints above normal static-flow content, so
+// the badge's own (unpositioned) child needs an explicit stacking context
+// above it to actually appear in front of the white backdrop.
+.altmetric-embed.has-badge > * {
+  position: relative;
+  z-index: 1;
+}

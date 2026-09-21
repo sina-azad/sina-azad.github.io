@@ -1,7 +1,9 @@
 project:
   type: website
-  resources: 
+  resources:
     - CNAME
+    - navbar-toggle-position.js
+    - altmetric-badge-fix.js
   output-dir: docs
   execute-dir: project
   # preview: 
@@ -70,14 +72,19 @@ website:
 
 format:
   html:
-    theme: 
-      - mystyles.scss
+    theme:
+      light: mystyles.scss
+      dark: mystyles-dark.scss
+    respect-user-color-scheme: false
     mainfont: Roboto
     toc: true
     toc-expand: 2
     page-layout: full
-    include-after-body: 
+    include-after-body:
       - altmetric-script.html # Include the Altmetric JavaScript Globally
+      - text: |
+          <script src="/navbar-toggle-position.js"></script>
+          <script src="/altmetric-badge-fix.js"></script>
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
