@@ -3,7 +3,7 @@ title: "Resources"
 editor: source
 ---
 
-This page is dedicated to providing resources for fellow researchers and medical students seeking guidance to begin their research journey or enhance their academic profile.
+This page is dedicated to providing resources for fellow researchers and medical students seeking guidance to begin their research journey or enhance their statistical analysis skills and build their academic profile.
 
 ## CV
 

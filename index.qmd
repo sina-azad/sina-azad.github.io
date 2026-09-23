@@ -34,7 +34,7 @@ I am a postdoctoral researcher specializing in cancer epidemiology, prevention, 
 **Doctor of Medicine (MD)** | Tehran University of Medical Sciences | 2020 
 
 ### Current Position
-**Postdoctoral Research Associate** | Washington University in St. Louis, MO
+**Postdoctoral Research Associate** | Washington University in St. Louis (WashU), MO
 
 Please take your time to [learn more about me](about.qmd)!
 :::

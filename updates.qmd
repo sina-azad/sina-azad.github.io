@@ -4,17 +4,25 @@ editor: source
 ---
 
 ## 2026
-* **October:** I will be presenting my research on early-onset colorectal cancer risk factor discovery and clinical trajectories at the **Team PROSPECT Annual Retreat 2026**, taking place on October 1–2 at WashU in St. Louis, Missouri. My presentation will be both during scientific sessions and as a poster presentation.
+
+* **October:** I will be presenting my research on early-onset colorectal cancer risk factor discovery and clinical trajectories at the [**Cancer Grand Challenges Team PROSPECT Annual Meeting and Symposium**](https://t.e2ma.net/message/7y527x/ruf39lmd) entitled *Early-Onset Cancers: Rethinking Cancer Cause Discovery*, taking place on October 1–2 at WashU in St. Louis, Missouri. My presentation will be both during scientific sessions and as a poster presentation.
+
+[![](media/4_News/CGC_PROSPECT_Retreat_2026.png){width=80% fig-align="center"}](https://t.e2ma.net/message/7y527x/ruf39lmd)
 
 * **August:** Our research in Cao Lab at WashU on [**shaping the future of early-onset colorectal cancer prevention**](https://www.nature.com/articles/s41568-026-00965-5) has been published in *Nature Reviews Cancer*. This is a milestone roadmap review on early-onset colorectal cancer risk factor discovery and its integration with causal mechanistic insights, arguing that prevention strategies need to be tailored to younger populations.
 
 [![](media/4_News/NRC_review_EOCRC_2026.png){width=80% fig-align="center"}](https://www.nature.com/articles/s41568-026-00965-5)
+
+* **June:** For the second year, I am part of the organizing committee for the [**Cancer Grand Challenges Future Leaders’ Conference 2026**](https://www.cancergrandchallenges.org/event/future-leaders-conference-2026), helping with abstract review and planning this year's conference on November 11–13, in Barcelona, Spain.
 
 * **April:** Excited to share that I will be presenting my research at the [**American Cancer Society and Cancer Research UK Cancer Prevention Research Conference 2026**](https://web.cvent.com/event/17ec9efb-0d57-47bf-b4eb-f0a0d26c1b3d/summary) this June, in Atlanta, Georgia.
 
 [![](media/4_News/ACS_CRUK_2026.jpeg){width=80% fig-align="center"}](https://web.cvent.com/event/17ec9efb-0d57-47bf-b4eb-f0a0d26c1b3d/summary)
 
 ## 2025
+
+* **October - December:** For the second year, I am teaching R programming labs and assisting with the Intermediate Epidemiology Course as a **Teaching Assistant**, in the *Master of Population Health Sciences (MPHS) Program*.
+
 * **August:** Happy to share that my abstract has been accepted for presentation at the [**Cancer Grand Challenges Future Leaders’ Conference 2025**](https://www.cancergrandchallenges.org/event/future-leaders-conference-2025) this November, in Milan, Italy.
 
 [![](media/4_News/CGC_FL_2025.png){width=80% fig-align="center"}](https://www.cancergrandchallenges.org/event/future-leaders-conference-2025)
@@ -23,7 +31,7 @@ editor: source
 
 [![](media/4_News/AACR_IME_2025.png){width=80% fig-align="center"}](https://www.aacr.org/meeting/ime25/)
 
-* **June:** I am excited to join the [**Cancer Grand Challenges Future Leaders’ Conference 2025**](https://www.cancergrandchallenges.org/event/future-leaders-conference-2025) Organizing Committee, helping plan this November’s conference in Milan, Italy.
+* **June:** I am excited to join the [**Cancer Grand Challenges Future Leaders’ Conference 2025**](https://www.cancergrandchallenges.org/event/future-leaders-conference-2025) organizing committee, helping with abstract review and planning this year's conference on November 12–14, in Milan, Italy.
 
 * **April:** Happy to join the [**Cancer Grand Challenges Future Leaders Working Group**](https://www.cancergrandchallenges.org/about/our-community/future-leaders) as the lead of the Team PROSPECT future leaders to help with activities to develop the next generation of cancer research leaders.
 
@@ -34,6 +42,7 @@ editor: source
 [![](media/4_News/AACR_2025_Flyer.jfif){width=80% fig-align="center"}](https://www.aacr.org/meeting/aacr-annual-meeting-2025/)
 
 ## 2024
+
 * **November 18:** Honored to be a guest speaker at the [*Cells to Society Club*](https://www.linkedin.com/company/cellstosocietywashu/posts/?feedView=all) at the WashU Brown School, discussing the [**Rising Incidence of Colorectal Cancer in Younger Adults**](https://www.linkedin.com/posts/cellstosocietywashu_cells-to-society-washu-is-excited-to-meet-activity-7264318188216070145-vhyZ/?utm_source=social_share_send&utm_medium=member_desktop_web).
 
 ::: {layout-ncol=2 .equal-images .tight-images}
@@ -44,18 +53,14 @@ editor: source
 
 :::
 
-<br>
-
 * **November 13:** Excited to present my developing project on **Generational Shifts in Cancer Risk** at the *Work in Progress Series* in the Division of Public Health Sciences. 
 
 ![](media/2_WashU/WIP_PHS.jpeg){width=80% fig-align="center"}
 
-<br>
-
-* **October - December:** Excited to teach R programming labs for statistical analysis of complex survey data as a **Teaching Assistant** during the Intermediate Epidemiology Course led by Dr. Cao, as a part of the *Master of Population Health Sciences (MPHS) Program*.
+* **October - December:** Excited to teach R programming labs for statistical analysis of complex survey data as a **Teaching Assistant** for the Intermediate Epidemiology Course, in the *Master of Population Health Sciences (MPHS) Program*.
 
 ![](media/2_WashU/TA_MPHS.jpg){width=80% fig-align="center"}
 
-<br>
+* **August:** Thrilled to join [**Cao Lab**](https://caolab.wustl.edu/) in the *Division of Public Health Sciences, Department of Surgery, WashU*, as a Postdoctoral Research Associate. In this role, I will do postdoctoral research and training on cancer and molecular epidemiology, with a focus on early-onset colorectal cancer risk factor discovery and clinical trajectories.
 
-* **August:** Thrilled to join the [**Cao Lab**](https://caolab.wustl.edu/) in the Division of Public Health Sciences, Department of Surgery, WashU as a Postdoctoral Research Associate!
+* **January:** I am happy to join the the [**Leeds Institute of Rheumatic and Musculoskeletal Medicine**](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), at *Faculty of Medicine and Health, University of Leeds*, as a Research Data Analyst. In this position, I will conduct clinical research and data analysis in the fields of rheumatology and musculoskeletal diseases, with a specific focus on osteoarthritis joint pain and inflammatory biomarkers.

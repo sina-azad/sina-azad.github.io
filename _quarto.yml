@@ -32,10 +32,10 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: publications.qmd
-        text: Publications
       - href: research.qmd
         text: Research
+      - href: publications.qmd
+        text: Publications
       - href: updates.qmd
         text: Updates
       - href: resources.qmd
