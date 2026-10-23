@@ -3,26 +3,32 @@ title: "About Me"
 editor: source
 ---
 
-I am a medical doctor and researcher with a passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and impactful contributions to improve public health and patient outcomes.
+I am a medical doctor and researcher with a passion for advancing knowledge in clinical epidemiology, and prevention of chronic conditions. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and impactful contributions to improve public health and patient outcomes.
 
 ## {{< fa book >}} Education
 I hold a Doctor of Medicine (MD) degree from *Tehran University of Medical Sciences*, where I conducted my thesis on the [clinical characteristics of benign vocal fold lesions](https://pubmed.ncbi.nlm.nih.gov/39971675/). Complementing my clinical training, I completed a Master of Public Health (MPH) training at *Iran University of Medical Sciences*, with my thesis focusing on the [global assessment of breast cancer epidemiology and quality of care](https://pubmed.ncbi.nlm.nih.gov/37124828/).
 
 ## {{< fa user-tie >}} Professional Experience
-Currently, I am a Postdoctoral Research Associate in [Cao Lab](https://caolab.wustl.edu/), at *Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis (WashU)*, collaborating on cutting-edge research on cancer epidemiology and surgery. I also contribute to the academic activities as a Teaching Assistant in Intermediate Clinical Epidemiology Course as a part of the [Master of Population Health Sciences program](https://mphs.wustl.edu/), guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.
+Currently, I am a Research Fellow in Health Epidemiology in the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), at *Faculty of Medicine and Health, University of Leeds*, working on large linked health datasets and advanced statistical and pharmacoepidemiology methods to better understand osteoarthritis and other long-term conditions, and to explore how emerging treatments may affect musculoskeletal health.
 
-Previously, I held the [Research Data Analyst](https://medicinehealth.leeds.ac.uk/staff/11892/dr-sina-azadnajafabad?preview=1) role in the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), at *Faculty of Medicine and Health, University of Leeds*, where I specialized in data analysis of clinical cohort studies and biomarkers research, and as a Research Fellow in the [Non-Communicable Diseases Research Center](https://ncdrc.tums.ac.ir/en), at *Tehran University of Medical Sciences*, leading numerous projects on population health, non-communicable diseases epidemiology, clinical research, Global Burden of Disease, and public health.
+**My previous roles:**
+
+* I was a Postdoctoral Research Associate in [Cao Lab](https://caolab.wustl.edu/), at *Division of Public Health Sciences, Department of Surgery, Washington University in St. Louis (WashU)* between August 2024 – September 2026, collaborating on cutting-edge research on cancer epidemiology and surgery. Also, I contributed to the academic activities as a Teaching Assistant in the Intermediate Clinical Epidemiology Course as a part of the [Master of Population Health Sciences program](https://mphs.wustl.edu/), guiding students in applying statistical methods to complex survey data and statistical analysis of clinical data.
+
+* I held the Research Data Analyst role in the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine) at *University of Leeds* between January 2024 – July 2024, where I specialized in data analysis of clinical cohort studies and biomarkers research, 
+
+* I was a Research Fellow in the [Non-Communicable Diseases Research Center](https://ncdrc.tums.ac.ir/en), at *Tehran University of Medical Sciences* between December 2019 – December 2023, leading numerous projects on population health, non-communicable diseases epidemiology, clinical research, Global Burden of Disease, and public health.
 
 ## {{< fa toolbox >}} Key Skills
+I have extensive experience and skills in epidemiology and clinical research, including scientific writing and manuscript preparation, systematic literature search and review, data analysis, and grant and research proposal development. My work involves designing and conducting a wide range of studies, including observational studies (cross sectional, case-control, cohort), complex survey-design based research, electronic health record (EHR) studies, clinical outcomes studies, and randomized controlled trials (RCTs). I am also experienced in systematic reviews and meta-analyses.
 
-I have extensive experience and skills in epidemiology and clinical research, including scientific writing and manuscript preparation, systematic literature search and review, and grant and research proposal development. My work involves designing and conducting a wide range of studies, including observational studies (cross sectional, case-control, cohort), complex survey based research, electronic health record (EHR) studies, clinical outcomes studies, and randomized controlled trials (RCTs). I am also experienced in systematic reviews and meta-analyses.
-
-My methodological expertise includes large-scale data management and advanced statistical analysis, such as survey-weighted analysis, trend analysis, regression modelling, prediction modelling, survival analysis, receiver operating characteristic (ROC) curve analysis, and meta-analysis. I primarily code in R and also use SQL, Unix, SPSS, Stata, and Python for data analysis and computational research, with experience in reproducible research tools such as R Markdown, Quarto, GitHub, and Shiny applications ([see some codes repositories for published research papers on my GitHub](https://github.com/sina-azad)). In addition, I have experience with research administration and data governance processes, including IRB applications, data use and transfer agreements, and access to large cohort and biobank datasets.
+My methodological expertise includes large-scale data management and advanced statistical analysis, such as survey-weighted analysis, trend analysis, regression modelling, prediction modeling, survival analysis, receiver operating characteristic (ROC) curve analysis, and meta-analysis. I primarily code in R and also use SQL, Unix, SPSS, Stata, and Python for data analysis and computational research, with experience in reproducible research tools such as R Markdown, Quarto, GitHub, and Shiny applications ([see some codes repositories for published research papers on my GitHub](https://github.com/sina-azad)). In addition, I have experience with research administration and data governance processes, including IRB applications, data use and transfer agreements, and access to large cohort and biobank datasets.
 
 ## {{< fa dna >}} Research Interests
-My research interests lie at the intersection of clinical epidemiology and surgery, with a focus on cancer prevention, early detection, and outcomes research. Currently, I am dedicated to studying gastrointestinal cancers, leveraging large datasets and real-world evidence to address emerging questions in cancer epidemiology trends.
+My research interests lie at the intersection of clinical epidemiology and statistical methods, with a focus on chronic conditions prevention, early detection, and outcomes research. Currently, I am dedicated to studying musculoskeletal diseases, leveraging large datasets and real-world evidence to address emerging questions in osteoarthritis therapies.
 
 ## {{< fa medal >}} Achievements
+* Cancer Grand Challenges Team PROSPECT Cornerstone Award
 * Ranked 1^st^ in the MPH entrance exam, *Iran University of Medical Sciences*
 * Awarded the Iranian exceptional scholars researcher program award
 
@@ -33,7 +39,7 @@ My research interests lie at the intersection of clinical epidemiology and surge
 * Academic editor and ad-hoc reviewer for several biomedical journals, including [PLOS One](https://journals.plos.org/plosone/static/editorial-board?ae_name=Sina+Azadnajafabad) and [Nature Scientific Reports](https://www.nature.com/srep/about/editors)
 
 ## {{< fa handshake-angle >}} Volunteer Activities
-In addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I am actively participating in programs to promote cancer preventive health behaviors via increasing cancer awareness and screening.
+In addition to my academic pursuits, I am committed to community health. As a volunteer health educator, I am actively participating in programs to promote preventive health behaviors via increasing disease awareness and screening.
 
 ## {{< fa mountain-sun >}} Beyond Work
 When not in the lab or classroom, I enjoy travelling, jogging, biking, exploring new cuisines by cooking, and watching movies (my favorite genre: science fiction).

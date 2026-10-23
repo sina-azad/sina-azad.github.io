@@ -1,6 +1,6 @@
 ---
 title: "Sina Azadnajafabad, MD, MPH"
-description-meta: "Sina is a postdoctoral researcher at Washington University in St. Louis, doing research on cancer epidemiology, prevention, and surgery."
+description-meta: "Sina is a research fellow at University of Leeds, doing clinical and epidemiology research on chronic conditions such as musculoskeletal diseases."
 editor: source
 image: media/1_Home/Headshot_5.jpg
 toc: false
@@ -27,14 +27,14 @@ about:
 
 ::: {#bio}
 ## Hi there!
-I am a postdoctoral researcher specializing in cancer epidemiology, prevention, early detection, and surgery. My work integrates epidemiological and clinical research to improve cancer prevention and patient outcomes.
+I am a research fellow specializing in clinical epidemiology. My work integrates epidemiological and statistical methods into clinical research to improve prevention of chronic conditions and patient outcomes.
 
 ### Education
 **Master of Public Health (MPH)** | Iran University of Medical Sciences | 2023 <br>
 **Doctor of Medicine (MD)** | Tehran University of Medical Sciences | 2020 
 
 ### Current Position
-**Postdoctoral Research Associate** | Washington University in St. Louis (WashU), MO
+**Research Fellow in Health Epidemiology** | University of Leeds, UK
 
 Please take your time to [learn more about me](about.qmd)!
 :::

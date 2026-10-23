@@ -3,17 +3,21 @@ title: "Research"
 editor: source
 ---
 
+## Musculoskeletal Health
+
+In my current role as a Research Fellow in Health Epidemiology at University of Leeds, I work on large linked health datasets and advanced statistical and pharmacoepidemiology methods to better understand osteoarthritis and other long-term conditions, and to explore how emerging treatments may affect musculoskeletal health.
+
 ## Cancer Grand Challenges
 
-In my current position as a Postdoctoral Research Associate in the [Cao Lab](https://caolab.wustl.edu/) at Washington University in St. Louis, I am part of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) (Pathways, Risk factors, and mOlecueS to Prevent Early-onset Colorectal Tumors), an international research collaboration funded by the [Cancer Grand Challenges](https://www.cancergrandchallenges.org/) initiative, co-founded by the two largest funders of cancer research in world, *Cancer Research UK* and the *National Cancer Institute* in the U.S. This prestigious program builds an elite, interdisciplinary community to tackle cancer’s most complex problems, and aims to accelerate high-impact research and translate discoveries for public and patient benefit through global team science.
+In my previous position as a Postdoctoral Research Associate in [Cao Lab](https://caolab.wustl.edu/) at Washington University in St. Louis, I was part of [Team PROSPECT](https://www.cancergrandchallenges.org/prospect) (Pathways, Risk factors, and mOlecueS to Prevent Early-onset Colorectal Tumors), an international research collaboration funded by the [Cancer Grand Challenges](https://www.cancergrandchallenges.org/) initiative, co-founded by the two largest funders of cancer research in world, *Cancer Research UK* and the *National Cancer Institute* in the U.S. This prestigious program builds an elite, interdisciplinary community to tackle cancer’s most complex problems, and aims to accelerate high-impact research and translate discoveries for public and patient benefit through global team science.
 
-My research in this team focuses specifically on the [early-onset cancers challenge](https://www.cancergrandchallenges.org/challenges/active-challenges/early-onset-cancers), seeking to understand the global increase in cancer incidence among adults under age of 50. This worrying trend of multiple cancer types cannot be fully explained by increased screening alone. We explore various changes in lifestyle and environmental exposures and risk factors, to uncover the underlying mechanisms driving these trends and to guide prevention strategies, with a focus on [early-onset colorectal cancer](https://pubmed.ncbi.nlm.nih.gov/42649278/).
+Under supervision of [Professor Yin Cao](https://surgery.wustl.edu/people/yin-cao/), my research in this team focused on the [early-onset cancers challenge](https://www.cancergrandchallenges.org/challenges/active-challenges/early-onset-cancers), seeking to understand the global increase in cancer incidence among adults under age of 50. We explored various changes in lifestyle and environmental exposures and risk factors, to uncover the underlying mechanisms driving the observed edpidemiological trends and to guide prevention strategies, with a focus on [early-onset colorectal cancer](https://pubmed.ncbi.nlm.nih.gov/42649278/).
 
 [![](media/3_Projects/PROSPECT_CGC.png){width=60% fig-align="center"}](https://www.cancergrandchallenges.org/prospect)
 
 ## Biomarkers of Osteoarthritis
 
-In my previous role as a Research Data Analyst at the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), University of Leeds, I contributed to the data analysis of clinical studies and biomarker research, with a focus on osteoarthritis, under the supervision of [Professor Philip Conaghan](https://medicinehealth.leeds.ac.uk/medicine/staff/236/professor-philip-conaghan), [Dr. Sarah Kingsbury](https://medicinehealth.leeds.ac.uk/medicine/staff/514/dr-sarah-kingsbury), and [Dr. Liz Hensor](https://medicinehealth.leeds.ac.uk/medicine/staff/418/liz-hensor). By analyzing data from multiple osteoarthritis patient cohorts, including [The Osteoarthritis Initiative (OAI)](https://nda.nih.gov/oai), my research aimed to identify biomarkers associated with pain and other clinical outcomes in individuals living with osteoarthritis.
+In my previous role as a Research Data Analyst at the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), University of Leeds, I contributed to the research and data analysis of clinical studies and biomarker data, with a focus on osteoarthritis, under the supervision of [Professor Philip Conaghan](https://medicinehealth.leeds.ac.uk/medicine/staff/236/professor-philip-conaghan), [Professor Sarah Kingsbury](https://medicinehealth.leeds.ac.uk/medicine/staff/514/dr-sarah-kingsbury), and [Dr. Liz Hensor](https://medicinehealth.leeds.ac.uk/medicine/staff/418/liz-hensor). By analyzing data from multiple osteoarthritis patient cohorts, including [The Osteoarthritis Initiative (OAI)](https://nda.nih.gov/oai), my research aimed to identify biomarkers associated with pain and other clinical outcomes in individuals living with osteoarthritis.
 
 [![](media/3_Projects/OAI.png){width=40% fig-align="center"}](https://nda.nih.gov/oai)
 
@@ -63,11 +67,13 @@ I was part of the [CovidSurg Collaborative](https://globalsurg.org/covidsurg/), 
 
 [![](media/3_Projects/covidsurg.png){fig-align="center"}](https://globalsurg.org/covidsurg3/)
 
-## Clinical Projects
+## Other Clinical Projects
 
 During my medical training and post-graduation, I had the opportunity to work closely with clinical supervisors across various surgical specialties, contributing to research in multiple domains:
 
-* **Otolaryngology–Head & Neck Surgery**: My clinical research journey began in medical school, where I did my MD thesis on the [clinical characteristics of benign vocal fold lesions and the voice handicap index assessment of these laryngeal conditions](https://pubmed.ncbi.nlm.nih.gov/39971675/).
+* **Gastrointestinal Diseases**: I have worked with GI specialists at WashU on [prevalence and outcomes associated with hypertriglyceridemia in alcohol-associated acute pancreatitis](https://journals.lww.com/ajg/abstract/10.14309/01.ajg.0001209712.40311.83~s115prevalence-and-outcomes-associated-with?redirectionsource=fulltextview).
+
+* **Otolaryngology–Head & Neck Surgery**: As first step in my clinical research journey, I did my MD thesis on the [clinical characteristics of benign vocal fold lesions and the voice handicap index assessment of these laryngeal conditions](https://pubmed.ncbi.nlm.nih.gov/39971675/).
 
 * **Colorectal Surgery**: I contributed to data collection, analysis, and publication of a study entitled [investigating prognostic factors for disease recurrence and overall survival following curative colon cancer resection, based on a 10-year patient cohort](https://pubmed.ncbi.nlm.nih.gov/36479535/). Additionally, I participated in a study on [surgical outcomes of encapsulated peritoneal sclerosis associated with peritoneal dialysis](https://link.springer.com/article/10.1007/s12262-022-03339-x).
 
@@ -86,3 +92,5 @@ During my medical training and post-graduation, I had the opportunity to work cl
 * **OB/GYN Surgery**: Collaborating with a team of obstetricians and gynecologists during the COVID-19 pandemic, I contributed to data analysis of two studies on [comparative analysis of corticosteroid therapy in pregnant women with COVID-19](https://brieflands.com/journals/fga/articles/142142) and [Sinopharm COVID-19 vaccine (BBIBP-CorV) safety and side effects during pregnancy](https://www.jogcr.com/article_722008.html).
 
 Through these multidisciplinary collaborations, I gained comprehensive clinical research experience, contributing to high-impact studies that bridge clinical practice with scientific advancements.
+
+For the full list of my publications, please visit the [publications page](publications.qmd).
