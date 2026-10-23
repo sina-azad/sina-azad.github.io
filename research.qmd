@@ -71,7 +71,7 @@ I was part of the [CovidSurg Collaborative](https://globalsurg.org/covidsurg/), 
 
 During my medical training and post-graduation, I had the opportunity to work closely with clinical supervisors across various surgical specialties, contributing to research in multiple domains:
 
-* **Gastrointestinal Diseases**: I have worked with GI specialists at WashU on [prevalence and outcomes associated with hypertriglyceridemia in alcohol-associated acute pancreatitis](https://journals.lww.com/ajg/abstract/10.14309/01.ajg.0001209712.40311.83~s115prevalence-and-outcomes-associated-with?redirectionsource=fulltextview).
+* **Gastrointestinal Diseases**: I have worked with GI specialists at WashU on [prevalence and outcomes associated with hypertriglyceridemia in alcohol-associated acute pancreatitis](https://journals.lww.com/ajg/abstract/10.14309/01.ajg.0001209712.40311.83~s115prevalence-and-outcomes-associated-with).
 
 * **Otolaryngology–Head & Neck Surgery**: As first step in my clinical research journey, I did my MD thesis on the [clinical characteristics of benign vocal fold lesions and the voice handicap index assessment of these laryngeal conditions](https://pubmed.ncbi.nlm.nih.gov/39971675/).
 
