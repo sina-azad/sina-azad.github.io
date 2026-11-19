@@ -9,7 +9,7 @@ I am a medical doctor and researcher with a passion for advancing knowledge in c
 I hold a Doctor of Medicine (MD) degree from *Tehran University of Medical Sciences*, where I conducted my thesis on the [clinical characteristics of benign vocal fold lesions](https://pubmed.ncbi.nlm.nih.gov/39971675/). Complementing my clinical training, I completed a Master of Public Health (MPH) training at *Iran University of Medical Sciences*, with my thesis focusing on the [global assessment of breast cancer epidemiology and quality of care](https://pubmed.ncbi.nlm.nih.gov/37124828/).
 
 ## {{< fa user-tie >}} Professional Experience
-Currently, I am a Research Fellow in Health Epidemiology in the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), at *Faculty of Medicine and Health, University of Leeds*, working on large linked health datasets and advanced statistical and pharmacoepidemiology methods to better understand osteoarthritis and other long-term conditions, and to explore how emerging treatments may affect musculoskeletal health.
+Currently, I am a [Research Fellow in Health Epidemiology](https://medicinehealth.leeds.ac.uk/staff/11892/dr-sina-azadnajafabad) in the [Leeds Institute of Rheumatic and Musculoskeletal Medicine](https://medicinehealth.leeds.ac.uk/leeds-institute-rheumatic-musculoskeletal-medicine), at *Faculty of Medicine and Health, University of Leeds*, working on large linked health datasets and advanced statistical and pharmacoepidemiology methods to better understand osteoarthritis and other long-term conditions, and to explore how emerging treatments may affect musculoskeletal health.
 
 **My previous roles:**
 
