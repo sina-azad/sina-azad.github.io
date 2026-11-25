@@ -36,6 +36,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: posts.qmd
+        text: Blog
       - href: updates.qmd
         text: Updates
       - href: resources.qmd

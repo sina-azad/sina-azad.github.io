@@ -1,0 +1,20 @@
+# options specified here will apply to all posts in the posts folder ----
+
+# re-render posts only when a change to the source file is made ----
+freeze: auto
+
+# banner style title blocks ----
+title-block-banner: black
+title-block-banner-color: white
+title-block-style: default
+
+# my author info ----
+author: 
+  - name: Sina Azadnajafabad
+    url: https://sinaazad.com/
+    orcid: 0000-0003-0105-3801
+
+# bibliography and citation style ----
+bibliography: references.bib
+csl: jama.csl
+# appendix-cite-as: display
